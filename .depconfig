@@ -1,2 +1,9 @@
 [core]
-	default-dep-dir = dep
+	default-dep-dir = themes
+
+[dep "hugo-strata-theme"]
+	relpath = themes/hugo-strata-theme
+	url = git@github.com:harveyt/hugo-strata-theme.git
+	vcs = git
+	branch = refs/heads/moysetutoring
+	commit = bca3b7b12aebd206dae445f4415c88ee59f215f3
