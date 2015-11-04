@@ -24,8 +24,8 @@ theme = "hugo-strata-theme"
 		dribbble = ""
 
 		copyright = [
-			"&copy; Su Thompson",
-			"Design: [HTML5 UP](//html5up.net)"
+			"&copy; 2015 Su Thompson",
+			"Powered by [Hugo](https://gohugo.io) Design by: [HTML5 UP](//html5up.net)"
 		]
 
 
