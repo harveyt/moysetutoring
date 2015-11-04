@@ -25,7 +25,7 @@ theme = "hugo-strata-theme"
 
 		copyright = [
 			"&copy; 2015 Su Thompson",
-			"Powered by [Hugo](https://gohugo.io) Design by: [HTML5 UP](//html5up.net)"
+			"Powered by: [Hugo](https://gohugo.io) - Design by: [HTML5 UP](//html5up.net)"
 		]
 
 
@@ -86,7 +86,8 @@ theme = "hugo-strata-theme"
 			"VXX XXX",
 			"Canada"
 		]
-		phone = "604-555-1234"
+		address_url = "https://www.google.ca/maps/place/2183+Fir+St,+Vancouver,+BC+V6J+3B5/@49.2663716,-123.1414656,19z/data=!3m1!4b1!4m2!3m1!1s0x548673c86913cabf:0x6d6e32e95fbf4eba"
+		phone = "604-757-2596"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
