@@ -17,7 +17,14 @@ theme = "hugo-strata-theme"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "SuHeadshot.jpeg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "<i>“We are exploring together. We are cultivating a garden together, backs to the sun. The question is a hoe in our hands and we are digging beneath the hard and crusty surface to the rich humus of our lives.”</i> - Parker J. Palmer"
+		bio = """
+
+*“We are exploring together. We are cultivating a garden together,
+ backs to the sun. The question is a hoe in our hands and we are
+ digging beneath the hard and crusty surface to the rich humus of our
+ lives.”* - Parker J. Palmer
+
+"""
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
@@ -31,8 +38,21 @@ theme = "hugo-strata-theme"
 
 	[params.about]
 		title = "Moyse Tutoring"
-		content = "Private tutoring is a growing endeavour in Vancouver: many high school and college students benefit from extra tuition. It may be that they struggle with a particular subject or have a demanding project to complete; or that they are preparing for further education, or need help composing an essay.  Some need a couple of sessions, some require many more. But all need a skilled tutor who will come alongside them, to help them through.<p>Moyse Tutoring will offer after school, Saturday and school holiday tutoring, for one or two students at a time, at the company’s tutoring room located in the Kitsilano/Granville Island neighbourhood. Both English and Social Studies will be offered. Moyse Tutoring is a sole proprietorship owned and operated by Su Thompson."
+		content = """
+Private tutoring is a growing endeavour in Vancouver: many high school
+and college students benefit from extra tuition. It may be that they
+struggle with a particular subject or have a demanding project to
+complete; or that they are preparing for further education, or need
+help composing an essay.  Some need a couple of sessions, some require
+many more. But all need a skilled tutor who will come alongside them,
+to help them through.
 
+Moyse Tutoring will offer after school, Saturday and school holiday
+tutoring, for one or two students at a time, at the company’s tutoring
+room located in the Kitsilano/Granville Island neighbourhood. Both
+English and Social Studies will be offered. Moyse Tutoring is a sole
+proprietorship owned and operated by Su Thompson.
+"""
 
 	[params.portfolio]
 		title = "Recent Work"
