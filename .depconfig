@@ -6,4 +6,4 @@
 	url = git@github.com:harveyt/hugo-strata-theme.git
 	vcs = git
 	branch = refs/heads/moysetutoring
-	commit = 584e9d9259dba77cb83eae625f2b14551cd5b2f5
+	commit = e41e1fb9e66761a4cbce6c535d05511cc5f3ac94
