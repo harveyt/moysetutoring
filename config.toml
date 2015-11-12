@@ -103,12 +103,12 @@ Since then, Su has worked as a part-time tutor in English and Social Studies for
 		content = "Feel free ask questions by email, phone or sending a message."
 
 		address = [
-			"Address Line 1.",
-			"Kitsalano, Vancouver, BC",
-			"VXX XXX",
+			"Address Line 1",
+			"Address Line 2",
+			"Post Code",
 			"Canada"
 		]
-		address_url = "https://www.google.ca/maps/place/2183+Fir+St,+Vancouver,+BC+V6J+3B5/@49.2663716,-123.1414656,19z/data=!3m1!4b1!4m2!3m1!1s0x548673c86913cabf:0x6d6e32e95fbf4eba"
+		# address_url = ""
 		phone = "604-757-2596"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
