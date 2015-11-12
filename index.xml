@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moyse Tutoring</title>
-    <link>http://www.610yesnolovely.org/moysetutoring/</link>
+    <link>http://www.moysetutor.ca/</link>
     <description>Recent content on Moyse Tutoring</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="http://www.610yesnolovely.org/moysetutoring/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.moysetutor.ca/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
