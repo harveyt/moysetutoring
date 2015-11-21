@@ -16,15 +16,8 @@ theme = "hugo-strata-theme"
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "SuHeadshot.jpg"
-		# Use Markdown to format the string. This works nearly all over the theme
-		bio = """
-
-*“We are exploring together. We are cultivating a garden together,
- backs to the sun. The question is a hoe in our hands and we are
- digging beneath the hard and crusty surface to the rich humus of our
- lives.”* - Parker J. Palmer
-
-"""
+		bio = ""
+		
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
@@ -37,24 +30,8 @@ theme = "hugo-strata-theme"
 
 
 	[params.about]
-		title = "Moyse Tutoring"
-		content = """
-
-Moyse Tutoring is as a place where students receive knowledgable, skilled, bespoke tuition in English and Social studies. High school and university/college students often require extra help with their courses: it may be that they struggle with a particular subject or have a demanding project to complete; or that they are preparing for further education, or need help composing an essay. Some will need just a couple of sessions, some will require many more. It is the aim of Moyse Tutoring to work alongside the student to find the best teaching and learning methods and the most appropriate resources to help the student achieve their goals, and keep parents/guardians appraised of progress. 
-
-All tutoring take place in our tutoring room, a space that that allows students to feel at home, but that allows them to focus on the task in hand, and make the very most of the time given.  All materials and resources are of a very high quality. Wholesome snacks and warm drinks/water are available.
-
-Tutition will take place from 3.30pm to 8.30pm on Monday, Wednesday and Thursday evenings, and from 11am to 6pm on Saturdays. Tutoring will also be available as needed during the school holidays, and at other times by arrangement. Potential clients will are assessed initially by free 20-30 minute consultation so that tuition can be arranged. 
-
-Su Thompson
------------
-
-After many years in marketing and sales, Su Thompson re-trained as a secondary school teacher in London, England. After five very successful years at three different secondary schools, she and her husband moved to Canada in December 2004. 
-
-For two years, Su worked at a private high school in Vancouver, teaching Geography 12, Planning 10 and Social Studies 11. Later, she decided to pursue post-graduate studies, and gained her Master’s degree (Curriculum and Pedagogy), from the University of British Columbia in 2013.
-
-Since then, Su has worked as a part-time tutor in English and Social Studies for a small independent academy, where she accrued many enthusiastic and very attached students. She has gained a reputation as a much sought-after and popular tutor and has very clear idea of how tutoring should be directed, and firmly believes that there is a need for exceptional, high quality tuition that is purpose-built for the individual student.
-"""
+		title = ""
+		content = ""
 
 	[params.portfolio]
 		title = "Recent Work"
