@@ -80,9 +80,10 @@ theme = "hugo-strata-theme"
 		content = "Feel free ask questions by email, phone or sending a message."
 
 		address = [
-			"Address Line 1",
-			"Address Line 2",
-			"Post Code",
+			"211 - 2628 Granville Street",
+			"Vancouver",
+			"BC",
+			"V6H 4B4",
 			"Canada"
 		]
 		# address_url = ""
