@@ -10,7 +10,7 @@ theme = "hugo-strata-theme"
 	description = "Moyse Tutoring at Kitsalno, Vancouver, BC, Canada."
 
 	# Enable Google Analytics by inserting your tracking code
-	googleAnalytics = ""
+	googleAnalytics = "UA-71830715-1"
 
 
 	[params.sidebar]
