@@ -86,7 +86,7 @@ theme = "hugo-strata-theme"
 			"V6H 4B4",
 			"Canada"
 		]
-		address_url = "https://www.google.ca/maps/place/2628+Granville+St,+Vancouver,+BC+V6H+3H8/@49.2622092,-123.1406226,17z/data=!3m1!4b1!4m2!3m1!1s0x548673c761de1ee1:0xc646300b0c1516de"
+		address_url = "https://www.google.ca/maps/dir/''/moyse+tutoring/@49.262188,-123.1471904,15z/data=!4m8!4m7!1m0!1m5!1m1!1s0x548673c761e51677:0x6a2bdc181f6e3677!2m2!1d-123.1384339!2d49.2622092"
 		phone = "604-757-2596"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
