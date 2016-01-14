@@ -88,7 +88,7 @@ theme = "hugo-strata-theme"
 		]
 		address_url = "https://www.google.ca/maps/place/Moyse+Tutoring/@49.262188,-123.1471904,15z/data=!4m15!1m12!4m11!1m3!2m2!1d-123.1383928!2d49.2628882!1m6!1m2!1s0x548673c761e51677:0x6a2bdc181f6e3677!2smoyse+tutoring!2m2!1d-123.1384339!2d49.2622092!3m1!1s0x548673c761e51677:0x6a2bdc181f6e3677"
 		phone = "604-757-2596"
-		linkedin = "Su Thompson (Linked In)"
+		linkedin = "Su Thompson (LinkedIn)"
 		linkedin_url = "https://ca.linkedin.com/in/su-thompson-m-a-403917110"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
