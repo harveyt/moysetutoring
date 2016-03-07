@@ -1,3 +1,3 @@
-/public/
-/publish/
+/.deploy/
+/.preview/
 /themes/hugo-strata-theme
