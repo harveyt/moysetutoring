@@ -90,8 +90,8 @@ theme = "hugo-strata-theme"
 		phone_url = "778-321-8717"
 		linkedin = "Su Thompson (LinkedIn)"
 		linkedin_url = "https://ca.linkedin.com/in/su-thompson-m-a-403917110"
-		facebook = "Moyse Tutoring (Facebook)"
-		facebook_url = "https://www.facebook.com/moysetutoring/"
+		# facebook = "Moyse Tutoring (Facebook)"
+		# facebook_url = "https://www.facebook.com/moysetutoring/"
 
 		# Since this template is static, the contact form uses www.formspree.io as a
 		# proxy. The form makes a POST request to their servers to send the actual
