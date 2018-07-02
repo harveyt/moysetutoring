@@ -6,10 +6,8 @@ keywords:
 ---
 
 History and all that clan malarky.  
-You can take it or leave it.  
+<!--more-->You can take it or leave it.  
 I'd rather leave it if you don't mind.
-
-<!--more-->	
  
 Too cumbersome to carry about,  
 like having to manoeuvre a four-tier wedding cake  

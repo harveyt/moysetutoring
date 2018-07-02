@@ -58,7 +58,11 @@ not to draw Mrs. Hardy’s scrutiny. Our books are collected at the end of class
 accolade I can never reach. It is an honour only bestowed on one of Mrs. Hardy’s
 favourites. However, towards the end of the year I finally have something interesting to write for
 my “news” book.
-		
+
+<center>
+<img style="max-width:30em;" src="/images/IMG_0489_edit.jpg" alt="Pebbles Picture"/>
+</center>
+
 It had been a average day at St.Leonards-on-Sea, home to my great aunt and uncle.  We had driven
 down in the white Austin 1100: Mum and dog in the passenger seat, Dad, of course, driving, three
 sisters on the back seat with the picnic basket and thermos flasks tucked under our feet. We parked
