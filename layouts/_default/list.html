@@ -1,0 +1,23 @@
+{{ partial "head" . }}
+	<body id="top">
+		{{ partial "header" . }}
+
+		{{ "<!-- Main -->" | safeHTML }}
+		<div id="main">
+		  <h1 class="major" style="line-height: 1.2em">
+		    Su Thompson
+		    <br/>
+		    <div style="font-size:75%">Writing</div>
+		  </h1>
+		  {{ range .Data.Pages.ByDate }}
+		  <h3 style="color: #90d0ff"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+		  <p><i>{{.Date.Format "Jan 2006"}}</i>
+		  <p>
+		    {{ .Summary }}
+		  {{ end }}
+		</div>
+		
+		{{ partial "footer" . }}
+	</body>
+</html>
+		
