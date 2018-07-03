@@ -48,7 +48,7 @@ wrong with the outboard motor and Uncle L--- is trying to fix it. While we wait,
 among the rocks looking for shells. Meantime, my sister grumpily throws pebbles into the loch, as if
 they had done something to irritate her. The boat is ready, and the we head towards our uncle who is
 calling to us; my sister marches in front with me trailing behind. We clamber in, and sit opposite
-each other on the bow. Their Uncle L--- is at the stern, steering us through the shadowy water. I
+each other on the bow. Our Uncle L--- is at the stern, steering us through the shadowy water. I
 watch my sister under my fringe. I cannot quite trust her; the barbed-wire fence has taught me as
 much.
 
