@@ -17,7 +17,7 @@ it just gets irritating and awkward.
 
 Having to remember this and ponder on that,  
 and try to work out who's who and who's not.  
-Who’s kith and who is kin, and what our forebears bore.
+Who’s kith and who is kin, and what our forebearers bore.
 
 Best to leave that kind of baggage neatly stored  
 in a hat box on the top shelf of the cupboard,  
