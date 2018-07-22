@@ -12,7 +12,7 @@ I quite like my uniform: brown dress, brown beret and yellow cross-over tie. I g
 since my sisters have both progressed up to Guides. I’m glad of it. I’m getting tired of my sisters’
 practical jokes at my expense; the latest prank requires me to retrieve my beret from the garden of
 a house on the way to Brownies. It is named “Berry Bank”, so my sister flung my beret over the
-fence, insisting that’s where berets went: “Berry-beret, berry-beret–– ha! ha!” It is wearisome, and
+fence, insisting that’s where berets went: “Berry-beret, berry-beret--- ha! ha!” It is wearisome, and
 not at all funny, and I’m happy to be walking alone. Besides, I am now seven, and perfectly capable
 of making the fifteen minute walk by myself. There is only one busy road to cross, by the pub: “Look
 right, look left, look right again, all clear? Quick march!” Having been a Brownie for a year or so,
