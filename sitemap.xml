@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.moysetutoring.ca/post/shelter/</loc>
+    <lastmod>2018-08-05T12:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.moysetutoring.ca/post/hastings/</loc>
+    <lastmod>2018-08-05T11:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.moysetutoring.ca/post/aquarius/</loc>
     <lastmod>2018-07-21T13:00:00-08:00</lastmod>
   </url>
@@ -49,13 +59,13 @@
   
   <url>
     <loc>http://www.moysetutoring.ca/</loc>
-    <lastmod>2018-07-21T13:00:00-08:00</lastmod>
+    <lastmod>2018-08-05T12:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.moysetutoring.ca/post/</loc>
-    <lastmod>2018-07-21T13:00:00-08:00</lastmod>
+    <lastmod>2018-08-05T12:00:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
