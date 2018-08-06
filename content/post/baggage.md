@@ -1,12 +1,12 @@
 ---
 date: "2018-03-13T11:00:00-08:00"
 title: "Baggage"
-description: ""
+description: "History and all that clan malarky."
 keywords:
 ---
 
 History and all that clan malarky.  
-<!--more-->You can take it or leave it.  
+You can take it or leave it.  
 I'd rather leave it if you don't mind.
  
 Too cumbersome to carry about,  

@@ -1,12 +1,12 @@
 ---
 date: "2017-10-04T11:00:00-08:00"
 title: "Synaesthesia"
-description: ""
+description: "Vision is always synaesthetic."
 keywords:
 ---
 
 Vision is always synaesthetic.  
-<!--more-->Impure, permeable, blurry.  
+Impure, permeable, blurry.  
 Other senses come creeping in,  
 unwelcome and bad-tempered,  
 not wiping their feet and demanding cups of tea. 

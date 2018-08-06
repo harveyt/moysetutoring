@@ -1,12 +1,12 @@
 ---
 date: "2017-04-27T11:00:00-08:00"
 title: "Fur Coat"
-description: ""
+description: "Big man, beaming toothless."
 keywords:
 ---
 
 Big man, beaming toothless.  
-<!--more-->Lurching lumpily onto the bus,  
+Lurching lumpily onto the bus,  
 Bags crunching and rattling  
 With cans and bottles,  
 Pleased with his meagre treasure  

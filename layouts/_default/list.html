@@ -13,7 +13,7 @@
 		  <h3 style="color: #90d0ff"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
 		  <p><i>{{.Date.Format "Jan 2006"}}</i>
 		  <p>
-		    {{ .Summary }}
+		    {{ if .Description }}{{ .Description }}{{ else }}{{ .Summary }}{{ end }}
 		  {{ end }}
 		</div>
 		
