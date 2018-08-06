@@ -5,11 +5,13 @@ description: ""
 keywords:
 ---
 
-
 The girl sits crosslegged on the classroom floor, listening to “Skimbleshanks the Railway Cat”. She
 twiddles her hair, bewitched by the clever, whimsical poem.
+<!--more-->
 
-<!--more-->	
+<center>
+❦
+</center>
 
 Our classroom is outside the main school building. It is pre-fab, and probably not intended for
 long-term use; it seems to have decided to put down roots and take up permanent residence. There are
@@ -23,22 +25,21 @@ harsh with her marking. She’s given me a miserly six out of ten for a piece th
 time on, and I want to protest. She has written, “What has happened to your writing?” at the end of
 my work. After class, I get in the queue at her desk to register my dissatisfaction with her
 assessment. I point to her comment and say, “Sorry, Miss, I can’t read this.” She huffs and tuts,
-and says her writing is perfectly clear, muttering, “Anyway, what has happened to your writing?” I
-shrug, and walk back to my desk, satisfied with my small victory.  It is around this time that we
-have a fire along the back fence of next door’s garden adjacent to the alley way and on the border
-of an old council dump. (I don’t think the two events are connected.) This provides me with another
-small victory as I finally have a picture pinned up on our classroom display: “There was a fire in
-Susan’s road”, says the neatly-written caption. I’ve attempted to portray the scene, but a fence on
-fire is not that dramatic, and there has been a certain amount of artistic licence. The huge red and
-orange flames are a bit of an exaggeration, and the startled looks on the faces of the firemen are
-probably misrepresented.
+and says her writing is perfectly clear, and mutters, “Anyway, what has happened to your writing?” I
+shrug, and walk back to my desk, satisfied with my small win.  It is around this time that we have a
+fire along the back fence of next door’s garden, adjacent to the alley way and on the border of an
+old council dump. This provides me with another small win as I finally have a picture pinned up on
+our classroom display: “There was a fire in Susan’s road”, says the neatly-written caption. I’ve
+attempted to portray the scene, but a fence on fire is not that dramatic, and there has been a
+certain amount of artistic licence. The huge red and orange flames are a bit of an exaggeration, and
+the startled looks on the faces of the firemen are probably misrepresented.
 
-Several girls in my class all have the same dress: gingham pattern, Peter Pan collar, full skirt, it
-comes in different pastel shades. D— has yellow, L--- has green, B--- has blue, and H--- has pink. It
-can be purchased from a ladies’ magazine – “Woman”, I think. I want to have one of these pretty
-dresses, but my mother would deride such an idea if I ask her – “Why buy something when you could
-have something perfectly nice that is homemade?”  So, I make do with my red-and-white striped shift
-dress with the appliquéd daisies around the hem.
+This summer, several girls in my class all have the same dress: gingham pattern, Peter Pan collar,
+full skirt, it comes in different pastel shades. D— has yellow, L--- has green, B--- has blue, and
+H--- has pink. It can be purchased from a ladies’ magazine – “Woman”, I think. I want to have one of
+these pretty dresses, and ask my mum: “I don’t give a tuppenny damn what the other girls in your
+class are wearing. Why buy something when you have something perfectly nice that is homemade?”  So,
+I make do with my red-and-white striped shift dress with the appliquéd daisies around the hem.
 
 Assembly is our start to the day. Once we have hung our coats on our allotted pegs, we can file into
 the classroom for Mrs. P--- to take the register. We then all file out again across the playground,
@@ -50,7 +51,7 @@ piano, too, and I think he’s much better than Mrs. H---. I like the hymns. “
 is one of the best. I’m not quite sure what it means to be a pilgrim, but I get the gist, and think
 I might like to be a pilgrim when I grow up. Assemblies are always a bit of a struggle, since, a) it
 is hard to sit still for twenty minutes, and b) Mrs. P--- is on the look out for fidgeting, so I’m
-frequently scolded for wriggling during Mr. K---’s announcements. We are often asked to pray for the
+frequently scolded for wriggling during Mr. K---’s announcements. We are often asked to pray for The
 Troubles in Northern Ireland to be over soon. I’m not too sure what is happening, but it sounds very
 serious, and I’m sad for the people who live there.
 
@@ -75,13 +76,17 @@ artwork. Clearly a painting with such an appalling lack of talent deserves to be
 not on the wall.
 
 Whilst my artistic talents are in question, my poetry appreciation is not. Mrs P--- introduces us to
-“Old Possum’s Book of Practical Cats”. I’m hypnotised and enthralled: for once I don’t fidget. I’m
-drawn in by these stories and characters, masterfully depicted by a master of language and rhyme. My
-favourite is “Growltiger’s Last Stand”: it’s a bittersweet story of a pirate moggy who gets his
-comeuppance. He ends up having to walk the plank: “Ker-flip, ker-flop.” I feel conflicted I like
-this idea of justice, but I’m also sorry for Growltiger who is probably not as bad as his made out
-and is nice to his granny. I’m hoping that he can swim, and given that he is pirate, I’m assuming he
-can. I buy a copy of the book with my pocket money and begin to memorise the poems.
+“Old Possum’s Book of Practical Cats”. I’m hypnotised and enthralled, and for once I don’t
+fidget. I’m drawn in by these stories and characters, masterfully depicted by a master of language
+and rhyme. My favourite is “Growltiger’s Last Stand”: it’s a bittersweet story of a pirate moggy who
+gets his comeuppance. He ends up having to walk the plank: “Ker-flip, ker-flop.” I feel conflicted I
+like this idea of justice, but I’m also sorry for Growltiger, who is probably not as bad as his made
+out and is nice to his granny. I’m hoping that he can swim, and given that he is pirate, I’m
+assuming he can. I buy a copy of the book with my pocket money and begin to memorise the poems.
+
+<center>
+❦
+</center>
 
 The woman sits at her vintage teacher’s desk, reading “The Hollow Men”. She twiddles her hair,
 mesmerised by the poignant, inspirational poem.
