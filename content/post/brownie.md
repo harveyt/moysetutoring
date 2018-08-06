@@ -6,31 +6,33 @@ keywords:
 ---
 
 It is Wednesday evening, and the eager Brownie Guide is making her way down the hill to the Baptist
-church hall.<!--more-->
+church hall.
+<!--more-->
 
-I quite like my uniform: brown dress, brown beret and yellow cross-over tie. I go on my own now,
-since my sisters have both progressed up to Guides. I’m glad of it. I’m getting tired of my sisters’
-practical jokes at my expense; the latest prank requires me to retrieve my beret from the garden of
-a house on the way to Brownies. It is named “Berry Bank”, so my sister flung my beret over the
-fence, insisting that’s where berets went: “Berry-beret, berry-beret--- ha! ha!” It is wearisome, and
-not at all funny, and I’m happy to be walking alone. Besides, I am now seven, and perfectly capable
-of making the fifteen minute walk by myself. There is only one busy road to cross, by the pub: “Look
-right, look left, look right again, all clear? Quick march!” Having been a Brownie for a year or so,
-I’m starting to collect triangular proficiency badges: hostess, swimming, safety in the home. I’m an
-Elf, which means I have a little embroidered blue fellow doing his best to leap from a badge. The
-Brownie uniform has recently changed: pockets on skirt rather than chest. My mother has meticulously
-unpicked the pockets and sewn them on the skirt of my hand-me-down dress. However, the operation is
-not as successful as she had hoped, lines of stitches and lots of little holes are left behind.
+<center>
+❦
+</center>
+
+I quite like my Brownie uniform: brown dress, brown beret and yellow cross-over tie. I go on my own
+now, since my sisters have both progressed up to Guides. Besides, I am now seven, and perfectly
+capable of making the fifteen minute walk by myself. There is only one busy road to cross, by the
+pub: “Look right, look left, look right again, all clear? Quick march!” Having been a Brownie for a
+year or so, I’m starting to collect triangular proficiency badges: hostess, swimming, safety in the
+home, thrift. I’m an Elf, which means I have a little embroidered blue fellow doing his best to leap
+from a badge. The Brownie uniform has recently changed: pockets on the skirt of the dress rather
+than the chest. My mother has meticulously unpicked the pockets and sewn them on the skirt of my
+hand-me-down dress. However, the operation is not as successful as she had hoped, lines of stitches
+and lots of little holes are left behind.
 
 The church hall has a very distinctive smell: part floor polish, part damp and mould.  In winter,
 the ageing radiators find it difficult to keep up, and it is generally dank and a little
-chilly. Brownies always starts with a song and subs: _“We’re Brownie Guides, we’re Brownie Guides,
-we’re here to lend a hand…”_ We line up to put our threepence worth of coins on the floor in the
-shape of a letter, skipping along to the song. Tonight I have a threepenny bit, which I place down
-carefully. Usually, Brownies is a routine mixture of games and songs, but tonight is a fancy dress
-party, a “Tramps Supper”. It is coming up to Bonfire Night, and to celebrate we are having a fancy
-dress party in which we all dress as tramps: scruffy clothes and scuffed boots, uncombed hair and
-grubby faces. I am looking forward to the baked potatoes and treacle toffee.
+chilly. Brownie nights always start with a song and subs: _“We’re Brownie Guides, we’re Brownie
+Guides, we’re here to lend a hand…”_ We line up to put our threepence worth of coins on the floor in
+the shape of a letter, skipping along to the song. Tonight I have a threepenny bit, which I place
+down carefully. Usually, Brownies is a routine mixture of games and songs, but tonight is a fancy
+dress party, a “Tramps Supper”. It is coming up to Bonfire Night, and to celebrate we are having a
+fancy dress party in which we all dress as tramps: scruffy clothes and scuffed boots, uncombed hair
+and grubby faces. I am looking forward to the baked potatoes and treacle toffee.
 
 We all line up, shuffling and giggling; Brown Owl and Snowy Owl are judges, walking up and down to
 choose the winner and runner-up. My mum has come up with a slightly different take on the tramp
@@ -55,8 +57,12 @@ Goodnight, Goodnight.
 
 Afterwards, I wait outside for my dad to pick me up. He’s on time. I close the car door carefully
 and we drive home in silence. Back home, back in the bedroom I share with my sister, I screw my
-Brownie uniform into a tight ball before throwing it indignantly into the wash basket. My sister
+Brownie uniform into a tight ball before throwing it indignantly into the laundry basket. My sister
 watches, but she doesn’t ask, and I don’t tell.
+
+<center>				
+❦
+</center>
 
 It is Wednesday evening, and the the woman is on her hands and knees, putting the last brushstrokes
 onto the carnival float that she has designed. On Saturday, it will win first prize in the town
