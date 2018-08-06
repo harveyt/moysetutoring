@@ -7,13 +7,16 @@ keywords:
 
 The girl with the too-short hair cut makes her way down the dirt path. She is taking the short cut
 beside the football pitch; it peters out at the edge of the sea loch.
-
 <!--more-->	
 
+<center>
+❦
+</center>
+
 I tread with care; my wooden Dr. Scholl’s sandals are not designed for this terrain and I am in
-danger of slipping. No matter. I can take my time since “uncle” L--- is still getting the little
-boat ready. There is a cool, salty breeze coming from the loch, but I’m warm in my Aran jumper. My
-mum made it specially for me; it has two rows of bobbly knots down the front that I twiddle with. My
+danger of slipping. No matter. I can take my time since “uncle” L--- is still getting the little boat
+ready. There is a cool, salty breeze coming from the loch, but I’m warm in my Aran jumper. My mum
+made it specially for me; it has two rows of bobbly knots down the front that I twiddle with. My
 shorts are still too big for me: hand-me-downs from my older sister that I have not quite grown
 into. I reach the bottom of the slope without too much difficulty and stop to inspect my leg. There
 are two pinky-red cloth plasters: one just inside my knee, and one on the outside of my ankle. They
@@ -24,7 +27,7 @@ watching, so I will not get the usual telling-off. “Only babies suck their thu
 scolds. At the water’s edge I put my toes into the water, testing it out. Too cold for swimming, but
 good for paddling.
 
-Further along I reach the mouth of the stream that runs beside our uncle’s cottage. here I have
+Further along I reach the mouth of the stream that runs beside our uncle’s cottage. Here I have
 spent gleeful hours exploring the narrow braided channels and miniature waterfalls. I like the
 cottage with its wobbly salt-scraped wooden floors and ancient hair-stuffed sofa bed. I like washing
 in the soft cold water. I like rifling through “auntie” N---’s draws: among the hair grips and
@@ -44,13 +47,13 @@ and scratchy pale woollen blankets. The cottage backs on to a rookery; at summer
 it difficult to get to sleep with their constant cawing and screeching. Last year, we scared
 ourselves half to death: we watched “The Birds” on the cottage’s old black-and-white television, and
 then huddled under the bed covers, terrified of the noise outside. My sister wants to know when the
-boat will be ready, but I don’t know. There is something wrong with the outboard motor and Uncle
-L--- is trying to fix it. While we wait, I take an amble among the rocks looking for
-shells. Meantime, my sister grumpily throws pebbles into the loch, as if they had done something to
-irritate her. The boat is ready, and the we head towards our uncle who is calling to us; my sister
-marches in front with me trailing behind. We clamber in, and sit opposite each other on the bow. Our
-Uncle L--- is at the stern, steering us through the shadowy water. I watch my sister under my
-fringe. I cannot quite trust her; the barbed-wire fence has taught me as much.
+boat will be ready, but I don’t know. There is something wrong with the outboard motor and Uncle L---
+is trying to fix it. While we wait, I take an amble among the rocks looking for shells. Meantime, my
+sister grumpily throws pebbles into the loch, as if they had done something to irritate her. The
+boat is ready, and the we head towards our uncle who is calling to us; my sister marches in front
+with me trailing behind. We clamber in, and sit opposite each other on the bow. Our Uncle L--- is at
+the stern, steering us through the shadowy water. I watch my sister under my fringe. I cannot quite
+trust her; the barbed-wire fence has taught me as much.
 
 Driving to the cottage we had both needed to wee, but since we were nowhere near a public
 convenience, Dad had to stop at the side of the road. A barbed-wire fence was between us and the
@@ -72,7 +75,7 @@ L--- cuts the motor, and the boat bobs for a time on the quiet surface. He sets 
 lets it out behind the boat. It barely makes a shimmer in the water as we move off, heading south
 towards the wide open inlet. Far too quickly, the line is being twisted and there is quick movement
 in the water. L--- shuts the engine, and carefully draws in the line. Three mackerel have been
-caught, their zebra backs iridescent as they are lifted out of the water. I can’t watch as he
+caught, their zebra backs iridescent as they are lifted out of the water. I can’t watch as her
 swiftly hits their heads against the bottom of the boat. Supper has been supplied, but I will refuse
 to eat it. I am sorry for the fish as they look up at me, surprised by their fate. I look out
 towards the inlet, miserable. I am alarmed to see the weather up ahead: storm clouds are moving
@@ -81,10 +84,12 @@ the boat around, his face grim and rigid. He says nothing as the storm bears dow
 rain is coming down in sheets and my sister and I exchange frightened glances, but do not speak,
 willing the little boat to the shore. As we near the rocky beach, L--- jumps out and pulls the boat
 up to safety. We scramble out onto the rocks and run as fast as our legs will carry us up the slope
-to the cottage. We arrive back, our Aaran jumpers soaked through. Mum instructs us girls to strip
-off our sodden clothes and we dry ourselves on scratchy blue towels. Dad and Uncle L--- chat together
-in the living room, watching the rain blurring the view of the loch. The storm passes over.
+to the cottage. We arrive back, our Aran jumpers soaked through. Mum instructs us girls to strip off
+our sodden clothes and we dry ourselves on scratchy blue towels. Dad and Uncle L--- chat together in
+the living room, watching the rain blurring the view of the loch. The storm passes over.
 
-The woman with the long curly hair makes her way down to the beach. Along the strand line,
-purposeful and ponderous, she searches for sea glass.
-
+<center>
+❦
+</center>
+		
+The woman with the long curly hair makes her way down to the beach. Along the strand line, purposeful and ponderous, she searches for sea glass.
