@@ -3,6 +3,7 @@ date: "2018-07-21T11:00:00-08:00"
 title: "Brownie"
 description: ""
 keywords:
+weight: 20
 ---
 
 It is Wednesday evening, and the eager Brownie Guide is making her way down the hill to the Baptist

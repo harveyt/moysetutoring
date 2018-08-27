@@ -3,6 +3,7 @@ date: "2018-08-05T11:00:00-08:00"
 title: "Hastings"
 description: ""
 keywords:
+weight: 50
 ---
 
 The girl with the milk-pale skin is paddling in the cold water of the English Channel,

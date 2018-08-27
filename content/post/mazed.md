@@ -3,6 +3,7 @@ date: "2018-05-24T11:00:00-08:00"
 title: "Mazed"
 description: ""
 keywords:
+weight: 10
 ---
 
 The girl in the red-and-white striped dress sits at the front of the class, right-hand side,

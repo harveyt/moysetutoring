@@ -1,7 +1,8 @@
 ---
-date: "2017-04-27T11:00:00-08:00"
+date: "2018-04-27T11:00:00-08:00"
 title: "Fur Coat"
 description: "Big man, beaming toothless."
+kind: "poem"
 keywords:
 ---
 

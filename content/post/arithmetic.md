@@ -3,6 +3,7 @@ date: "2018-08-16T11:00:00-08:00"
 title: "Arithmetic"
 description: ""
 keywords:
+weight: 70
 ---
 
 The girl in the worn-out plimsols is posing for a photograph. She stands stiffly, gracelessly,

@@ -3,6 +3,7 @@ date: "2018-08-05T12:00:00-08:00"
 title: "Shelter"
 description: ""
 keywords:
+weight: 60
 ---
 
 The nine-year-old girl is sitting cross-legged on the parquet floor of the school hall, upset by the

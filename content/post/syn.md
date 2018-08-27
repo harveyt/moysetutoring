@@ -2,6 +2,7 @@
 date: "2017-10-04T11:00:00-08:00"
 title: "Synaesthesia"
 description: "Vision is always synaesthetic."
+kind: "poem"
 keywords:
 ---
 

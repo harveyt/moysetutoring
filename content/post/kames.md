@@ -3,6 +3,7 @@ date: "2018-07-01T11:00:00-08:00"
 title: "Kames"
 description: ""
 keywords:
+weight: 90
 ---
 
 The girl with the too-short hair cut makes her way down the dirt path. She is taking the short cut
