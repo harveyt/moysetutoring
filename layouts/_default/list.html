@@ -21,7 +21,8 @@
 		      <i>{{.Date.Format "Jan 2006"}}</i>
 		      <div style="margin-left: 2em;">
 			{{ if .Description }}
-			  {{ <p>.Description }}
+			  {{ .Description }}
+			  <p>
 			{{ else }}
 			  {{ .Summary }}
 			{{ end }}
@@ -42,7 +43,8 @@
 			<i>{{.Date.Format "Jan 2006"}}</i>
 			<div style="margin-left: 2em;">
 			  {{ if .Description }}
-			    {{ <p>.Description }}
+			    {{ .Description }}
+			    <p>
 			  {{ else }}
 			    {{ .Summary }}
 			  {{ end }}
