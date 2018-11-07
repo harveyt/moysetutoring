@@ -3,6 +3,7 @@ DEPLOY_PATH = .deploy
 PREVIEW_PATH = .preview
 
 deploy: themes
+	git push
 	hugo-deploy -d $(DEPLOY_PATH)
 
 preview: themes
