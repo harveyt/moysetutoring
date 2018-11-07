@@ -66,7 +66,7 @@ The village chemist is double fronted with floor to ceiling windows, and a door 
 jangles as you walk in. The paintwork is faded and peeling in places, and the windows are dotted
 with faded-to-blue posters advertising various products: Johnson’s baby powder and Colgate
 toothpaste. The shop smells of Dettol and floor polish, a strange scent that pervades the bleached
-wooden counters. and cracked lino on the floor. We come here for various items: washing-up liquid
+wooden counters and cracked lino on the floor. We come here for various items: washing-up liquid
 and cough medicine, suntan lotion and plasters. The post-office is next door; it, too, has a jingly
 bell that alerts the postmistress to the arrival of customers. Here we choose our postcards from the
 range of somewhat elderly, sun-curved selection to send back home for Auntie G---, Grandma and Aunt
