@@ -15,7 +15,7 @@ theme = "hugo-strata-theme"
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "SuHeadshot.jpg"
+		avatar = "IMG_4101.jpg"
 		bio = ""
 		
 		# The icons will be shown if you enter your username
