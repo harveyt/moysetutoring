@@ -6,6 +6,8 @@
 		<div id="main">
 		  <h1>{{ .Title }}</h1>
 		  {{ .Content }}
+		  <br>
+		  <i>&copy; {{.Date.Format "Jan 2006"}} Su Thompson</i>
 		</div>
 		
 		{{ partial "footer" . }}
