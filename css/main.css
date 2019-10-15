@@ -1566,7 +1566,7 @@
 		}
 
 	body, input, select, textarea {
-		color: #805050;
+		color: #646464;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
@@ -1579,18 +1579,18 @@
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #c07f5f;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #99bbcc !important;
 			text-decoration: none;
 		}
 
 	strong, b {
-		color: #704040;
+		color: #90505F;
 		font-weight: 400;
 	}
 
@@ -1603,7 +1603,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #208080;
+		color: #80404F;
 		font-weight: 400;
 		line-height: 1em;
 		margin: 0 0 0.5em 0;
@@ -2496,7 +2496,7 @@
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 14.0em;
 		}
 
 /* Footer */

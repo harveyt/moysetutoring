@@ -58,6 +58,16 @@
   </url>
   
   <url>
+    <loc>http://www.moysetutoring.ca/</loc>
+    <lastmod>2018-11-07T11:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.moysetutoring.ca/post/</loc>
+    <lastmod>2018-11-07T11:00:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.moysetutoring.ca/post/fur-coat/</loc>
     <lastmod>2018-04-27T11:00:00-08:00</lastmod>
   </url>
@@ -74,24 +84,10 @@
   
   <url>
     <loc>http://www.moysetutoring.ca/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.moysetutoring.ca/</loc>
-    <lastmod>2018-05-24T11:00:00-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.moysetutoring.ca/post/</loc>
-    <lastmod>2018-05-24T11:00:00-08:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.moysetutoring.ca/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
