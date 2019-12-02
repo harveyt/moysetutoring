@@ -65,7 +65,7 @@ mouthfuls, he is chatting with Alfred. Ronald cannot quite make out their conver
 hear that Andrew is clearly amused --- probably by one of Alfred’s preposterous tales.
 
 At the other end of the bar is another regular, a tall, rangy man, with a high forehead and long
-salt-and-pepper that is hair swept back off his face. G --- he only ever goes by the first letter of
+salt-and-pepper hair that is swept back off his face. G --- he only ever goes by the first letter of
 his name --- is an introverted, almost taciturn man, who prefers the company of his dog and his
 newspaper. He’s tucked away behind his copy of <i>The Times</i>, his hand reaching for his pint from
 time to time. His black labrador, Mollie, is settled comfortably at his feet. After a while, he
