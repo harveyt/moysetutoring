@@ -1,7 +1,7 @@
 ---
 date: "2020-01-08T13:00:00-08:00"
 title: "Tom"
-description: "Swoosh. The train glides along the tracks, as if is on... ell, rails."
+description: "Swoosh. The train glides along the tracks, as if is on... well, rails."
 keywords:
 weight: 
 ---
