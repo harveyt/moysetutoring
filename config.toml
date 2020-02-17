@@ -78,18 +78,18 @@ theme = "hugo-strata-theme"
 		title = "Get In Touch"
 		content = "Feel free ask questions by email, phone or sending a message."
 
-		address = [
-			"211 - 2628 Granville Street",
-			"Vancouver",
-			"BC",
-			"V6H 4B4",
-			"Canada"
-		]
-		address_url = "https://www.google.ca/maps/place/Moyse+Tutoring/@49.262188,-123.1471904,15z/data=!4m15!1m12!4m11!1m3!2m2!1d-123.1383928!2d49.2628882!1m6!1m2!1s0x548673c761e51677:0x6a2bdc181f6e3677!2smoyse+tutoring!2m2!1d-123.1384339!2d49.2622092!3m1!1s0x548673c761e51677:0x6a2bdc181f6e3677"
+		# address = [
+		# 	"211 - 2628 Granville Street",
+		# 	"Vancouver",
+		# 	"BC",
+		# 	"V6H 4B4",
+		# 	"Canada"
+		# ]
+		# address_url = "https://www.google.ca/maps/place/Moyse+Tutoring/@49.262188,-123.1471904,15z/data=!4m15!1m12!4m11!1m3!2m2!1d-123.1383928!2d49.2628882!1m6!1m2!1s0x548673c761e51677:0x6a2bdc181f6e3677!2smoyse+tutoring!2m2!1d-123.1384339!2d49.2622092!3m1!1s0x548673c761e51677:0x6a2bdc181f6e3677"
 		phone = "778-321-8717 (Cell)"
 		phone_url = "778-321-8717"
-		linkedin = "Su Thompson (LinkedIn)"
-		linkedin_url = "https://ca.linkedin.com/in/su-thompson-m-a-403917110"
+		# linkedin = "Su Thompson (LinkedIn)"
+		# linkedin_url = "https://ca.linkedin.com/in/su-thompson-m-a-403917110"
 		# facebook = "Moyse Tutoring (Facebook)"
 		# facebook_url = "https://www.facebook.com/moysetutoring/"
 
