@@ -1,6 +1,5 @@
 ---
-orig-date: "2020-09-20T11:00:00"
-date: "2020-09-17T11:00:00"
+date: "2020-08-21T11:00:00"
 title: "Joe (Tom)"
 description: "Joe is peeling potatoes. He fancies a bit of vegetable pie for supper, so he is
 working on some fine looking Maris Peers that he's grown from a handful that he bought in his local

@@ -1,6 +1,5 @@
 ---
-orig-date: "2020-10-11T13:00:00-08:00"
-date: "2020-09-17T13:00:00-08:00"
+date: "2019-10-11T13:00:00-08:00"
 title: "Ben"
 description: "Ben sits in his father’s study, leafing through a huge ring binder."
 keywords:

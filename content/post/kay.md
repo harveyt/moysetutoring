@@ -1,6 +1,5 @@
 ---
-orig-date: "2020-10-18T13:00:00-08:00"
-date: "2020-09-17T13:00:00-08:00"
+date: "2019-10-18T13:00:00-08:00"
 title: "Kay"
 description: "Kay is on the plane to Malaga. She is on her second mini bottle of Teacher’s scotch,
 having knocked back the first one in two gulps, just to steady her nerves."

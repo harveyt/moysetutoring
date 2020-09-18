@@ -1,6 +1,5 @@
 ---
-orig-date: "2020-10-10T13:00:00-08:00"
-date: "2020-09-17T13:00:00-08:00"
+date: "2019-10-10T13:00:00-08:00"
 title: "Tom"
 description: "Swoosh. The train glides along the tracks, as if, well… as if it is on rails."
 keywords:
