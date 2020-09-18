@@ -1,7 +1,8 @@
 ---
 date: "2020-09-07T13:00:00-08:00"
 title: "Alex"
-description: ""
+description: "Alex closes her laptop with a sigh. She should be getting home, but there is just time
+to drop into Scott’s Pantry for a cup of tea and a chip butty."
 keywords:
 ---
 
