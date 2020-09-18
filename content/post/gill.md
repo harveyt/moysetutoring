@@ -1,7 +1,8 @@
 ---
 date: "2020-07-03T13:00:00-08:00"
 title: "Gill"
-description: ""
+description: "Gill is making up the guest bed. She wishes she could be a bit more enthusiastic, put
+a little more heart into her task."
 keywords:
 ---
 
