@@ -1,7 +1,7 @@
 ---
 date: "2020-08-20T13:00:00-08:00"
 title: "Elizabeth"
-description: ""
+description: "Elizabeth sits in the kitchen of her modest ground-floor flat."
 keywords:
 weight: 121
 ---

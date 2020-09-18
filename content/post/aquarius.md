@@ -1,14 +1,14 @@
 ---
 date: "2018-07-21T13:00:00-08:00"
 title: "Aquarius"
-description: ""
+description: "The seven year-old girl in the grey pinafore dress is painting. With yellow and blue
+poster paints, sugar paper and cereal boxes, she is creating the backdrop for her seaside model."
 keywords:
 weight: 40
 ---
 
 The seven year-old girl in the grey pinafore dress is painting. With yellow and blue poster paints,
 sugar paper and cereal boxes, she is creating the backdrop for her seaside model.
-<!--more-->
 
 <center>
 ❦

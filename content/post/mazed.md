@@ -1,14 +1,14 @@
 ---
 date: "2018-05-24T11:00:00-08:00"
 title: "Mazed"
-description: ""
+description: "The girl in the red-and-white striped dress sits at the front of the class, right-hand side,
+opposite the blue door."
 keywords:
 weight: 10
 ---
 
 The girl in the red-and-white striped dress sits at the front of the class, right-hand side,
 opposite the blue door. Absorbed in her thoughts, she chews the end of her pencil.
-<!--more-->
 
 <center>
 ❦

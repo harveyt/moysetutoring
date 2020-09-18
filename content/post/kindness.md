@@ -1,15 +1,14 @@
 ---
 date: "2018-11-07T11:00:00-08:00"
 title: "Kindness"
-description: ""
+description: "The girl with the bunch of purple heather sits on the side of the hill overlooking the
+loch, posing for a holiday memory."
 keywords:
 weight: 85
 ---
 
 The girl with the bunch of purple heather sits on the side of the hill overlooking the loch, posing
 for a holiday memory.
-
-<!--more-->
 
 <center>
 ❦

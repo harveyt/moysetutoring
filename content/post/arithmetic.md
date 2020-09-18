@@ -1,15 +1,14 @@
 ---
 date: "2018-08-16T11:00:00-08:00"
 title: "Arithmetic"
-description: ""
+description: "The girl in the worn-out plimsols is posing for a photograph. She stands stiffly, gracelessly,
+trying to look serious and authentic. It is not working."
 keywords:
 weight: 70
 ---
 
 The girl in the worn-out plimsols is posing for a photograph. She stands stiffly, gracelessly,
 trying to look serious and authentic. It is not working.
-
-<!--more-->
 
 <center>
 ❦

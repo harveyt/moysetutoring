@@ -1,14 +1,14 @@
 ---
 date: "2018-07-21T12:00:00-08:00"
 title: "Cats"
-description: ""
+description: "The girl sits crosslegged on the classroom floor, listening to “Skimbleshanks the
+Railway Cat”. She twiddles her hair, bewitched by the clever, whimsical poem."
 keywords:
 weight: 30
 ---
 
 The girl sits crosslegged on the classroom floor, listening to “Skimbleshanks the Railway Cat”. She
 twiddles her hair, bewitched by the clever, whimsical poem.
-<!--more-->
 
 <center>
 ❦
