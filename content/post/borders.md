@@ -4,6 +4,7 @@ title: "Borders"
 description: "The child with the allergy to all things feathered is sitting in the back of the car,
 thumb in her mouth and notebook on her lap, looking out for the sign for the border."
 keywords:
+kind: "girl"
 weight: 80
 ---
 

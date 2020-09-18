@@ -1,9 +1,11 @@
 ---
-date: "2020-10-08T13:00:00-08:00"
+orig-date: "2020-10-08T13:00:00-08:00"
+date: "2020-09-17T13:00:00-08:00"
 title: "Ginny (May)"
 description: "Ginny is trotting down to the beach to have a swim."
 keywords:
-weight: 150
+kind: "box"
+weight: 170
 ---
 
 **Ginny**

@@ -4,7 +4,8 @@ title: "Peter"
 description: "Peter puts the phone down. He is troubled and disquieted by the twenty-minute
 conversation he has just had with this older brother, David."
 keywords:
-weight: 150
+kind: "box"
+weight: 110
 ---
 
 Peter puts the phone down. He is troubled and disquieted by the twenty-minute conversation he has

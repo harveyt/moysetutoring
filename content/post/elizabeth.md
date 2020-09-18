@@ -2,8 +2,9 @@
 date: "2020-08-20T13:00:00-08:00"
 title: "Elizabeth"
 description: "Elizabeth sits in the kitchen of her modest ground-floor flat."
+kind: "box"
 keywords:
-weight: 121
+weight: 30
 ---
 
 Elizabeth sits in the kitchen of her modest ground-floor flat. She sips her coffee and tries to read

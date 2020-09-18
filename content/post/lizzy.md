@@ -1,9 +1,11 @@
 ---
 date: "2019-08-31T13:00:00-08:00"
 title: "Lizzy"
-description: "Lizzy’s heard it all before. Busy Lizzy. Frizzy Lizzy. Dizzy Lizzy…and that’s just the nicknames."
+description: "Lizzy’s heard it all before. Busy Lizzy. Frizzy Lizzy. Dizzy Lizzy…and that’s just the
+nicknames."
+kind: "box"
 keywords:
-weight: 120
+weight: 20
 ---
 
 Lizzy’s heard it all before. Busy Lizzy. Frizzy Lizzy. Dizzy Lizzy… and that’s just the

@@ -3,6 +3,7 @@ date: "2019-08-06T13:00:00-08:00"
 title: "Pat"
 description: "Patricia is off on a little excursion."
 keywords:
+kind: "misc"
 weight: 105
 ---
 

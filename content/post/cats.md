@@ -4,6 +4,7 @@ title: "Cats"
 description: "The girl sits crosslegged on the classroom floor, listening to “Skimbleshanks the
 Railway Cat”. She twiddles her hair, bewitched by the clever, whimsical poem."
 keywords:
+kind: "girl"
 weight: 30
 ---
 

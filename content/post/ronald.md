@@ -1,9 +1,11 @@
 ---
 date: "2019-08-27T13:00:00-08:00"
 title: "Ronald"
-description: ""
+description: "Ronald looks at his watch. 12.30. His next tutorial session is not until 3pm, so he
+has time for a leisurely lunch."
 keywords:
-weight: 108
+kind: "box"
+weight: 160
 ---
 
 **1931**

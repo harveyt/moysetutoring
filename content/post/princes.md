@@ -4,6 +4,7 @@ title: "Princes"
 description: "The asthmatic girl is climbing her way up the 287 steps of the Scott Monument in
 Edinburgh: her chest is tight and her lungs are straining, but she is determined to get to the top."
 keywords:
+kind: "girl"
 weight: 100
 ---
 

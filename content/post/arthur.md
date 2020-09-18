@@ -3,6 +3,8 @@ date: "2020-04-21T13:00:00-08:00"
 title: "Arthur"
 description: "Arthur sits at the end of his bed, tying his shoelaces. He is taking his time."
 keywords:
+kind: "box"
+weight: 80
 ---
 
 **1973**

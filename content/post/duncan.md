@@ -3,6 +3,7 @@ date: "2019-09-11T13:00:00-08:00"
 title: "Duncan"
 description: "Duncan is taking his lunch break."
 keywords:
+kind: "box"
 weight: 130
 ---
 

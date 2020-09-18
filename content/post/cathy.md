@@ -3,7 +3,9 @@ date: "2020-01-17T13:00:00-08:00"
 title: "Cathy"
 description: "Wivelsfield, Burgess Hill, Hassocks. Cathy notes the the names of the stations as they go
 past."
+kind: "box"
 keywords:
+weight: 50
 ---
 
 **With apologies to Walter Benjamin**

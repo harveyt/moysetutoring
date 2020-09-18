@@ -4,6 +4,7 @@ title: "Kames"
 description: "The girl with the too-short hair cut makes her way down the dirt path. She is taking
 the short cut beside the football pitch; it peters out at the edge of the sea loch."
 keywords:
+kind: "girl"
 weight: 90
 ---
 

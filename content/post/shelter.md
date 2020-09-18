@@ -4,6 +4,7 @@ title: "Shelter"
 description: "The nine-year-old girl is sitting cross-legged on the parquet floor of the school
 hall, upset by the scenes of wretched housing in filthy streets. She wants someone to do something about it."
 keywords:
+kind: "girl"
 weight: 60
 ---
 

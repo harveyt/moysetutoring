@@ -4,6 +4,7 @@ title: "Arithmetic"
 description: "The girl in the worn-out plimsols is posing for a photograph. She stands stiffly, gracelessly,
 trying to look serious and authentic. It is not working."
 keywords:
+kind: "girl"
 weight: 70
 ---
 

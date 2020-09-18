@@ -3,6 +3,7 @@ date: "2019-09-14T13:00:00-08:00"
 title: "Lassie"
 description: "Lassie is dog-tired. But, being a dog (specifically a collie) that’s not unexpected."
 keywords:
+kind: "misc"
 weight: 140
 ---
 

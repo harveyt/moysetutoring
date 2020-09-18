@@ -4,6 +4,7 @@ title: "Kindness"
 description: "The girl with the bunch of purple heather sits on the side of the hill overlooking the
 loch, posing for a holiday memory."
 keywords:
+kind: "girl"
 weight: 85
 ---
 

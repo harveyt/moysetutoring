@@ -4,6 +4,7 @@ title: "Aquarius"
 description: "The seven year-old girl in the grey pinafore dress is painting. With yellow and blue
 poster paints, sugar paper and cereal boxes, she is creating the backdrop for her seaside model."
 keywords:
+kind: "girl"
 weight: 40
 ---
 

@@ -1,9 +1,11 @@
 ---
-date: "2020-10-11T13:00:00-08:00"
+orig-date: "2020-10-11T13:00:00-08:00"
+date: "2020-09-17T13:00:00-08:00"
 title: "Ben"
 description: "Ben sits in his father’s study, leafing through a huge ring binder."
 keywords:
-weight: 150
+kind: "box"
+weight: 120
 ---
 
 Ben sits in his father’s study, leafing through a huge ring binder. It must be three inches thick,

@@ -4,6 +4,7 @@ title: "Mazed"
 description: "The girl in the red-and-white striped dress sits at the front of the class, right-hand side,
 opposite the blue door."
 keywords:
+kind: "girl"
 weight: 10
 ---
 

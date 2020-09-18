@@ -1,8 +1,9 @@
 ---
 date: "2020-03-15T13:00:00-08:00"
 title: "John"
-description: ""
+description: "John is off on a jaunt. It’s a fair April day, and he fancies a trip to the seaside."
 keywords:
+kind: "box"
 weight: 150
 ---
 

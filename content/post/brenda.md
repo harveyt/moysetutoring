@@ -3,8 +3,9 @@ date: "2019-08-31T13:00:00-08:00"
 title: "Brenda (Mavis)"
 description: "Brenda sits on the front pew of the crematorium. She’s glad that only her son and
 daughter-in-law can see her face."
+kind: "box"
 keywords:
-weight: 110
+weight: 40
 ---
 
 Brenda sits on the front pew of the crematorium. She’s glad that only her son and daughter-in-law

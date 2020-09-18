@@ -35,12 +35,12 @@
 
 		  </div>
 		  
-		  <h2>Stories</h2>
+		  <h2>The Girl</h2>
 
 		  <div style="margin-left: 2em;">		  
 
 		    {{ range .Data.Pages.ByWeight }}
-		      {{ if ne .Params.kind "poem" }}
+		      {{ if eq .Params.kind "girl" }}
 			<a href="{{ .Permalink }}">{{ .Title }}</a>
 			&mdash;
 			<i>{{.Date.Format "Jan 2006"}}</i>
@@ -56,6 +56,48 @@
 		    {{ end }}
 			
 		  </div>
+
+		  <h2>Other Stories</h2>
+
+		  <div style="margin-left: 2em;">		  
+
+		    {{ range .Data.Pages.ByWeight }}
+		      {{ if eq .Params.kind "misc" }}
+			<a href="{{ .Permalink }}">{{ .Title }}</a>
+			&mdash;
+			<i>{{.Date.Format "Jan 2006"}}</i>
+			<div style="margin-left: 2em;">
+			  {{ if .Description }}
+			    {{ .Description }}
+			    <p>
+			  {{ else }}
+			    {{ .Summary }}
+			  {{ end }}
+			</div>
+		      {{ end }}
+		    {{ end }}
+			
+		  </div>
+
+		  <h2>A Box Of Chocolates</h2>
+
+		  <div style="margin-left: 2em;">
+		    
+		  {{ range .Data.Pages.ByWeight }}
+		    {{ if eq .Params.kind "box" }}
+		      <a href="{{ .Permalink }}">{{ .Title }}</a>
+		      &mdash;
+		      <i>{{.Date.Format "Jan 2006"}}</i>
+		      <div style="margin-left: 2em;">
+			{{ if .Description }}
+			  {{ .Description }}
+			  <p>
+			{{ else }}
+			  {{ .Summary }}
+			{{ end }}
+		      </div>
+		    {{ end }}
+		  {{ end }}
 		  
 		</div>
 		

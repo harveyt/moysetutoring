@@ -4,6 +4,7 @@ title: "Hastings"
 description: "The girl with the milk-pale skin is paddling in the cold water of the English Channel,
 daydreaming."
 keywords:
+kind: "girl"
 weight: 50
 ---
 

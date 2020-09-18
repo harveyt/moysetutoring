@@ -4,6 +4,8 @@ title: "Gill"
 description: "Gill is making up the guest bed. She wishes she could be a bit more enthusiastic, put
 a little more heart into her task."
 keywords:
+kind: "box"
+weight: 70
 ---
 
 Gill is making up the guest bed. She wishes she could be a bit more enthusiastic, put a little more

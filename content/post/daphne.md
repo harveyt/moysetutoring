@@ -2,8 +2,9 @@
 date: "2019-08-27T13:00:00-08:00"
 title: "Daphne"
 description: "Thursday at 7pm is Daphne’s weekly hair appointment."
+kind: "box"
 keywords:
-weight: 120
+weight: 10
 ---
 
 **1979**

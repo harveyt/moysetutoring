@@ -4,6 +4,7 @@ title: "Brownie"
 description: "It is Wednesday evening, and the eager Brownie Guide is making her way down the hill
 to the Baptist church hall."
 keywords:
+kind: "girl"
 weight: 20
 ---
 
