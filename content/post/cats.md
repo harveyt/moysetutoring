@@ -63,7 +63,7 @@ serious, and I’m sad for the people who live there.
 
 Every morning we have to work on maths and writing. Maths is hard for me: the numbers seem to jumble
 together and make no sense. We are learning times tables, I can manage up to eight times, but nine
-alludes me. I find writing tedious: making my loops and strokes just so seems a waste of my time and
+eludes me. I find writing tedious: making my loops and strokes just so seems a waste of my time and
 I fidget my way through our lessons. Mrs. P--- only has to look at me with her unique blend of
 long-sufferance and condescension to get me to comply with her no-fidget rule. Every afternoon we
 have some kind of creative activity: painting, singing, sewing. I’m getting the hang of

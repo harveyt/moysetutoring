@@ -29,14 +29,13 @@ part-blown-up balloons, and cardboard egg cartons, all stuck together with wallp
 making a witch with a hooked nose and pointed chin. She is painted green (witches have green faces,
 everyone knows that), and has a black dress with a jagged hem. I chat with my friend J--- as we work
 on our masterpieces; J--- is making a clown, complete with white face and enormous red grin that
-takes up half its head. Mrs. S--- encourages us to do little puppet shows in French, but they are not
-very good:
+takes up half its head. Mrs. S--- encourages us to do little puppet shows in French, but they are not very good:
 
 CLOWN: 	Bonjour  
 WITCH: 	Bonjour  
 CLOWN: 	Comment vous appelez-vous?  
 WITCH: 	Je m’appelle Witch  
-CLOWN: 	Quel âge quel âge avez-vous?  
+CLOWN: 	Quel âge avez-vous?  
 WITCH: 	J’ai quatre-vingt six ans  
 CLOWN: 	Au revoir  
 WITCH: 	Au revoir  
@@ -45,12 +44,7 @@ J--- is my best friend. She lives along my road, and has a colour television. Sh
 annoying younger brother, but we do our best to ignore him, especially when he interrupts our
 favourite TV programme. _Follyfoot_ is about a teenager, Dora, who lives on a farm and takes care of
 the horses. I desperately want to be like her. She is pretty and clever and has lots of friends and
-a boyfriend called Steve. J--- also has a spangly new bike, all chrome and streamers, which she rides
-up and down our cul-de-sac. I’ve also recently acquired a bike, but it is second-hand and a bit
-tatty. It is light blue, with a white seat and handlebar grips. It is also a little too big for me,
-and I labour to ride smoothly, wobbling along the pavement. This lack of skill is put to the test in
-our cycling proficiency exam: J--- passes with flying colours, and I fail, having flattened several
-cones whilst trying to stop at the zebra crossing.
+a boyfriend called Steve. J--- also has a spangly new bike, all chrome and streamers, which she rides up and down our cul-de-sac. I’ve also recently acquired a bike, but it is second-hand and a bit tatty. It is light blue, with a white seat and handlebar grips. It is also a little too big for me, and I labour to ride smoothly, wobbling along the pavement. This lack of skill is put to the test in our cycling proficiency exam: J--- passes with flying colours, and I fail, having flattened several cones whilst trying to stop at the zebra crossing.
 
 We have recently embarked on a new and trendy English reading programme: SRA. I have no idea what
 that stands for, but I like the way it works. Instead of everyone doing the same English work, we
@@ -78,8 +72,7 @@ in a big pile on her desk, and we can go to lunch. As we file out, I glance at t
 Pet has given “colouring” as one of her hobbies, which is clearly a mistake: the examiners will
 think she is stupid.
 
-One of our last projects with Mrs. R--- is on the Victorians. The mother of one of our classmates has
-an astounding collection of antique clothing, including several pieces from the Victorian
+One of our last projects with Mrs. R--- is on the Victorians. The mother of one of our classmates has an astounding collection of antique clothing, including several pieces from the Victorian
 era. Mrs. R--- selects some of us to model the clothes and get Mr. B---, the school photographer to
 take some portraits. We all covet the splendid satin wedding dress, complete with fragile veil and
 silk flower headdress, and we all hope that we will be chosen as the bride. In the final photo I’m
