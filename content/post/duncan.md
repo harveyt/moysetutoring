@@ -59,7 +59,7 @@ chins set. He’s reminded of a line from an old folk song:
 
 <i>“I ofttimes heard my mother say, ‘It was tears that made the Clyde’…”</i>
 
-Duncan believes this to be true. He’s wary of those who recall the “good old days” when men worked crushing shifts for meagre wages, whilst their wives took care of the wains in housing that wasn’t fit for dogs to live in. The cold linoleum on the floor and buttermilk for breakfast, the outside cludgie and the scummy bathwater. These memories hold no affection in his heart. He’d ofttimes seen his mother weep: tears of frustration and anger, tears of self-pity and despair. 
+Duncan believes this to be true. He’s wary of those who recall the “good old days” when men worked crushing shifts for meagre wages, whilst their wives took care of the weans in housing that wasn’t fit for dogs to live in. The cold linoleum on the floor and buttermilk for breakfast, the outside cludgie and the scummy bathwater. These memories hold no affection in his heart. He’d ofttimes seen his mother weep: tears of frustration and anger, tears of self-pity and despair. 
 
 Duncan sighs. His life is steady now: it can hardly be called luxurious, but it is comfortable. His
 cosy flat above the Clydesdale Bank suits him fine; his part-time job stacking shelves at the
