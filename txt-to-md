@@ -1,0 +1,30 @@
+#!/bin/bash
+INPUT="$1"
+OUTPUT="$2"
+WIDTH=101
+HEADER=/tmp/header
+
+if [[ ! -f "$OUTPUT" ]]; then
+    echo "$OUTPUT needs to be present with atleast header information" >&2
+    exit 1
+fi
+
+rm -f $HEADER
+sed -n -e '/^---$/,/^---$/p' < "$OUTPUT" > $HEADER
+if [[ ! -s $HEADER ]]; then
+    echo "$OUTPUT needs to contain header information" >&2
+    exit 1
+fi
+
+echo -e "Rewriting \"$INPUT\" as \"$OUTPUT\" ... \c"
+cat $HEADER > "$OUTPUT"
+sed -e 's/––/---/g' \
+    -e 's%^❦$%<center>\
+❦\
+</center>%' \
+    -e 's/   */ /g' \
+	"$INPUT" \
+    | fold -w $WIDTH -s \
+    | sed -e 's/ *$//' >> "$OUTPUT"
+echo "Done"
+exit 0

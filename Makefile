@@ -16,8 +16,11 @@ preview: themes
 themes:
 	[[ -d themes/hugo-strata-theme ]] || dep refresh
 
-update-texts: $(TEMP)/cats.txt
+update-texts: $(POSTS)/cats.md
 
-$(TEMP)/cats.txt: $(PAGES)/Cats.pages
+$(TEMP)/cats.txt: $(PAGES)/Cats.pages pages-export
 	[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
 	./pages-export "$<" "$@"
+
+$(POSTS)/cats.md: $(TEMP)/cats.txt txt-to-md
+	./txt-to-md "$<" "$@"
