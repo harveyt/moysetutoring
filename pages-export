@@ -21,7 +21,15 @@ if [[ ! "$output" =~ .txt$ ]]; then
     usage
 fi
 
+if [[ "$input" =~ ^[^/] ]]; then
+    input="$PWD/$input"
+fi
+
+if [[ "$output" =~ ^[^/] ]]; then
+    output="$PWD/$output"
+fi
+
 echo -e "Converting \"$input\" to \"$output\" ... \c"
-osascript pages-export.as "$PWD/$input" "$PWD/$output"
+osascript pages-export.as "$input" "$output"
 echo "Done"
 exit 0

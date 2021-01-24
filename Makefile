@@ -1,6 +1,9 @@
 # Useful Makefile scripts.
 DEPLOY_PATH = .deploy
 PREVIEW_PATH = .preview
+PAGES = $(HOME)/Documents/Su/Writing\ pieces
+POSTS = content/post
+TEMP = temp
 
 deploy: themes
 	git push
@@ -12,3 +15,9 @@ preview: themes
 
 themes:
 	[[ -d themes/hugo-strata-theme ]] || dep refresh
+
+update-texts: $(TEMP)/cats.txt
+
+$(TEMP)/cats.txt: $(PAGES)/Cats.pages
+	[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
+	./pages-export "$<" "$@"
