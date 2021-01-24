@@ -1,0 +1,27 @@
+#!/bin/bash
+
+usage()
+{
+    echo "usage: pages-export in.pages out.txt" >&2
+    exit 1
+}
+
+if [[ $# -ne 2 ]]; then
+    usage
+fi
+
+input="$1"
+output="$2"
+
+if [[ ! "$input" =~ .pages$ ]]; then
+    usage
+fi
+
+if [[ ! "$output" =~ .txt$ ]]; then
+    usage
+fi
+
+echo -e "Converting \"$input\" to \"$output\" ... \c"
+osascript pages-export.as "$PWD/$input" "$PWD/$output"
+echo "Done"
+exit 0
