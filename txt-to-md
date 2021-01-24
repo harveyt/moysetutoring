@@ -3,18 +3,45 @@ INPUT="$1"
 OUTPUT="$2"
 WIDTH=101
 HEADER=/tmp/header
+IMAGE=/tmp/image
+IMAGE_CTX=/tmp/image-ctx
+MIN_CTX=10
+MAX_CTX=30
+ORIG_OUTPUT="$2"
+# OUTPUT="$2-new"
 
-if [[ ! -f "$OUTPUT" ]]; then
-    echo "$OUTPUT needs to be present with atleast header information" >&2
+if [[ ! -f "$ORIG_OUTPUT" ]]; then
+    echo "$ORIG_OUTPUT needs to be present with atleast header information" >&2
     exit 1
 fi
 
 rm -f $HEADER
-sed -n -e '/^---$/,/^---$/p' < "$OUTPUT" > $HEADER
+sed -n -e '/^---$/,/^---$/p' < "$ORIG_OUTPUT" > $HEADER
 if [[ ! -s $HEADER ]]; then
-    echo "$OUTPUT needs to contain header information" >&2
+    echo "$ORIG_OUTPUT needs to contain header information" >&2
     exit 1
 fi
+
+rm -f $IMAGE $IMAGE_CTX
+grep -C 3 -e '^<img' < "$ORIG_OUTPUT" | sed -n -e '/^</p' > $IMAGE
+# Find the end of the paragraph that the image appears after.
+# Eg "the people who live there.\n\n"
+grep -C 3 -e '^<img' < "$ORIG_OUTPUT" \
+    | sed -e '/^<.*>$/,$d' \
+    | sed -e '/^[ ]*$/d' \
+    | tail -1 \
+    | grep -o -E -e ".{$MIN_CTX,$MAX_CTX}\$" > $IMAGE_CTX
+
+if [[ -s $IMAGE ]]; then
+    if [[ ! -s $IMAGE_CTX ]]; then
+	echo "$OUTPUT has strange image context, needs fixing" >&2
+	exit 1
+    fi
+fi
+IMAGE_TEXT="$(echo "\\"; echo "\\"; sed -e 's/%/\\%/g' -e 's/$/\\/g' -e '$s/\\$//' < $IMAGE)"
+IMAGE_AFTER="$(cat $IMAGE_CTX)"
+# echo "IMAGE_TEXT=\"$IMAGE_TEXT\""
+# echo "IMAGE_AFTER=\"$IMAGE_AFTER\""
 
 echo -e "Rewriting \"$INPUT\" as \"$OUTPUT\" ... \c"
 cat $HEADER > "$OUTPUT"
@@ -23,6 +50,7 @@ sed -e 's/––/---/g' \
 ❦\
 </center>%' \
     -e 's/   */ /g' \
+    -e "s%$IMAGE_AFTER%${IMAGE_AFTER}${IMAGE_TEXT}%" \
 	"$INPUT" \
     | fold -w $WIDTH -s \
     | sed -e 's/ *$//' >> "$OUTPUT"
