@@ -35,22 +35,22 @@ As my time with Mrs. S---is coming to an end, we have a fete at school, which in
 fancy dress competition. My sisters and I are dressed as Miss World: Past, Present and Future. I’m
 Future, representing the Space Age. My wellington boots are sprayed with silver paint left over from
 Christmas; I have a skirt made out of tin foil and a hastily-constructed paper sash. I’m not sure
-where my silver helmet, complete with visor, came from. A mystery. More nocturnal fairies,
-perhaps. My oldest sister (Present) is dressed like Miss India, who has become the first woman from
-Asia to win the Miss World title. My mother has been busy on her turquoise costume, which has
-involved dying net curtains and yards of material to make a sari. My sister looks elegant in our
-inevitable group photo in the garden: one flip-flopped foot placed gracefully in front of the
-other. Miss World Past --- my older sister --- is wearing a floral crinoline, with a hooped skirt
-(held in place, funnily enough, by a hula hoop). It it has been difficult to construct, and it sits
-a little askew, as if the whole dress has had a few too many gins and is struggling to stay
-upright. She holds a matching parasol in one hand, and a vintage evening bag (Grandma’s) in the
-other. In an attempt to stand straight with the wonky dress, my sister holds her other arm out at
-right angles to balance herself, like a tight-rope walker. I stand awkwardly between Past and
-Present, arms away from my sides so I don’t squash my skirt.
+where my silver helmet, complete with visor, came from. A mystery. More nocturnal fairies, perhaps.
+My oldest sister (Present) is dressed like Miss India, who has become the first woman from Asia to
+win the Miss World title. My mother has been busy on her turquoise costume, which has involved dying
+net curtains and yards of material to make a sari. My sister looks elegant in our inevitable group
+photo in the garden: one flip-flopped foot placed gracefully in front of the other. Miss World Past
+--- my older sister --- is wearing a floral crinoline, with a hooped skirt (held in place, funnily
+enough, by a hula hoop). It it has been difficult to construct, and it sits a little askew, as if
+the whole dress has had a few too many gins and is struggling to stay upright. She holds a matching
+parasol in one hand, and a vintage evening bag (Grandma’s) in the other. In an attempt to stand
+straight with the wonky dress, my sister holds her other arm out at right angles to balance herself,
+like a tight-rope walker. I stand awkwardly between Past and Present, arms away from my sides so I
+don’t squash my skirt.
 
 Come September, our new teacher, Mrs. C---, turns out to be a younger version of Mrs. S---: a
-capable and enthusiastic teacher, eager for us to learn, forthright and warm-hearted.  But no
-bun. This is dawning of the Age of Aquarius, when everyone will be kind and understanding, wise and
+capable and enthusiastic teacher, eager for us to learn, forthright and warm-hearted. But no bun.
+This is dawning of the Age of Aquarius, when everyone will be kind and understanding, wise and
 tolerant. Technology will fix all our problems. We will make friends with the Martians and live on
 the moon. Clearly, this age has not started yet, at least not in our house.
 
@@ -69,16 +69,16 @@ and curious to know what Mrs. C---’s house looks like. In my mind, teachers li
 different universe to my own, so having the opportunity to enter into this inner sanctum is
 something I can’t quite fathom. Since it is a warm day, Mrs. C--- wants to buy us all ice lollies,
 but the local shop can only provide orange squash, so we make do with that. Her house turns out to
-be disappointingly normal: cosy and comfortable, posher than ours, but nothing out of the
-ordinary. I wonder what other teacher’s houses look like, especially since I’m still coming around
-from my belief that our teachers live in the staff room and don’t have homes at all. The investiture
-is an odd affair: the son of the Queen kneeling at her feet to pledge allegiance, and have a fancy
-new coronet placed on his head. The Queen is dressed in sunshine yellow with, what appears to me
-anyway, a scooped-out melon on her head. Most odd. The castle, however, lives up to expectations as
-it appears to be something from a fairy story, except that it is mostly a ruin. Somebody should
-really look into that and do a few repairs. Novelty over, we traipse back towards school. The route
-passes by my house, and I have special dispensation to go straight home. I hop over the crumbling
-wall of our front garden and knock on our green front door to let my mum know I am home.
+be disappointingly normal: cosy and comfortable, posher than ours, but nothing out of the ordinary.
+I wonder what other teacher’s houses look like, especially since I’m still coming around from my
+belief that our teachers live in the staff room and don’t have homes at all. The investiture is an
+odd affair: the son of the Queen kneeling at her feet to pledge allegiance, and have a fancy new
+coronet placed on his head. The Queen is dressed in sunshine yellow with, what appears to me anyway,
+a scooped-out melon on her head. Most odd. The castle, however, lives up to expectations as it
+appears to be something from a fairy story, except that it is mostly a ruin. Somebody should really
+look into that and do a few repairs. Novelty over, we traipse back towards school. The route passes
+by my house, and I have special dispensation to go straight home. I hop over the crumbling wall of
+our front garden and knock on our green front door to let my mum know I am home.
 
 Later that month, Neil Armstrong steps out of his seemingly fragile, toy-like space craft and makes
 more history. Unfortunately for us British Earthlings, his halting steps take place in the early
