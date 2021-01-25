@@ -49,9 +49,9 @@ fi
 
 echo -e "Rewriting \"$INPUT\" as \"$OUTPUT\" ... \c"
 cat $HEADER > "$OUTPUT"
+echo "" >> "$OUTPUT"
 sed -e 's/––/---/g' \
-    -e 's/^Daphne, 1979$/\
-**1979**/' \
+    -e 's/^Daphne, 1979$/**1979**/' \
     -e 's/^	//' \
     -e 's%^❦$%<center>\
 ❦\

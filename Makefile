@@ -42,32 +42,28 @@ TEMP = temp
 # 	syn \
 # 	tom
 
-# ARTICLES = \
-# 	aquarius \
-# 	arithmetic \
-# 	arthur \
-# 	baggage \
-# 	brenda \
-# 	brownie \
-# 	cathy \
-# 	cats \
-# 	daphne \
-# 	duncan \
-# 	hastings \
-# 	kames \
-# 	lassie \
-# 	lizzy \
-# 	mazed \
-# 	pat \
-# 	peter \
-# 	princes \
-# 	ronald \
-# 	shelter \
-# 	tom
-
 ARTICLES = \
+	aquarius \
+	arithmetic \
+	arthur \
+	baggage \
+	brenda \
+	brownie \
+	cathy \
 	cats \
-	daphne
+	daphne \
+	duncan \
+	hastings \
+	kames \
+	lassie \
+	lizzy \
+	mazed \
+	pat \
+	peter \
+	princes \
+	ronald \
+	shelter \
+	tom
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
 PAGES = $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
