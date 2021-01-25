@@ -52,17 +52,22 @@ cat $HEADER > "$OUTPUT"
 echo "" >> "$OUTPUT"
 sed -e 's/––/---/g' \
     -e 's/^	//' \
+    -e 's/[	 ]*$//' \
     -e '/^.*A sandwich made with buttered white bread and thick-cut fries. No substitutes allowed.*$/d' \
     -e 's/^Daphne, 1979$/**1979**/' \
     -e '/^Alex$/d' \
+    -e '/^Arithmetic$/d' \
+    -e 's/Boxing Day, 1973/**1973**/' \
     -e 's/^With thanks to Tarea$/**With thanks to Tarea**/' \
     -e 's%^❦$%<center>\
 ❦\
 </center>%' \
     -e 's/   */ /g' \
+    -e 's/^\(CLOWN:.*\)$/\1  /' \
+    -e 's/^\(WITCH:.*\)$/\1  /' \
     -e "s%$IMAGE_AFTER%${IMAGE_AFTER}${IMAGE_TEXT}%" \
 	"$INPUT" \
     | fold -w $WIDTH -s \
-    | sed -e 's/ *$//' >> "$OUTPUT"
+    | sed -e 's/\([^ ]\) $/\1/' >> "$OUTPUT"
 echo "Done"
 exit 0
