@@ -29,6 +29,7 @@ if [[ "$output" =~ ^[^/] ]]; then
     output="$PWD/$output"
 fi
 
+# TODO: Change this to export to docx or epub, and use pandoc to convert to markdown to get more context.
 echo -e "Converting \"$input\" to \"$output\" ... \c"
 osascript pages-export.as "$input" "$output"
 echo "Done"
