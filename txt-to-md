@@ -51,8 +51,11 @@ echo -e "Rewriting \"$INPUT\" as \"$OUTPUT\" ... \c"
 cat $HEADER > "$OUTPUT"
 echo "" >> "$OUTPUT"
 sed -e 's/––/---/g' \
-    -e 's/^Daphne, 1979$/**1979**/' \
     -e 's/^	//' \
+    -e '/^.*A sandwich made with buttered white bread and thick-cut fries. No substitutes allowed.*$/d' \
+    -e 's/^Daphne, 1979$/**1979**/' \
+    -e '/^Alex$/d' \
+    -e 's/^With thanks to Tarea$/**With thanks to Tarea**/' \
     -e 's%^❦$%<center>\
 ❦\
 </center>%' \

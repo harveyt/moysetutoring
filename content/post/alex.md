@@ -10,7 +10,7 @@ weight: 60
 
 **With thanks to Tarea**
 
-Alex closes her laptop with a groan. Her Eng. Lit. 201 essay is just not coming together and it’s
+Alex closes her laptop with a groan. Her Eng Lit 201 essay is just not coming together and it’s
 getting late. She should get herself home, but there is just time to drop into Scott’s Pantry for a
 cup of tea and a chip butty. She is in need of comfort food, and nothing beats a chip butty on a
 damp autumn evening. It’s been a long shift at the university library and she is still no further
@@ -23,24 +23,24 @@ that has been trotted out so many times that she fears her professor’s eyes wo
 very mention of their names. She has considered Rosencrantz and Guildenstern, but that seems like a
 cop-out given they always come as a double-act, and don’t add much to the tragedy --- apart from
 getting themselves killed, of course. What was Shakespeare’s view on treacherous friends? Heaven
-knows. At this rate, Alex reckons, she’s going to end up with Queen Mab and the brindled
-cat. “Huh. That’s not a bad idea”, she says to herself. Well, maybe not. Her second problem has been
-ploughing through shedloads of books and papers to come up with an interesting angle that she can
-work; this evening she has slogged her way through a veritable tower of material but is still not
-making progress. “Ah, me.” She says in her best Juliet voice.
+knows. At this rate, Alex reckons, she’s going to end up with Queen Mab and the brindled cat. “Huh.
+That’s not a bad idea”, she says to herself. Well, maybe not. Her second problem has been ploughing
+through shedloads of books and papers to come up with an interesting angle that she can work; this
+evening she has slogged her way through a veritable tower of material but is still not making
+progress. “Ah, me.” She says in her best Juliet voice.
 
 As the closing buzzer sounds, she returns the books to the trolley, shoves her laptop into her bag
 and makes her way out of the stacks. It is raining when she gets outside, and the wind tunnel that
 is the regular feature of the gap between the library and the Arts Tower swiftly turns her umbrella
-inside-out. Alex wrestles it back into shape before stuffing it into her bag with everything
-else. It’s always raining in Sheffield, so no news there - the joke being that if it’s not raining
-it's snowing. She puts up the hood of her duffle coat and makes her way across the campus. The
-duffle coat had been her mum’s idea: “It will keep you as warm as toast, Alexandra,” she had
-pronounced as Alex tried it on. Alex glances at her reflection in the windows of the Co-Op, weighing
-up whether she looks more like Paddington Bear or a World War II sea dog. Paddington wins out. But,
-she has to admit, her mother was right (as ever!) and her trusty duffle keeps out most of what
-Sheffield’s weather throws at her. She thinks about catching the bus, but decides to walk to clear
-her head, and besides, the rain seems to be trailing off.
+inside-out. Alex wrestles it back into shape before stuffing it into her bag with everything else.
+It’s always raining in Sheffield, so no news there - the joke being that if it’s not raining it's
+snowing. She puts up the hood of her duffle coat and makes her way across the campus. The duffle
+coat had been her mum’s idea: “It will keep you as warm as toast, Alexandra,” she had pronounced as
+Alex tried it on. Alex glances at her reflection in the windows of the Co-Op, weighing up whether
+she looks more like Paddington Bear or a World War II sea dog. Paddington wins out. But, she has to
+admit, her mother was right (as ever!) and her trusty duffle keeps out most of what Sheffield’s
+weather throws at her. She thinks about catching the bus, but decides to walk to clear her head, and
+besides, the rain seems to be trailing off.
 
 There is little traffic around as Alex dawdles along Clarkehouse Road, chip butty in one hand and
 paper cup of tea in the other. She’s happy to let her mind wander and see if she can get some
@@ -64,19 +64,18 @@ encouraging.” She frowns, and crosses the road towards the house. It’s quiet
 phone: 9:32.
 
 As she walks up the path towards her front door, Alex has a strange someone-walking-over-your-grave
-moment. The house is dark, apart from a light in the hallway that Victoria leaves on in the
-evening. As she puts her key in the door, she is aware of movement in the kitchen - a shadow
-flitting across the wall?  She puts her bag down in the hallway and calls out, “Hello?” No-one
-answers. She waits for a moment or two and then calls out again: “Hi? Anyone there?” Again, no-one
-answers. Feeling a little foolish she tip-toes to the kitchen and turns on the light. No-one
-there. “Seeing ghosts, now. Marvellous. How Hamlet of me,” Alex says under her breath, and goes to
-hang up her coat. Since Victoria is out, she decides to take advantage of her landlady’s cosy
-kitchen while she rakes over her notes from her evening’s work. She makes herself comfortable at the
-breakfast bar and takes out her laptop. She helps herself to a glass of Malbec: Victoria is liberal
-with her wine stash, encouraging Alex to take whatever she wants. “Don’t mind if I do. Cheers,
-Victoria,” Alex thinks as she takes a gulp. She reads through her notes, trying to find a thread
-that she can pick up and stitch ideas with, but nothing jumps out. And then something does jump
-out. Or rather, someone.
+moment. The house is dark, apart from a light in the hallway that Victoria leaves on in the evening.
+As she puts her key in the door, she is aware of movement in the kitchen - a shadow flitting across
+the wall? She puts her bag down in the hallway and calls out, “Hello?” No-one answers. She waits for
+a moment or two and then calls out again: “Hi? Anyone there?” Again, no-one answers. Feeling a
+little foolish she tip-toes to the kitchen and turns on the light. No-one there. “Seeing ghosts,
+now. Marvellous. How Hamlet of me,” Alex says under her breath, and goes to hang up her coat. Since
+Victoria is out, she decides to take advantage of her landlady’s cosy kitchen while she rakes over
+her notes from her evening’s work. She makes herself comfortable at the breakfast bar and takes out
+her laptop. She helps herself to a glass of Malbec: Victoria is liberal with her wine stash,
+encouraging Alex to take whatever she wants. “Don’t mind if I do. Cheers, Victoria,” Alex thinks as
+she takes a gulp. She reads through her notes, trying to find a thread that she can pick up and
+stitch ideas with, but nothing jumps out. And then something does jump out. Or rather, someone.
 
 Hours later, when they finally get back from the hospital, Alex tries to piece together what
 happened. Victoria has insisted on tucking her up in bed, and making sure that the concussion has
@@ -93,11 +92,11 @@ bit bruised and battered. The teenage girl (Kelsey as it turned out) decided to 
 point. As Alex fumbled for her phone to call the police, Victoria had walked through the front door,
 Silver Fox in tow. Silver Fox, by the way, had turned out to be quite the man for a crisis, calling
 the police, applying ice packs and generally making himself useful. He even came to the hospital to
-keep Victoria company, but she had shooed him away when the doctor had given Alex the
-all-clear. Victoria assures Alex that all will be well, and to try and get some sleep. Alex
-dutifully turns out the light. As Victoria quietly closes the door, Alex tries to make sense of her
-evening. Everything is blurry, but she can still see Kelsey’s shocked face as they both landed on
-the kitchen floor. The painkillers do their job, and Alex is soon fast asleep.
+keep Victoria company, but she had shooed him away when the doctor had given Alex the all-clear.
+Victoria assures Alex that all will be well, and to try and get some sleep. Alex dutifully turns out
+the light. As Victoria quietly closes the door, Alex tries to make sense of her evening. Everything
+is blurry, but she can still see Kelsey’s shocked face as they both landed on the kitchen floor. The
+painkillers do their job, and Alex is soon fast asleep.
 
 Alex sits in her study, nursing a monumental headache - the one where you feel as if you have been
 kicked in the head by a donkey. She’s still in her pyjamas at ten in the morning, having managed, so
@@ -115,17 +114,17 @@ Sipping her tea, Alex tries to pull her thoughts together on her Shakespeare pap
 characters aren’t the main issue: Shakespeare’s personal views are. Her job is to find out what
 Shakespeare’s worldview might be on any given topic, but she can hardly dig like poor Yorick and ask
 him. His sonnets might have some clues; she had wanted to avoid Shakespeare’s views on women in
-society, but after last night, she thinks she might have an approach she can explore in more
-depth. But which female characters to chose? In Alex’s opinion most of Shakespeare’s tragic women
-are either simpering ninnies or spiteful harpies, so best to chose contrasting women that she can
-link to the sonnets. No-one too obvious….Goneril? Lady Capulet?  Gertrude? Hmmmm. Opening her
-laptop, she starts to type out her ideas.
+society, but after last night, she thinks she might have an approach she can explore in more depth.
+But which female characters to chose? In Alex’s opinion most of Shakespeare’s tragic women are
+either simpering ninnies or spiteful harpies, so best to chose contrasting women that she can link
+to the sonnets. No-one too obvious….Goneril? Lady Capulet? Gertrude? Hmmmm. Opening her laptop, she
+starts to type out her ideas.
 
 That evening, a rough draft of her essay is ready: “Shakespeare’s tragic women: what was he
 thinking?” Alex prints off a copy and takes it downstairs for Victoria to read. She is curled up on
 the sofa with a trashy paperback, glass of red at her elbow. “Would you mind taking a look at this?”
-Alex asks, handing over the printout. Victoria lifts her reading glasses and takes a look at
-Alex. Something has changed in the girl - a shift that is evident in her voice and posture. “Of
-course I don’t mind.” Replacing her glasses, she begins to read. Alex sits patiently like a dog in a
-vet’s waiting room, anxious for the verdict. Victoria puts down the essay and looks directly at
-her. “You have a voice, Alex. Use it.”
+Alex asks, handing over the printout. Victoria lifts her reading glasses and takes a look at Alex.
+Something has changed in the girl - a shift that is evident in her voice and posture. “Of course I
+don’t mind.” Replacing her glasses, she begins to read. Alex sits patiently like a dog in a vet’s
+waiting room, anxious for the verdict. Victoria puts down the essay and looks directly at her. “You
+have a voice, Alex. Use it.”
