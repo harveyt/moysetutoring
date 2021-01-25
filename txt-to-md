@@ -22,6 +22,12 @@ if [[ ! -s $HEADER ]]; then
     exit 1
 fi
 
+if [[ "$(grep '^kind:' $HEADER)" == *poem* ]]; then
+    POEM_EXPR='s/^\([^<].*\)$/\1  /'
+else
+    POEM_EXPR='/XYZ-NEVER-FIND-THIS-XYZ/p'
+fi
+
 rm -f $IMAGE $IMAGE_CTX
 grep -C 3 -e '^<img' < "$ORIG_OUTPUT" | sed -n -e '/^</p' > $IMAGE
 # Find the end of the paragraph that the image appears after.
@@ -59,12 +65,16 @@ sed -e 's/––/---/g' \
     -e '/^Arithmetic$/d' \
     -e 's/Boxing Day, 1973/**1973**/' \
     -e 's/^With thanks to Tarea$/**With thanks to Tarea**/' \
+    -e 's/Follyfoot/_Follyfoot_/g' \
+    -e '/^Baggage$/d' \
+    -e '/^Ben$/d' \
     -e 's%^❦$%<center>\
 ❦\
 </center>%' \
     -e 's/   */ /g' \
     -e 's/^\(CLOWN:.*\)$/\1  /' \
     -e 's/^\(WITCH:.*\)$/\1  /' \
+    -e "$POEM_EXPR" \
     -e "s%$IMAGE_AFTER%${IMAGE_AFTER}${IMAGE_TEXT}%" \
 	"$INPUT" \
     | fold -w $WIDTH -s \
