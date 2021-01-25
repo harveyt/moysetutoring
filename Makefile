@@ -1,9 +1,77 @@
 # Useful Makefile scripts.
 DEPLOY_PATH = .deploy
 PREVIEW_PATH = .preview
-PAGES = $(HOME)/Documents/Su/Writing\ pieces
-POSTS = content/post
+PAGES_ROOT = $(HOME)/Documents/Su/Writing\ pieces
+POSTS_ROOT = content/post
 TEMP = temp
+
+.NOTPARALLEL:
+
+# ARTICLES = \
+# 	alex \
+# 	aquarius \
+# 	arithmetic \
+# 	arthur \
+# 	baggage \
+# 	ben \
+# 	borders \
+# 	brenda \
+# 	brownie \
+# 	cathy \
+# 	cats \
+# 	daphne \
+# 	duncan \
+# 	elizabeth \
+# 	fur-coat \
+# 	gill \
+# 	ginny \
+# 	hastings \
+# 	joe \
+# 	john \
+# 	kames \
+# 	kay \
+# 	kindness \
+# 	lassie \
+# 	lizzy \
+# 	mazed \
+# 	pat \
+# 	peter \
+# 	princes \
+# 	ronald \
+# 	shelter \
+# 	syn \
+# 	tom
+
+# ARTICLES = \
+# 	aquarius \
+# 	arithmetic \
+# 	arthur \
+# 	baggage \
+# 	brenda \
+# 	brownie \
+# 	cathy \
+# 	cats \
+# 	daphne \
+# 	duncan \
+# 	hastings \
+# 	kames \
+# 	lassie \
+# 	lizzy \
+# 	mazed \
+# 	pat \
+# 	peter \
+# 	princes \
+# 	ronald \
+# 	shelter \
+# 	tom
+
+ARTICLES = \
+	cats \
+	daphne
+
+MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
+PAGES = $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
+TEXTS = $(ARTICLES:%=$(TEMP)/%.txt)
 
 deploy: themes
 	git push
@@ -16,11 +84,14 @@ preview: themes
 themes:
 	[[ -d themes/hugo-strata-theme ]] || dep refresh
 
-update-texts: $(POSTS)/cats.md
+update-posts: $(MARKDOWNS)
 
-$(TEMP)/cats.txt: $(PAGES)/Cats.pages pages-export
-	[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
+$(TEXTS): $(TEMP)/%.txt: $(PAGES_ROOT)/%.pages pages-export pages-export.as
+	@[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
 	./pages-export "$<" "$@"
 
-$(POSTS)/cats.md: $(TEMP)/cats.txt txt-to-md
+$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.txt txt-to-md
 	./txt-to-md "$<" "$@"
+
+check-files:
+	@ls -l $(PAGES)

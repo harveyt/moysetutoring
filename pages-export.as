@@ -4,8 +4,8 @@ on run argv
     tell application "Pages"
         activate
 	set inMacFile to POSIX file inFile as alias
-        open inMacFile
-        export front document to POSIX file outFile as unformatted text
-        close front document
+        set doc to open inMacFile
+        export doc to POSIX file outFile as unformatted text
+        close doc
     end tell
 end run

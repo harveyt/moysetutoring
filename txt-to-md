@@ -37,15 +37,22 @@ if [[ -s $IMAGE ]]; then
 	echo "$OUTPUT has strange image context, needs fixing" >&2
 	exit 1
     fi
+
+    IMAGE_TEXT="$(echo "\\"; echo "\\"; sed -e 's/%/\\%/g' -e 's/$/\\/g' -e '$s/\\$//' < $IMAGE)"
+    IMAGE_AFTER="$(cat $IMAGE_CTX)"
+    # echo "IMAGE_TEXT=\"$IMAGE_TEXT\""
+    # echo "IMAGE_AFTER=\"$IMAGE_AFTER\""
+else
+    IMAGE_TEXT=""
+    IMAGE_AFTER="XYZ-NEVER-FIND-THIS-XYZ"
 fi
-IMAGE_TEXT="$(echo "\\"; echo "\\"; sed -e 's/%/\\%/g' -e 's/$/\\/g' -e '$s/\\$//' < $IMAGE)"
-IMAGE_AFTER="$(cat $IMAGE_CTX)"
-# echo "IMAGE_TEXT=\"$IMAGE_TEXT\""
-# echo "IMAGE_AFTER=\"$IMAGE_AFTER\""
 
 echo -e "Rewriting \"$INPUT\" as \"$OUTPUT\" ... \c"
 cat $HEADER > "$OUTPUT"
 sed -e 's/––/---/g' \
+    -e 's/^Daphne, 1979$/\
+**1979**/' \
+    -e 's/^	//' \
     -e 's%^❦$%<center>\
 ❦\
 </center>%' \
