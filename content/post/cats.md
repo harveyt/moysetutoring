@@ -28,7 +28,7 @@ time on, and I want to protest. She has written, “What has happened to your wr
 my work. After class, I get in the queue at her desk to register my dissatisfaction with her
 assessment. I point to her comment and say, “Sorry, Miss, I can’t read this.” She huffs and tuts,
 and says her writing is perfectly clear, and mutters, “Anyway, what has happened to your writing?” I
-shrug, and walk back to my desk, satisfied with my small win.  It is around this time that we have a
+shrug, and walk back to my desk, satisfied with my small win. It is around this time that we have a
 fire along the back fence of next door’s garden, adjacent to the alley way and on the border of an
 old council dump. This provides me with another small win as I finally have a picture pinned up on
 our classroom display: “There was a fire in Susan’s road”, says the neatly-written caption. I’ve
@@ -40,8 +40,8 @@ This summer, several girls in my class all have the same dress: gingham pattern,
 full skirt, it comes in different pastel shades. D— has yellow, L--- has green, B--- has blue, and
 H--- has pink. It can be purchased from a ladies’ magazine – “Woman”, I think. I want to have one of
 these pretty dresses, and ask my mum: “I don’t give a tuppenny damn what the other girls in your
-class are wearing. Why buy something when you have something perfectly nice that is homemade?”  So,
-I make do with my red-and-white striped shift dress with the appliquéd daisies around the hem.
+class are wearing. Why buy something when you have something perfectly nice that is homemade?” So, I
+make do with my red-and-white striped shift dress with the appliquéd daisies around the hem.
 
 Assembly is our start to the day. Once we have hung our coats on our allotted pegs, we can file into
 the classroom for Mrs. P--- to take the register. We then all file out again across the playground,
@@ -63,7 +63,7 @@ serious, and I’m sad for the people who live there.
 
 Every morning we have to work on maths and writing. Maths is hard for me: the numbers seem to jumble
 together and make no sense. We are learning times tables, I can manage up to eight times, but nine
-eludes me. I find writing tedious: making my loops and strokes just so seems a waste of my time and
+alludes me. I find writing tedious: making my loops and strokes just so seems a waste of my time and
 I fidget my way through our lessons. Mrs. P--- only has to look at me with her unique blend of
 long-sufferance and condescension to get me to comply with her no-fidget rule. Every afternoon we
 have some kind of creative activity: painting, singing, sewing. I’m getting the hang of
@@ -73,14 +73,14 @@ have laboured over. The image I have in my head is impossible to put on to paper
 I try. I cannot get the perspective right, and the elephant seems to be standing on the ringmaster’s
 head, which cannot be comfortable. I’ve been frustrated to tears and my mum has had to rescue the
 painting from the bin. I’m glad she does, as I win second prize. Although, I think the judges have
-taken pity on me, or perhaps they are just dull-witted when it comes to seven-year-old
-artwork. Clearly a painting with such an appalling lack of talent deserves to be put in the dustbin,
-not on the wall.
+taken pity on me, or perhaps they are just dull-witted when it comes to seven-year-old artwork.
+Clearly a painting with such an appalling lack of talent deserves to be put in the dustbin, not on
+the wall.
 
 Whilst my artistic talents are in question, my poetry appreciation is not. Mrs P--- introduces us to
-“Old Possum’s Book of Practical Cats”. I’m hypnotised and enthralled, and for once I don’t
-fidget. I’m drawn in by these stories and characters, masterfully depicted by a master of language
-and rhyme. My favourite is “Growltiger’s Last Stand”: it’s a bittersweet story of a pirate moggy who
+“Old Possum’s Book of Practical Cats”. I’m hypnotised and enthralled, and for once I don’t fidget.
+I’m drawn in by these stories and characters, masterfully depicted by a master of language and
+rhyme. My favourite is “Growltiger’s Last Stand”: it’s a bittersweet story of a pirate moggy who
 gets his comeuppance. He ends up having to walk the plank: “Ker-flip, ker-flop.” I feel conflicted I
 like this idea of justice, but I’m also sorry for Growltiger, who is probably not as bad as his made
 out and is nice to his granny. I’m hoping that he can swim, and given that he is pirate, I’m
