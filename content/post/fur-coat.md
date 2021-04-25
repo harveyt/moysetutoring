@@ -6,7 +6,6 @@ kind: "poem"
 keywords:
 ---
 
-
 Big man, beaming toothless.  
 Lurching lumpily onto the bus,  
 Bags crunching and rattling  

@@ -8,14 +8,12 @@ kind: "girl"
 weight: 40
 ---
 
-
 The seven year-old girl in the grey pinafore dress is painting. With yellow and blue poster paints,
 sugar paper and cereal boxes, she is creating the backdrop for her seaside model.
 
 <p style="text-align: center;">
 ❦
 </p>
-
 
 I'm sad to leave Mrs. S---'s classroom. It has been a sanctuary for me: Mrs. S--- is sweet and kind;
 it's like being taught by a favourite granny. She has white hair tied in a wispy bun and reading
@@ -32,7 +30,6 @@ create otherworldly items while we sleep. I have only one Dolly Darling: she has
 with matching waistcoat. Her ginger hair is in pigtails, a hairstyle that I only hope for, as my
 hair is cut short, so short that I am often mistaken for a boy. My mother believes my hair to be
 angelic: "It looks like a golden halo!", but I resent every trip to the hairdressers.
-
 
 As my time with Mrs. S--- is coming to an end, we have a fete at school, which includes the annual
 fancy dress competition. My sisters and I are dressed as Miss World: Past, Present and Future. I'm
@@ -51,14 +48,12 @@ straight with the wonky dress, my sister holds her other arm out at right angles
 like a tight-rope walker. I stand awkwardly between Past and Present, arms away from my sides so I
 don't squash my skirt.
 
-
 Come September, our new teacher, Mrs. C---, turns out to be a younger version of Mrs. S---, a
 capable and enthusiastic teacher, eager for us to learn, forthright and warm-hearted. But no bun.
 This is dawning of the Age of Aquarius, when everyone will be kind and understanding, wise and
 tolerant. Technology will fix all our problems. We will make friends with the Martians and live on
 the moon. Clearly, this age has not started yet, at least not in our
 house.
-
 
 It is the year of the Apollo 11 moon landing, and given that our family surname is Armstrong, this
 event promises to be a special moment for us. The moon landing comes towards the end of July, but at
@@ -82,7 +77,6 @@ look into that and do a few repairs. Novelty over, we traipse back towards schoo
 by my house, and I have special dispensation to go straight home. I hop over the crumbling wall of
 our front garden and knock on our green front door to let my mum know I am home.
 
-
 Later that month, Neil Armstrong steps out of his seemingly fragile, toy-like space craft and makes
 more history. Unfortunately for us British Earthlings, his halting steps take place in the early
 hours of the morning; our household is fast asleep, oblivious to the goings-on in the sky above us.
@@ -90,7 +84,6 @@ hours of the morning; our household is fast asleep, oblivious to the goings-on i
 <p style="text-align: center;">
 ❦
 </p>
-
 
 The forty year-old woman in the oatmeal-coloured pinafore dress is painting. With green and blue
 poster paints, she is creating a world map on her Geography classroom wall.

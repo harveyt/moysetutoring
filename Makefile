@@ -45,6 +45,7 @@ TEMP = temp
 ARTICLES = \
 	alex \
 	aquarius \
+	arithmetic \
 	baggage \
 	fur-coat \
 	syn

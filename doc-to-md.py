@@ -85,29 +85,54 @@ class Doc:
         self.process_div("Poetry", self._filter_poetry_block,
                          drop_empty_lines=True)
 
-    def _filter_default(self, lines):
+    # def _filter_default(self, lines):
+    #     result = []
+    #     for line in lines:
+    #         line = line.strip()
+    #         if line == "":
+    #             continue
+    #         result.append(line)
+    #     if len(result) == 0:
+    #         return [""]
+    #     if len(result) == 1 and result[0] == "\342\235\246":
+    #         return ['<p style="text-align: center;">', "\342\235\246", '</p>']
+    #     return result
+        
+    def _filter_default(self, lines,
+                        strip_lines=True,
+                        remove_empty_line=True,
+                        empty_is_newline=True,
+                        start_with_newline=False,
+                        process_coda=True):
         result = []
         for line in lines:
-            line = line.strip()
-            if line == "":
+            if strip_lines:
+                line = line.strip()
+            if remove_empty_line and line.strip() == "":
                 continue
             result.append(line)
-        if len(result) == 0:
+        if empty_is_newline and len(result) == 0:
             return [""]
-        if len(result) == 1 and result[0] == "\342\235\246":
+        if process_coda and len(result) == 1 and result[0] == "\342\235\246":
             return ['<p style="text-align: center;">', "\342\235\246", '</p>']
+        if start_with_newline and len(result) > 0:
+            result.insert(0, '')
         return result
         
     def filter_default(self):
         self.process_div("Default", self._filter_default)
 
     def _filter_body(self, lines):
-        result = []
-        for line in lines:
-            result.append(line)
-        if len(result) > 0:
-            result.insert(0, '')
-        return result
+        # result = []
+        # for line in lines:
+        #     result.append(line)
+        # if len(result) > 0:
+        #     result.insert(0, '')
+        # return result
+        return self._filter_default(lines,
+                                    strip_lines=False,
+                                    remove_empty_line=False,
+                                    start_with_newline=True)
         
     def filter_body(self):
         self.process_div("Body", self._filter_body)
@@ -124,6 +149,24 @@ class Doc:
                 if self.lines[i-1].strip() != "":
                     self.lines[i-1] = self.lines[i-1].rstrip()
 
+    def remove_double_empty_lines(self):
+        result = []
+        last_blank = True
+        for line in self.lines:
+            if line.strip() == "":
+                if last_blank:
+                    continue
+                last_blank = True
+            else:
+                last_blank = False
+            result.append(line)
+        self.lines = result
+
+    def fix_typographics(self):
+        for i, line in enumerate(self.lines):
+            fix_line = line.replace('----', '---')
+            self.lines[i] = fix_line
+
     def process(self):
         self.read()
         self.remove_headers()
@@ -133,6 +176,8 @@ class Doc:
         self.filter_poetry_post()
         self.filter_body()
         self.filter_footnote()
+        self.remove_double_empty_lines()
+        self.fix_typographics()
         self.write()
 
 d = Doc()

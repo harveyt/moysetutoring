@@ -22,7 +22,7 @@ Ad nauseam. Her first problem has been choosing two characters: writing about Ot
 would seem a sensible choice, but that has been trotted out so many times that she fears her
 professor's eyes would glaze over at the very mention of their names. She has considered Rosencrantz
 and Guildenstern, but that seems like a cop-out given they always come as a double-act, and don't
-add much to the tragedy ---- apart from getting themselves killed, of course. What was Shakespeare's
+add much to the tragedy --- apart from getting themselves killed, of course. What was Shakespeare's
 view on treacherous friends? Heaven knows. At this rate, Alex reckons, she's going to end up with
 Queen Mab and the brindled cat. "Huh. That's not a bad idea", she says to herself. Well, maybe not.
 Her second problem has been ploughing through shedloads of books and papers to come up with an
