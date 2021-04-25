@@ -6,13 +6,14 @@ kind: "poem"
 keywords:
 ---
 
+
 Big man, beaming toothless.  
 Lurching lumpily onto the bus,  
 Bags crunching and rattling  
 With cans and bottles,  
 Pleased with his meagre treasure  
 Takes up the whole back seat,  
-Chatting away to himself. 
+Chatting away to himself.
 
 Old man, withered and worn,  
 Scrawny legs crossed on the bus  
@@ -28,8 +29,6 @@ Cumbersome body wedged in.
 Chuckles shamelessly  
 Hands pressing on his knees,  
 Straining against the nervous tic  
-That ripples through him. 
+That ripples through him.
 
-Fur coat and no knickers, this town.
-
-<img style="max-width:30em;" src="/images/IMG_2666.jpg" alt="Rainy Vancouver Picture"/>
+Fur coat and no knickers, this town.  

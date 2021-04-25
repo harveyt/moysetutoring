@@ -44,7 +44,8 @@ TEMP = temp
 
 ARTICLES = \
 	baggage \
-	syn
+	syn \
+	fur-coat
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
 PAGES	= $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
