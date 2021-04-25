@@ -46,6 +46,7 @@ ARTICLES = \
 	alex \
 	aquarius \
 	arithmetic \
+	arthur \
 	baggage \
 	fur-coat \
 	syn
