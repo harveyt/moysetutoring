@@ -1,7 +1,7 @@
 # Useful Makefile scripts.
 DEPLOY_PATH = .deploy
 PREVIEW_PATH = .preview
-PAGES_ROOT = $(HOME)/Documents/Su/Writing\ pieces
+PAGES_ROOT = $(HOME)/Dropbox/Documents/Su/Writing\ pieces
 POSTS_ROOT = content/post
 TEMP = temp
 
@@ -46,8 +46,8 @@ ARTICLES = \
 	baggage
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
-PAGES = $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
-TEXTS = $(ARTICLES:%=$(TEMP)/%.txt)
+PAGES	= $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
+DOCS	= $(ARTICLES:%=$(TEMP)/%.docx)
 
 deploy: themes
 	git push
@@ -62,12 +62,17 @@ themes:
 
 update-posts: $(MARKDOWNS)
 
-$(TEXTS): $(TEMP)/%.txt: $(PAGES_ROOT)/%.pages pages-export pages-export.as
+
+$(DOCS): $(TEMP)/%.docx: $(PAGES_ROOT)/%.pages pages-export pages-export.as
 	@[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
 	./pages-export "$<" "$@"
 
-$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.txt txt-to-md
-	./txt-to-md "$<" "$@"
+docs: $(DOCS)
+
+$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.docx doc-to-md
+	./doc-to-md "$<" "$@"
+
+markdowns: $(MARKDOWNS)
 
 check-files:
 	@ls -l $(PAGES)

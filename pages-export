@@ -2,7 +2,7 @@
 
 usage()
 {
-    echo "usage: pages-export in.pages out.txt" >&2
+    echo "usage: pages-export in.pages out.docx" >&2
     exit 1
 }
 
@@ -17,7 +17,7 @@ if [[ ! "$input" =~ .pages$ ]]; then
     usage
 fi
 
-if [[ ! "$output" =~ .txt$ ]]; then
+if [[ ! "$output" =~ .docx$ ]]; then
     usage
 fi
 
@@ -29,7 +29,6 @@ if [[ "$output" =~ ^[^/] ]]; then
     output="$PWD/$output"
 fi
 
-# TODO: Change this to export to docx or epub, and use pandoc to convert to markdown to get more context.
 echo -e "Converting \"$input\" to \"$output\" ... \c"
 osascript pages-export.as "$input" "$output"
 echo "Done"

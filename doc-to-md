@@ -1,0 +1,37 @@
+#!/bin/bash
+
+usage()
+{
+    echo "usage: doc-to-md in.docx out.md" >&2
+    exit 1
+}
+
+if [[ $# -ne 2 ]]; then
+    usage
+fi
+
+root=$HOME/Projects/www.moysetutoring.ca
+temp=$root/temp
+input="$1"
+output="$2"
+header=$temp/header.md
+body=$temp/body.md
+
+if [[ ! -f "$output" ]]; then
+    echo "$output needs to be present with atleast header information" >&2
+    exit 1
+fi
+
+echo "Converting $input to $output ..."
+
+rm -f $header
+sed -n -e '/^---$/,/^---$/p' < "$output" > $header
+if [[ ! -s $header ]]; then
+    echo "$output needs to contain header information" >&2
+    exit 1
+fi
+
+pandoc $input -f docx+styles+empty_paragraphs -t commonmark -o $body
+
+echo "Done"
+exit 0

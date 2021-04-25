@@ -5,7 +5,7 @@ on run argv
         activate
 	set inMacFile to POSIX file inFile as alias
         set doc to open inMacFile
-        export doc to POSIX file outFile as unformatted text
+        export doc to POSIX file outFile as Microsoft Word
         close doc
     end tell
 end run
