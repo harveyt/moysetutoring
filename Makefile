@@ -7,41 +7,6 @@ TEMP = temp
 
 .NOTPARALLEL:
 
-# ARTICLES = \
-# 	alex \
-# 	aquarius \
-# 	arithmetic \
-# 	arthur \
-# 	baggage \
-# 	ben \
-# 	borders \
-# 	brenda \
-# 	brownie \
-# 	cathy \
-# 	cats \
-# 	daphne \
-# 	duncan \
-# 	elizabeth \
-# 	fur-coat \
-# 	gill \
-# 	ginny \
-# 	hastings \
-# 	joe \
-# 	john \
-# 	kames \
-# 	kay \
-# 	kindness \
-# 	lassie \
-# 	lizzy \
-# 	mazed \
-# 	pat \
-# 	peter \
-# 	princes \
-# 	ronald \
-# 	shelter \
-# 	syn \
-# 	tom
-
 ARTICLES = \
 	alex \
 	aquarius \
@@ -49,8 +14,33 @@ ARTICLES = \
 	arthur \
 	baggage \
 	ben \
+	borders \
+	brenda \
+	brownie \
+	cathy \
+	cats \
+	daphne \
+	duncan \
+	elizabeth \
 	fur-coat \
-	syn
+	gill \
+	ginny \
+	hastings \
+	joe \
+	john \
+	kames \
+	kay \
+	kindness \
+	lassie \
+	lizzy \
+	mazed \
+	pat \
+	peter \
+	princes \
+	ronald \
+	shelter \
+	syn \
+	tom
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
 PAGES	= $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
