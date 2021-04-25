@@ -85,19 +85,6 @@ class Doc:
         self.process_div("Poetry", self._filter_poetry_block,
                          drop_empty_lines=True)
 
-    # def _filter_default(self, lines):
-    #     result = []
-    #     for line in lines:
-    #         line = line.strip()
-    #         if line == "":
-    #             continue
-    #         result.append(line)
-    #     if len(result) == 0:
-    #         return [""]
-    #     if len(result) == 1 and result[0] == "\342\235\246":
-    #         return ['<p style="text-align: center;">', "\342\235\246", '</p>']
-    #     return result
-        
     def _filter_default(self, lines,
                         strip_lines=True,
                         remove_empty_line=True,
@@ -123,12 +110,6 @@ class Doc:
         self.process_div("Default", self._filter_default)
 
     def _filter_body(self, lines):
-        # result = []
-        # for line in lines:
-        #     result.append(line)
-        # if len(result) > 0:
-        #     result.insert(0, '')
-        # return result
         return self._filter_default(lines,
                                     strip_lines=False,
                                     remove_empty_line=False,
