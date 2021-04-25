@@ -10,22 +10,21 @@ Vision is always synaesthetic.
 Impure, permeable, blurry.  
 Other senses come creeping in,  
 unwelcome and bad-tempered,  
-not wiping their feet and demanding cups of tea. 
+not wiping their feet and demanding cups of tea.
 
-Ear-plugs don’t work.  
+Ear-plugs don<span dir="rtl">’</span>t work.  
 Sounds wiggle their way around the latex  
 to remind you of what was said,  
-what music was playing. 
+what music was playing.
 
 A taste forms in your mouth.  
 Is that coffee? Caramel perhaps.  
-It’s on the tip of your tongue.  
-Perhaps it isn’t a taste at all.  
-The scent of something you can’t quite remember. 
+It<span dir="rtl">’</span>s on the tip of your tongue.  
+Perhaps it isn<span dir="rtl">’</span>t a taste at all.  
+The scent of something you can<span dir="rtl">’</span>t quite remember.
 
 Meanwhile, there is a scratching at the back of your neck.  
-It’s not the label; you cut that out.  
-It’s persistent and uncomfortable and rolling your shoulders doesn’t shift it.  
-It’s a reminder: defining the object is tricky.
-
-<img style="max-width:30em;" src="/images/IMG_0460.jpg" alt="Lavender Picture"/>
+It<span dir="rtl">’</span>s not the label; you cut that out.  
+It<span dir="rtl">’</span>s persistent and uncomfortable and rolling  
+your shoulders doesn<span dir="rtl">’</span>t shift it.  
+It<span dir="rtl">’</span>s a reminder: defining the object is tricky.  

@@ -31,6 +31,7 @@ if [[ ! -s $header ]]; then
     echo "$output needs to contain header information" >&2
     exit 1
 fi
+echo '' >> $header
 
 pandoc $input -f docx+styles+empty_paragraphs -t commonmark -o $body_pre
 
