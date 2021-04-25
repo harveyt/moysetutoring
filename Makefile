@@ -48,6 +48,7 @@ ARTICLES = \
 	arithmetic \
 	arthur \
 	baggage \
+	ben \
 	fur-coat \
 	syn
 
