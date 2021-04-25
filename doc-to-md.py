@@ -1,5 +1,6 @@
 #!/usr/bin/python2
 import sys
+import re
 
 class Doc:
     def __init__(self):
@@ -21,23 +22,40 @@ class Doc:
     def apply_filter(self, func):
         self.lines = list(filter(func, self.lines))
 
-    def process_div(self, style, func):
-        div_begin = '<div custom-style="{}">'.format(style)
+    def process_div(self, style, func,
+                    drop_empty_lines=False,
+                    start_re='',
+                    start_repl=''):
+        div_tag = '<div custom-style="{}">'.format(style)
+        div_begin = re.compile('{}{}'.format(start_re, div_tag))
         div_end = '</div>'
         new_lines = []
         div_lines = []
         in_div = False
+        start_text = ""
         for line in self.lines:
             if not in_div:
-                if not line.startswith(div_begin):
-                    if line == "":
+                m = div_begin.match(line)
+                if not m:
+                    if drop_empty_lines and line == "":
                         continue
                     new_lines.append(line)
                     continue
+                if start_re != '' and start_repl != '':
+                    # Extract the matching div begin text and do start_repl on start_re
+                    # portion
+                    start_matching = m.group(0)
+                    start_matching = start_matching.replace(div_tag, '')
+                    start_text = re.sub(start_re, start_repl, start_matching)
+                else:
+                    start_text = ""
                 in_div = True
                 div_lines = []
             else:
                 if not line.startswith(div_end):
+                    if start_text != "":
+                        line = start_text + line
+                        start_text = ""
                     div_lines.append(line)
                     continue
                 in_div = False
@@ -62,11 +80,28 @@ class Doc:
         return result
 
     def filter_poetry(self):
-        self.process_div("Poetry", self._filter_poetry_block)
+        self.process_div("Poetry", self._filter_poetry_block,
+                         drop_empty_lines=True)
     
     def filter_default(self):
         self.process_div("Default", lambda lines: [""])
 
+    def _filter_body(self, lines):
+        result = []
+        for line in lines:
+            result.append(line)
+        if len(result) > 0:
+            result.insert(0, '')
+        return result
+        
+    def filter_body(self):
+        self.process_div("Body", self._filter_body)
+
+    def filter_footnote(self):
+        self.process_div("Footnote", self._filter_body,
+                         start_re=r'(\[\d*\] )',
+                         start_repl=r'\1')
+        
     def filter_poetry_post(self):
         # Remove the end spaces at end of poetry block.
         for i, line in enumerate(self.lines):
@@ -81,6 +116,8 @@ class Doc:
         self.filter_poetry()
         self.filter_default()
         self.filter_poetry_post()
+        self.filter_body()
+        self.filter_footnote()
         self.write()
 
 d = Doc()

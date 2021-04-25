@@ -45,7 +45,8 @@ TEMP = temp
 ARTICLES = \
 	baggage \
 	syn \
-	fur-coat
+	fur-coat \
+	alex
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
 PAGES	= $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
@@ -71,7 +72,7 @@ $(DOCS): $(TEMP)/%.docx: $(PAGES_ROOT)/%.pages pages-export pages-export.as
 
 docs: $(DOCS)
 
-$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.docx doc-to-md
+$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.docx doc-to-md doc-to-md.py
 	./doc-to-md "$<" "$@"
 
 markdowns: $(MARKDOWNS)

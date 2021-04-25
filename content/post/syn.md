@@ -25,6 +25,6 @@ The scent of something you can<span dir="rtl">’</span>t quite remember.
 
 Meanwhile, there is a scratching at the back of your neck.  
 It<span dir="rtl">’</span>s not the label; you cut that out.  
-It<span dir="rtl">’</span>s persistent and uncomfortable and rolling  
-your shoulders doesn<span dir="rtl">’</span>t shift it.  
+It<span dir="rtl">’</span>s persistent and uncomfortable and rolling your shoulders doesn<span  
+dir="rtl">’</span>t shift it.  
 It<span dir="rtl">’</span>s a reminder: defining the object is tricky.  

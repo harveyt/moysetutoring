@@ -33,7 +33,10 @@ if [[ ! -s $header ]]; then
 fi
 echo '' >> $header
 
-pandoc $input -f docx+styles+empty_paragraphs -t commonmark -o $body_pre
+pandoc $input \
+       -f docx+styles+empty_paragraphs -t commonmark \
+       --wrap=auto --columns=100 \
+       -o $body_pre
 
 python2 $root/doc-to-md.py <$body_pre >$body
 
