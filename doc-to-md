@@ -34,7 +34,7 @@ fi
 echo '' >> $header
 
 pandoc $input \
-       -f docx+styles+empty_paragraphs -t commonmark \
+       -f docx+styles+empty_paragraphs -t commonmark+smart \
        --wrap=auto --columns=100 \
        -o $body_pre
 

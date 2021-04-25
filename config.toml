@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Moyse Tutoring"
 theme = "hugo-strata-theme"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.

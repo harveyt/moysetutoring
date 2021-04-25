@@ -42,11 +42,15 @@ TEMP = temp
 # 	syn \
 # 	tom
 
+# ARTICLES = \
+# 	alex \
+# 	aquarius \
+# 	baggage \
+# 	fur-coat \
+# 	syn
+
 ARTICLES = \
-	baggage \
-	syn \
-	fur-coat \
-	alex
+	aquarius
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
 PAGES	= $(ARTICLES:%=$(PAGES_ROOT)/%.pages)

@@ -68,7 +68,9 @@ class Doc:
         self.apply_filter(lambda l: not l.startswith("# "))
 
     def remove_images(self):
-        self.apply_filter(lambda l: not l.startswith('<img src="'))
+        for i, line in enumerate(self.lines):
+            if '<img src=' in line:
+                self.lines[i] = re.sub('<img src=.*/>', '', line)
         
     def _filter_poetry_block(self, lines):
         result = []
@@ -82,9 +84,22 @@ class Doc:
     def filter_poetry(self):
         self.process_div("Poetry", self._filter_poetry_block,
                          drop_empty_lines=True)
-    
+
+    def _filter_default(self, lines):
+        result = []
+        for line in lines:
+            line = line.strip()
+            if line == "":
+                continue
+            result.append(line)
+        if len(result) == 0:
+            return [""]
+        if len(result) == 1 and result[0] == "\342\235\246":
+            return ['<p style="text-align: center;">', "\342\235\246", '</p>']
+        return result
+        
     def filter_default(self):
-        self.process_div("Default", lambda lines: [""])
+        self.process_div("Default", self._filter_default)
 
     def _filter_body(self, lines):
         result = []
