@@ -3,4 +3,6 @@
 /themes/hugo-strata-theme
 /.deploy/
 /temp/
+*~
+
 

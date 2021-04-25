@@ -15,6 +15,7 @@ temp=$root/temp
 input="$1"
 output="$2"
 header=$temp/header.md
+body_pre=$temp/body-pre.md
 body=$temp/body.md
 
 if [[ ! -f "$output" ]]; then
@@ -31,7 +32,11 @@ if [[ ! -s $header ]]; then
     exit 1
 fi
 
-pandoc $input -f docx+styles+empty_paragraphs -t commonmark -o $body
+pandoc $input -f docx+styles+empty_paragraphs -t commonmark -o $body_pre
+
+python2 $root/doc-to-md.py <$body_pre >$body
+
+cat $header $body > $output
 
 echo "Done"
 exit 0
