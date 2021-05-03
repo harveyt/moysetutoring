@@ -39,7 +39,8 @@ ARTICLES = \
 	ronald \
 	shelter \
 	syn \
-	tom
+	tom \
+	Naja82
 
 # fur-coat
 
