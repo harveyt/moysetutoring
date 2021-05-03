@@ -40,7 +40,8 @@ ARTICLES = \
 	shelter \
 	syn \
 	tom \
-	Naja82
+	Naja82 \
+	Jack
 
 # fur-coat
 
