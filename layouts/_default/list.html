@@ -99,8 +99,30 @@
 		    {{ end }}
 		  {{ end }}
 		  
-		</div>
-		
+		  </div>
+
+		  <h2>COVID Stories</h2>
+
+		  <div style="margin-left: 2em;">
+		    
+		  {{ range .Data.Pages.ByWeight }}
+		    {{ if eq .Params.kind "covid" }}
+		      <a href="{{ .Permalink }}">{{ .Title }}</a>
+		      &mdash;
+		      <i>{{.Date.Format "Jan 2006"}}</i>
+		      <div style="margin-left: 2em;">
+			{{ if .Description }}
+			  {{ .Description }}
+			  <p>
+			{{ else }}
+			  {{ .Summary }}
+			{{ end }}
+		      </div>
+		    {{ end }}
+		  {{ end }}
+		  
+		  </div>
+
 		{{ partial "footer" . }}
 	</body>
 </html>

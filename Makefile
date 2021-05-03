@@ -41,7 +41,8 @@ ARTICLES = \
 	syn \
 	tom \
 	Naja82 \
-	Jack
+	Jack \
+	WellingtonRoad
 
 # fur-coat
 

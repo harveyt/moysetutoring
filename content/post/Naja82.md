@@ -3,8 +3,8 @@ date: "2021-01-05T13:00:00-08:00"
 title: "Naja82"
 description: "Naja82 is bored. Two months into lockdown, and he’s feeling weary of the whole thing."
 keywords:
-kind: "misc"
-weight: 150
+kind: "covid"
+weight: 100
 ---
 
 ## *With thanks to Yussanne*
