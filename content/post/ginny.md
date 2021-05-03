@@ -7,8 +7,7 @@ kind: "box"
 weight: 170
 ---
 
-Ginny
-(May)
+## (May)
 
 Ginny is trotting down to the beach to have a swim. It's a warmish July day; a few clouds in the sky
 and a distinct possibly of rain later, so she is making a dash for it before the drizzle begins.
@@ -45,8 +44,8 @@ Ginny was struggling through her O-levels. The twins (Simon and Stephen) were so
 were viewed as one person with two solid British-bulldog bodies. Like their older brother, they were
 good at rugby, and the three of them played happily in the family's large back garden.
 
-Ginny was always the misfit; as a child she often wondered whether she had been left by the fairies
-- a changeling planted in exchange for a stolen baby. Apart from being the only girl, she was a
+Ginny was always the misfit; as a child she often wondered whether she had been left by the fairies:
+a changeling planted in exchange for a stolen baby. Apart from being the only girl, she was a
 completely different shape to her brothers: rail thin, gangly, awkward. Added to this, she was
 hopeless at sport, and prone to day-dreaming in Miss Robertson's Maths lessons. Her parents had
 despaired of her forgetfulness and lack of attention. School was exhausting, every day she tried her
@@ -149,7 +148,7 @@ interfering old busy-body. None of the options before her seem right.
 
 Except the one to speak to Auntie May.
 
-May
+## May
 
 May is watering her geraniums. She's fully aware that red geraniums in clay flowerpots are both
 unimaginative and humdrum, but she doesn't care. Red geraniums will forever remind her of holidays
@@ -204,7 +203,7 @@ could end. She sighs.
 
 "Hello?" Ginny calls over the back gate. "In the garden, Virginia, come through," May answers.
 
-Ginny
+## Ginny
 
 Ginny can feel some of the tension ease off her chest as she sits next to her aunt, having poured
 herself a generous Pimm's. Got to love Auntie May: not only is she wise and clever, but she also
@@ -234,7 +233,7 @@ husband. The girl must get out, and soon, no question. On the other hand, such a
 huge upheaval within the family that will continue for years to come. Sides will be taken,
 accusations made, angry phone calls made. Ginny shudders to think.
 
-May
+## May 
 
 May decides there is no time to pussy-foot around the issue: <span dir="rtl">"</span>So, Virginia,
 how do we fix this?" May is not in the habit of backing away from a problem that needs to be met

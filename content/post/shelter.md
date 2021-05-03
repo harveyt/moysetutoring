@@ -8,8 +8,6 @@ kind: "girl"
 weight: 60
 ---
 
-Shelter
-
 The nine-year-old girl is sitting cross-legged on the parquet floor of the school hall, upset by the
 scenes of wretched housing in filthy streets. She wants someone to do something about it.
 
@@ -86,21 +84,18 @@ from Shelter show us photos that they have taken of children, around our own age
 fetid housing. I'm appalled, but my sprits are lifted by the song that these kind people teach us.
 The words and music are easy to pick up and we sing along with them:
 
-> *When I needed a neighbour,  
+> When I needed a neighbour,  
 > Were you there, were you there?  
 > When I needed a neighbour, were you there?  
 > And the creed and the colour  
 > And the name won\'t matter,  
-> Were you there?*
-
-> *\*\*\**
-
-> *And wherever you travel,  
+> Were you there?  
+> And wherever you travel,  
 > I\'ll be there, I\'ll be there.  
 > Wherever you travel, I\'ll be there.  
 > And the creed and the colour  
 > And the name won\'t matter,  
-> I\'ll be there.*[1]
+> I\'ll be there.[1]  
 
 The song goes around and around in my thoughts, along with the accompanying black-and-white photos.
 I wonder what I can do about it. I feel the frustration of being a child faced with adult issues

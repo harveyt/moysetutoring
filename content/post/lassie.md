@@ -7,7 +7,7 @@ kind: "misc"
 weight: 140
 ---
 
-Lassie - *a nonsense story for Andy.*
+## *a nonsense story for Andy*
 
 Lassie is dog-tired. But, being a dog (specifically a collie) that's not unexpected. She's worn out
 from an afternoon of herding sheep. Specifically, black-faced sheep. She lopes along next to Mr and

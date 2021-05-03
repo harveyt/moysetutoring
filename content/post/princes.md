@@ -8,8 +8,6 @@ kind: "girl"
 weight: 100
 ---
 
-Princes
-
 The asthmatic girl is climbing her way up the 287 steps of the Scott Monument in Edinburgh: her
 chest is tight and her lungs are straining, but she is determined to get to the top.
 
@@ -38,9 +36,8 @@ above the sink, reminding guests of their bathroom responsibilities. It shows a 
 a little halo above its head leaving the bathroom, holding its bar of soap aloft like a trophy. The
 rhyme reads:
 
-*Please remember - don\'t forget - never leave the bathroom wet.*
-
-*Nor leave the soap still in the water - that's a thing we never ought'er...*
+Please remember - don\'t forget - never leave the bathroom wet.  
+Nor leave the soap still in the water - that's a thing we never ought'er...  
 
 I don't understand the last word, which does not seem to fit. "Ought'er" is clearly not a proper
 word. Ought to? Never ought to? That's not very good English, and it bothers me.

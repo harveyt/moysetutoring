@@ -8,8 +8,6 @@ kind: "girl"
 weight: 10
 ---
 
-Mazed
-
 The girl in the red-and-white striped dress sits at the front of the class, right-hand side,
 opposite the blue door. Absorbed in her thoughts, she chews the end of her pencil.
 

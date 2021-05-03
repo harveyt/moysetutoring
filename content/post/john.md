@@ -153,5 +153,3 @@ he calls the animal shelter. He learns that Cookie is doing well, but no-one has
 about him. He'll be put up for adoption, but that will probably take many months, even years, as
 Cookie is an older dog, and most people opt for younger animals. John puts the phone down, and
 thinks for a moment or two. Grabbing his car keys, he heads for the front door.
-
-as to become meaningless. Each to their own, he thinks.

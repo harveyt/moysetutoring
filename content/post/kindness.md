@@ -8,8 +8,6 @@ kind: "girl"
 weight: 85
 ---
 
-**Kindness**
-
 The girl with the bunch of purple heather sits on the side of the hill overlooking the loch, posing
 for a holiday memory.
 <p style="text-align: center;">

@@ -8,9 +8,7 @@ kind: "box"
 weight: 140
 ---
 
-Kay
-
-1985
+## 1985
 
 Kay is on the plane to Malaga. She is on her second mini bottle of Teacher's scotch, knocking back
 the first one in two gulps, just to steady her nerves. The second one is lasting a bit longer, now

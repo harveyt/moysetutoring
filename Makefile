@@ -60,14 +60,13 @@ themes:
 
 update-posts: $(MARKDOWNS)
 
-
 $(DOCS): $(TEMP)/%.docx: $(PAGES_ROOT)/%.pages pages-export pages-export.as
 	@[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
 	./pages-export "$<" "$@"
 
 docs: $(DOCS)
 
-$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.docx doc-to-md doc-to-md.py
+$(MARKDOWNS): $(POSTS_ROOT)/%.md: $(TEMP)/%.docx doc-to-md doc-to-md.py Makefile
 	./doc-to-md "$<" "$@"
 
 markdowns: $(MARKDOWNS)

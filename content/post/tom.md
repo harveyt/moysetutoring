@@ -7,8 +7,6 @@ kind: "box"
 weight: 100
 ---
 
-Tom (Tom thinks about childhood holidays)
-
 Swoosh. The train glides along the tracks, as if...well, as if it is on rails. Tom finds the sound
 hard to describe in his mind. Swoosh is not quite right; more like a quiet tie fighter, perhaps. A
 tie fighter with laryngitis? He is bored. The mystery paperback he picked up at King's Cross is not

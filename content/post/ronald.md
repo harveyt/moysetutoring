@@ -8,7 +8,7 @@ kind: "box"
 weight: 160
 ---
 
-Ronald (1931)
+## 1931
 
 Ronald looks at his watch. 12.30. His next tutorial session is not until 3pm, so he has time for a
 leisurely lunch. He is not looking forward to his afternoon appointment with Chadwick: his student's

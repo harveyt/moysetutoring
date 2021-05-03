@@ -35,11 +35,9 @@ vain, greedy people live to be ninety. It doesn't seem right. Lizzy takes a long
 considers what she needs to get done. She takes her "to do" list that is stuck to the fridge door
 and begins to write down a list errands to run:
 
-Black coat in dry cleaners
-
-Black court shoes menders to be re-healed
-
-Black dress...uh-oh.
+1\. Black coat in dry cleaners  
+2\. Black court shoes menders to be re-healed  
+3\. Black dress...uh-oh.  
 
 Lizzy takes a look at her only black dress in the wardrobe. It hangs slightly askew; its plastic
 cover is starting to crack and crumble at the edges. She takes it out and holds it up to herself in

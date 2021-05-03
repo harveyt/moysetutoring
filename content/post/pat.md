@@ -7,7 +7,7 @@ kind: "misc"
 weight: 105
 ---
 
-Pat - with grateful thanks to Miss Brill.
+## with grateful thanks to Miss Brill 
 
 Patricia is off on a little excursion. It is coming up to her birthday, and for a treat she is going
 to take afternoon tea at the Spa Hotel. It's not often Patricia splashes out; after all, she must
