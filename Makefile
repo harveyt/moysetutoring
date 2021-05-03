@@ -44,7 +44,8 @@ ARTICLES = \
 	Jack \
 	WellingtonRoad \
 	David \
-	Andrew
+	Andrew \
+	Alison
 
 # fur-coat
 
