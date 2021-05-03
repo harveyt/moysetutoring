@@ -8,18 +8,18 @@ keywords:
 weight: 40
 ---
 
-Brenda (Mavis)
+## Brenda (Mavis)
 
 Brenda sits on the front pew of the crematorium. She's glad that only her son and daughter-in-law
-can see her face. She sits, her back ram-rod straight, with her hands in her lap, clutching the
-Order of Service and a balled up Kleenex. She is trying to focus on the words of the minister:
-"*Forasmuch as it hath pleased Almighty God of his great mercy to take unto himself the soul of our
-dear brother here departed..."* She thinks, he wasn't a dear brother and I'm not sure Almighty God
-will be at all pleased to find him rattling the bars of the pearly gates. The minister pushes the
-button that theatrically closes the curtains around the coffin. "*We therefore commit his body to
-its final resting place; earth to earth, ashes to ashes, dust to dust..."* I wonder where it goes?
-Brenda thinks as she hears the sound of the cogs and a faint whirring sound as the coffin is lowered
-to goodness knows where. Presumably there is some poor soul collecting it somewhere in the bowels of
+can see her face. She sits, her back ram-rod straight, her hands in her lap, clutching the Order of
+Service and a balled up Kleenex. She is trying to focus on the words of the minister: "*Forasmuch as
+it hath pleased Almighty God of his great mercy to take unto himself the soul of our dear brother
+here departed..."* She thinks, he wasn't a dear brother and I'm not sure Almighty God will be at all
+pleased to find him rattling the bars of the pearly gates. The minister pushes the button that
+theatrically closes the curtains around the coffin. "*We therefore commit his body to its final
+resting place; earth to earth, ashes to ashes, dust to dust..."* I wonder where it goes? Brenda
+thinks as she hears the sound of the cogs and a faint whirring sound as the coffin is lowered to
+goodness knows where. Presumably there is some poor soul collecting it somewhere in the bowels of
 the crematorium who will guide it on its proverbial last journey to be turned into ashes. Brenda is
 woken from this reverie by her son, who is signalling that they need to now leave. She realises she
 missed the final prayer and is still sitting like patience on a monument waiting for nothing to

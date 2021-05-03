@@ -85,6 +85,14 @@ class Doc:
         self.process_div("Poetry", self._filter_poetry_block,
                          drop_empty_lines=True)
 
+    def _remove_div_heading(self, lines):
+        return []
+    
+    def remove_div_heading(self):
+        self.process_div("Heading",
+                         self._remove_div_heading,
+                         drop_empty_lines=True)
+
     def _filter_default(self, lines,
                         strip_lines=True,
                         remove_empty_line=True,
@@ -151,6 +159,7 @@ class Doc:
     def process(self):
         self.read()
         self.remove_headers()
+        self.remove_div_heading()
         self.remove_images()
         self.filter_poetry()
         self.filter_default()

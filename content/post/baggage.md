@@ -26,5 +26,4 @@ or under the bed, or in the basement
 where it can argue with itself and collect dust.
 
 Meanwhile, I\'m kicking off those glittery Louboutins  
-and hailing a taxi. Barefoot.
-
+and hailing a taxi. Barefoot.  

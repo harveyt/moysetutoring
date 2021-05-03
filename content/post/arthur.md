@@ -7,7 +7,7 @@ kind: "box"
 weight: 80
 ---
 
-Boxing Day, 1973
+## Boxing Day, 1973
 
 Arthur sits at the end of his bed, tying his shoelaces. He is taking his time. He's had a quiet
 morning listening to the radio and treating himself to a chapter or two of his new book: a
