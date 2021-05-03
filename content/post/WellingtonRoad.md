@@ -1,7 +1,7 @@
 ---
 date: "2021-04-01T13:00:00-08:00"
 title: "Wellington Road"
-description: ""
+description: "April 2020 to October 2021"
 keywords:
 kind: "covid"
 weight: 110
