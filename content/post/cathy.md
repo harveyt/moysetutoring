@@ -8,7 +8,8 @@ keywords:
 weight: 50
 ---
 
-Cathy - with apologies to Walter Benjamin
+## with apologies to Walter Benjamin
+
 Wivelsfield, Burgess Hill, Hassocks. Cathy notes the the names of the stations as they go past.
 Wivelsfield. What's a Wivel? Is there a whole field of them? Or has the apostrophe been mislaid
 along the way and there is a field belonging to a Mr. Wivel on which the station was built? Perhaps
@@ -20,6 +21,7 @@ living relatives. Cathy grabs that thought by the scruff its neck before it can 
 another rabbit hole like a Jack Russell. She is on her way to Brighton, and has managed (with less
 fuss and bother than she had anticipated) to catch a speedy train that is ignoring most of the
 stations along the way as if they were poor relations, undeserving of attention. Poor Mr. Wivel.
+
 Cathy picks up her tablet and presses a few buttons to get back to the book she has been struggling
 to read. It was suggested to her by a friend who is generally bang on the money when it comes to
 book recommendations. Cathy is growing increasingly impatient with the heroine of the story: for a
@@ -32,6 +34,7 @@ she? Ah yes, said protagonist is traipsing over the moors like a third-rate char
 novel, oblivious to the perils that will undoubtedly soon catch up with her. Cathy has to stifle her
 desire to yell, "He's behind you!" at her tablet. She puts it down again. She thinks about her
 journey here, and wonders what she will make of Brighton after so many years.
+
 She was last there as a twelve-year-old, on a day trip from guide camp. They had been picked up in a
 rickety coach from the old Colonel's field and made their way down the A23 with lots of jolly
 campfire songs and boiled sweets. She'd spent the day with her friend Janet, arm in arm, exploring
@@ -48,6 +51,7 @@ curate and the other resisting the advances of a wealthy landowner. All the whil
 estate is crumbling around their ears, and they can no longer afford to keep Hattie the kitchen
 maid. Poor Hattie. Badly done, Preston Park, badly done. Cathy is rattled from her reverie as the
 train slows down into Brighton station.
+
 It's starting to drizzle as Cathy leaves the station; what to do? She rummages in her bag for her
 umbrella, but by the time she has opened the wretched contraption (after a failed attempt to scold
 it into submission), the sky has cleared a little and the drizzle has trailed off. Encouragingly,
@@ -70,6 +74,7 @@ leaving patches of exposed brick --- to be much admired in a bijou hipster loft,
 on a Brighton street. Ground-level surfaces are decorated with loops of spray-painted graffiti, but
 by the time she reaches the Brighton Dome, the street has shaken its tattered raincoat and the
 buildings have emerged all neat and tidy, like a piles of fresh laundry.
+
 Just past the Dome is a statue of George IV. It says so on the plinth, otherwise Cathy would have
 been at a loss. Ah! Of course! Wasn't he the Regency king responsible for the self-indulgent
 pavilion-folly? The plinth also reads,"Erected by public subscription 1828". Cathy wonders what

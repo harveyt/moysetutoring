@@ -17,14 +17,21 @@ church hall.
 
 I quite like my Brownie uniform: brown dress, brown beret and yellow cross-over tie. I go on my own
 now, since my sisters have both progressed up to Guides. Besides, I am now seven, and perfectly
-capable of making the fifteen minute walk by myself. There is only one busy road to cross, by the
-pub: "Look right, look left, look right again, all clear? Quick march!" Having been a Brownie for a
-year or so, I'm starting to collect triangular proficiency badges: hostess, swimming, safety in the
-home, thrift. I'm an Elf, which means I have a little embroidered blue fellow doing his best to leap
-from a badge. The Brownie uniform has recently changed: pockets on the skirt of the dress rather
-than the chest. My mother has meticulously unpicked the pockets and sewn them on the skirt of my
-hand-me-down dress. However, the operation is not as successful as she had hoped, lines of stitches
-and lots of little holes are left behind.
+capable of making the fifteen minute walk by myself. I<span dir="rtl">'</span>m glad of it. I<span
+dir="rtl">'</span>m getting tired of my sisters<span dir="rtl">'</span> practical jokes at my
+expense; the latest prank requires me to retrieve my beret from the garden of a house on the way to
+Brownies. It is named <span dir="rtl">"</span>Berry Bank", so my sister flung my beret over the
+fence, insisting that<span dir="rtl">'</span>s where berets went: <span
+dir="rtl">"</span>Berry-beret, berry-beret--- ha! ha!" It is wearisome, and not at all funny, and
+I<span dir="rtl">'</span>m happy to be walking alone.
+
+There is only one busy road to cross, by the pub: "Look right, look left, look right again, all
+clear? Quick march!" Having been a Brownie for a year or so, I'm starting to collect triangular
+proficiency badges: hostess, swimming, safety in the home, thrift. I'm an Elf, which means I have a
+little embroidered blue fellow doing his best to leap from a badge. The Brownie uniform has recently
+changed: pockets on the skirt of the dress rather than the chest. My mother has meticulously
+unpicked the pockets and sewn them on the skirt of my hand-me-down dress. However, the operation is
+not as successful as she had hoped, lines of stitches and lots of little holes are left behind.
 
 The church hall has a very distinctive smell: part floor polish, part damp and mould. In winter, the
 ageing radiators find it difficult to keep up, and it is generally dank and a little chilly. Brownie
@@ -50,25 +57,22 @@ looked like all the other little girls, wearing tattered clothes and having a li
 their cheeks. At the end of the evening everything is tidied away, and we join hands in a circle and
 sing our final song:
 
-*Oh Lord, our God*
-*Thy children call*
-*Grant us thy peace*
-*And bless us all*
-*Goodnight, Goodnight.*
+Oh Lord, our God  
+Thy children call  
+Grant us thy peace  
+And bless us all  
+Goodnight, Goodnight.  
 
 Afterwards, I wait outside for my dad to pick me up. He's on time. I close the car door carefully
 and we drive home in silence. Back home, back in the bedroom I share with my sister, I screw my
 Brownie uniform into a tight ball before throwing it indignantly into the laundry basket. My sister
 watches, but she doesn't ask, and I don't tell.
 
-> ❦
+<p style="text-align: center;">
+❦
+</p>
 
 It is Wednesday evening, and the the woman is on her hands and knees, putting the last brushstrokes
 onto the carnival float that she has designed. On Saturday, it will win first prize in the town
 gala.
 
-I'm glad of it. I'm getting tired of my sisters' practical jokes at my expense; the latest prank
-requires me to retrieve my beret from the garden of a house on the way to Brownies. It is named
-"Berry Bank", so my sister flung my beret over the fence, insisting that's where berets went:
-"Berry-beret, berry-beret--- ha! ha!" It is wearisome, and not at all funny, and I'm happy to be
-walking alone.

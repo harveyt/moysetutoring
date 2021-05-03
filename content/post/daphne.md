@@ -7,7 +7,7 @@ keywords:
 weight: 10
 ---
 
-Daphne, 1979
+## 1979
 
 Thursday at 7pm is Daphne's weekly hair appointment. She sits at "JoJons" examining the backs of her
 hands. She has to move her hands towards her face as she cannot move her head: Eileen is giving her

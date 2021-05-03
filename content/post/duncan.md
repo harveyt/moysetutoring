@@ -7,8 +7,6 @@ kind: "box"
 weight: 130
 ---
 
-Duncan (Duncan goes out to lunch)
-
 Duncan is taking his lunch break. He checks in with Cathy, the supermarket manager: "That's me on
 lunch, now." "Right you are, Duncan." He hangs his apron on his peg in the staff room and takes his
 wind-cheater. It's a fine June day, but there's still a stiff breeze coming off the river. He takes

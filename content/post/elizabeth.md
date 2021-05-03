@@ -7,8 +7,6 @@ keywords:
 weight: 30
 ---
 
-Elizabeth
-
 Elizabeth sits in the kitchen of her modest ground-floor flat. She sips her coffee and tries to read
 the morning paper, but the print wobbles and wavers. She can<span dir="rtl">'</span>t focus. She
 wonders why she still has *The Guardian* delivered, since it's all online these days. Habit, she

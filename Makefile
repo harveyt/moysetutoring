@@ -22,7 +22,6 @@ ARTICLES = \
 	daphne \
 	duncan \
 	elizabeth \
-	fur-coat \
 	gill \
 	ginny \
 	hastings \
@@ -41,6 +40,8 @@ ARTICLES = \
 	shelter \
 	syn \
 	tom
+
+# fur-coat
 
 MARKDOWNS = $(ARTICLES:%=$(POSTS_ROOT)/%.md)
 PAGES	= $(ARTICLES:%=$(PAGES_ROOT)/%.pages)
