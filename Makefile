@@ -42,7 +42,8 @@ ARTICLES = \
 	tom \
 	Naja82 \
 	Jack \
-	WellingtonRoad
+	WellingtonRoad \
+	David
 
 # fur-coat
 
