@@ -4,7 +4,7 @@ title: "Arthur"
 description: "Arthur sits at the end of his bed, tying his shoelaces. He is taking his time."
 keywords:
 kind: "box"
-weight: 80
+weight: 55
 ---
 
 ## Boxing Day, 1973

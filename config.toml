@@ -27,7 +27,7 @@ unsafe = true
 		dribbble = ""
 
 		copyright = [
-			"&copy; 2015-2019 Su Thompson",
+			"&copy; 2015-2021 Su Thompson",
 			"Powered by: [Hugo](https://gohugo.io) - Design by: [HTML5 UP](//html5up.net)"
 		]
 
