@@ -7,7 +7,8 @@ kind: "covid"
 weight: 110
 ---
 
-## 16 Wellington Road, April 2020 
+## Sunny 
+### 16 Wellington Road, April 2020 
 
 Henry is sulking. He sits in the corner with his head on his paws. As far as Sunny is concerned,
 Henry can sulk all he likes. "Henry, we are not going walkies. It is pouring with rain and you've
@@ -95,7 +96,8 @@ walkies. "Couple of minutes, Mr. Cooper, I'm almost there." Such strange times. 
 spend some time writing all these memories down? Perhaps she could make it a community project, a
 kind of history of Wellington Road in a time of Covid? Perhaps a little project for those dark days
 of winter? And with that thought, Sunny grabs the dog's lead and her coat and heads off to the park.
-## 11, Wellington Road, June 2020
+## Rose and Chris
+### 11, Wellington Road, June 2020
 
 Rose is busy at her sewing machine. She's making her fourth pair of scrubs for the local care home.
 It was her work colleague, Caroline, who told her about the sewing project that she had embarked on
@@ -260,7 +262,8 @@ for those dark days of winter?
 
 "Thanks, Sweetheart - I'll get it in a moment. Any chance of a Custard Cream with that?"
 
-## 7, Wellington Road, September 2020
+## Jessie 
+### 7, Wellington Road, September 2020
 
 Jessie is hanging out her washing. It's a warm morning in September, and she wants to get some
 housework done and dusted (pun intended) before *Women's Hour.* Although she has a dryer (a generous
@@ -418,7 +421,8 @@ she could make it a community project, a kind of history of Wellington Road in a
 Perhaps a little project for those dark days of winter? And with that thought in mind, Jessie gets
 out a notepad and biro and starts to write.
 
-## 4, Wellington Road, December 2020
+## Jules
+### 4, Wellington Road, December 2020
 
 Jules is decorating his Christmas tree. He hasn't put one up in years, but 2020 has been so
 miserable, so depressing that he's determined to cheer himself up with some Christmas sparkle. The
@@ -514,7 +518,8 @@ a strange time. Perhaps he should spend some time writing all these thoughts dow
 Perhaps he could make it a community project, a kind of history of Wellington Road in a time of
 Covid? Perhaps a little project for these dark days of winter? And with that thought in mind, Jules
 clicks on his *Zoom* app and connects to the meeting. "Hi, Olivia, how are you?"
-## 18, Wellington Road, October 2021
+## Gerald 
+### 18, Wellington Road, October 2021
 
 Seven across. *New weapon is limited* (6) New...starts with N. Limited. Hmmm. Arrow? Narrow! Aha.
 Gerald scribbles in the answer with his pencil and takes another sip of his coffee. So nice to

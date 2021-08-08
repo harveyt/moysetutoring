@@ -22,25 +22,25 @@ Ad nauseam. Her first problem has been choosing two characters: writing about Ot
 would seem a sensible choice, but that has been trotted out so many times that she fears her
 professor's eyes would glaze over at the very mention of their names. She has considered Rosencrantz
 and Guildenstern, but that seems like a cop-out given they always come as a double-act, and don't
-add much to the tragedy --- apart from getting themselves killed, of course. What was Shakespeare's
-view on treacherous friends? Heaven knows. At this rate, Alex reckons, she's going to end up with
-Queen Mab and the brindled cat. "Huh. That's not a bad idea", she says to herself. Well, maybe not.
-Her second problem has been ploughing through shedloads of books and papers to come up with an
-interesting angle that she can work; this evening she has slogged her way through a veritable tower
-of material but is still not making progress. "Ah, me." She says in her best Juliet voice.
+add much to the tragedy --- apart from getting themselves killed. What was Shakespeare's view on
+treacherous friends? Heaven knows. At this rate, Alex reckons, she's going to end up with Queen Mab
+and the brindled cat. "Huh. That's not a bad idea", she says to herself. Well, maybe not. Her second
+problem has been ploughing through shedloads of books and papers to come up with an interesting
+angle that she can work; this evening she has slogged her way through a veritable tower of material
+but is still not making progress. "Ah, me." She says in her best Juliet voice.
 
 As the closing buzzer sounds, she returns the books to the trolley, shoves her laptop into her bag
 and makes her way out of the stacks. It is raining when she gets outside, and the wind tunnel that
-is the regular feature of the gap between the library and the Arts Tower swiftly turns her umbrella
-inside-out. Alex wrestles it back into shape before stuffing it into her bag with everything else.
-It<span dir="rtl">'</span>s always raining in Sheffield, so no news there - the joke being that if
-it<span dir="rtl">'</span>s not raining it\'s snowing. She puts up the hood of her duffle coat and
-makes her way across the campus. The duffle coat had been her mum's idea: "It will keep you as warm
-as toast, Alexandra," she had pronounced as Alex tried it on. Alex glances at her reflection in the
-windows of the Co-Op, weighing up whether she looks more like Paddington Bear or a World War II sea
-dog. Paddington wins out. But, she has to admit, her mother was right (as ever!) and her trusty
-duffle keeps out most of what Sheffield's weather throws at her. She thinks about catching the bus,
-but decides to walk to clear her head, and besides, the rain seems to be trailing off.
+is the gap between the library and the Arts Tower swiftly turns her umbrella inside-out. Alex
+wrestles it back into shape before stuffing it into her bag with everything else. It<span
+dir="rtl">'</span>s always raining in Sheffield, so no news there - the joke being that if it<span
+dir="rtl">'</span>s not raining it\'s snowing. She puts up the hood of her duffle coat and makes her
+way across the campus. The duffle coat had been her mum's idea: "It will keep you as warm as toast,
+Alexandra," she had pronounced as Alex tried it on. Alex glances at her reflection in the windows of
+the Co-Op, weighing up whether she looks more like Paddington Bear or a World War II sea dog.
+Paddington wins out. But, she has to admit, her mother was right (as ever!) and her trusty duffle
+keeps out most of what Sheffield's weather throws at her. She thinks about catching the bus, but
+decides to walk to clear her head. Besides, the rain seems to be trailing off.
 
 There is little traffic around as Alex dawdles along Clarkehouse Road, chip butty in one hand and
 paper cup of tea in the other. She<span dir="rtl">'</span>s happy to let her mind wander and see if
@@ -69,7 +69,7 @@ As she puts her key in the door, she is aware of movement in the kitchen - a sha
 the wall? She puts her bag down in the hallway and calls out, "Hello?" No-one answers. She waits for
 a moment or two and then calls out again: "Hi? Anyone there?" Again, no-one answers. Feeling a
 little foolish she tip-toes to the kitchen and turns on the light. No-one there. "Seeing ghosts,
-now. Marvellous. How Hamlet of me," Alex says under her breath, and goes to hang up her coat. Since
+now. Marvellous. How Macbeth of me," Alex says under her breath, and goes to hang up her coat. Since
 Victoria is out, she decides to take advantage of her landlady's cosy kitchen while she rakes over
 her notes from her evening's work. She makes herself comfortable at the breakfast bar and takes out
 her laptop. She helps herself to a glass of Malbec: Victoria is liberal with her wine stash,
@@ -112,13 +112,13 @@ Tetley's, grateful that she can stay in her room and not face the world.
 
 Sipping her tea, Alex tries to pull her thoughts together on her Shakespeare paper. She realises the
 characters aren't the main issue: Shakespeare's personal views are. Her job is to find out what
-Shakespeare's worldview might be on any given topic, but she can hardly dig like poor Yorick and ask
-him. His sonnets might have some clues; she had wanted to avoid Shakespeare's views on women in
-society, but after last night, she thinks she might have an approach she can explore in more depth.
-But which female characters to chose? In Alex's opinion most of Shakespeare's tragic women are
-either simpering ninnies or spiteful harpies, so best to chose contrasting women that she can link
-to the sonnets. No-one too obvious....Goneril? Lady Capulet? Gertrude? Hmmmm. Opening her laptop,
-she starts to type out her ideas.
+Shakespeare's worldview might be on any given topic, but she can hardly dig him up like poor Yorick
+and ask him. His sonnets might have some clues; she had wanted to avoid Shakespeare's views on women
+in society, but after last night, she thinks she might have an approach she can explore in more
+depth. But which female characters to chose? In Alex's opinion most of Shakespeare's tragic women
+are either simpering ninnies or spiteful harpies, so best to chose contrasting women that she can
+link to the sonnets. No-one too obvious.... Goneril? Lady Capulet? Gertrude? Hmmmm. Opening her
+laptop, she starts to type out her ideas.
 
 That evening, a rough draft of her essay is ready: "Shakespeare's tragic women: what was he
 thinking?" Alex prints off a copy and takes it downstairs for Victoria to read. She is curled up on

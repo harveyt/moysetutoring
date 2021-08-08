@@ -246,8 +246,8 @@ fight. He would back away, blushing and stammering when the playground bully sto
 homework or pulled his sister<span dir="rtl">'</span>s hair. May suspects that Geoffrey knows his
 son-in-law has a cruel and vicious streak: it's not that he is insensitive to what is going on in
 his family, it's just that he prefers a quiet life with as little drama as possible. A cold beer and
-the test match on tele, rather than a serious conversation with his wife. Shelling out for an
-expensive wedding rather than sitting his daughter down and asking about her fiancés anger issues.
+the test match on telly, rather than a serious conversation with his wife. Shelling out for an
+expensive wedding rather than sitting his daughter down and asking about her fiancé's anger issues.
 Now Geoffrey's sister has to step up. As Virginia talks through the various options before them, May
 finds herself getting increasingly irritated and frustrated. Why should Virginia have to deal with
 this? Why doesn't Geoffrey grow a pair and confront this young man rather than turning a blind eye
@@ -256,5 +256,5 @@ and allowing his daughter to be put in danger?
 May and Virginia talk until the sun starts to set. Their conversation has run in circles, but in the
 end, there is still only one solution. They sit in silence for a while, both contemplating what the
 repercussions of their intervention might be. Their thoughts are interrupted by a grating sound
-behind them. Coming through the back gate is a desolate young woman, wheeling a suitcase over the
+behind them. Coming through the back gate is a desolate young woman, wheeling her suitcase over the
 gravel path.

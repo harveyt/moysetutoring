@@ -7,13 +7,13 @@ kind: "misc"
 weight: 100
 ---
 
-## Creative writing suggested by Stephen King 
+## *Creative writing suggested by Stephen King* 
 
-Jack is bone weary. The past few weeks have been draining and he needs to take some time to think,
+Jack is bone weary. The past few weeks have been exhausting and he needs to take some time to think,
 to regroup somehow. The London traffic is treacle-slow: Saturday afternoon in Greenwich and the
 tourists are out in force. Gaggles of teenagers arm-in-arm making their way up the high street;
 groups of elderly Japanese, following their earnest guide who holds a yellow umbrella aloft and
-steers them towards the Cutty Sark. At least his journey home gives him time to reflect, even
+steers them towards the *Cutty Sark.* At least his journey home gives him time to reflect, even
 though, he calculates, it would have been faster to walk. No matter. He is looking forward to a
 couple of hours in his own head.
 
@@ -25,9 +25,9 @@ didn't see it coming.
 
 The trial was mercifully short: after an initial refusal to face the consequences of her terrible
 actions, Jill had been persuaded to plead guilty, and was now banged up in HMP Downview. She has
-contacted Jack via his solicitor and asked if Nell can visit. No. No she can't. Jack won't
-countenance it. Nell is terrified of her mother, with good reason, and there is no way that Jack
-will expose his daughter to any more harm. "Over my dead body", he mutters to himself. No
+contacted Jack via his solicitor and asked if Nell can visit. No she can't. Absolutely not. Jack
+won't countenance it. Nell is terrified of her mother, with good reason, and there is no way that
+Jack will expose his daughter to any more harm. "Over my dead body", he mutters to himself. No
 three-year-old should have to experience the anguish that Nell has endured. At least the press
 interest has abated, moved on to their next salacious story, to their next grieving family splashed
 all over the tabloids.
@@ -68,13 +68,13 @@ unravelling mental health that had driven her actions. On the other hand, he can
 attempt to cause Nell harm. Although Jack is emotionally and physically drained, Nell has bounced
 back. He is aware that he is overprotective of her now. However, today he has managed to corral his
 fears to the back of his mind, and has dropped Nell off at a friend's house for a birthday party.
-Dressed in her favourite princess outfit, with Lola the Llama stuffed under one arm, and a
+Dressed in her favourite princess outfit, with Lola the Llama stuffed under one arm and a
 pink-wrapped gift under the other, she had skipped up the front steps to her friend's house and
 barely given her dad a wave goodbye before running to join the party. Jack smiles. Children are
 amazingly resilient: that's not just a platitude that so many people have told him. He parks the car
 outside the house and puts his key in the lock.
 
-He is met by Olaf the cat. Olaf, according to Nell, is "the bestest cat in all the world." Jack
+He is met by Olaf the cat. Olaf, according to Nell, is, "the bestest cat in all the world." Jack
 thinks Olaf is a lazy lump of a cat who is only ever interested in sleeping or eating. Olaf,
 however, has an inner radar that alerts him to Jack's arrival and the possibility of supper. Jack is
 barely through the door when Olaf makes his presence felt, winding himself around Jack's legs like a
@@ -97,7 +97,7 @@ makes himself a cup of tea. Watching the cat gobble down his supper, he realises
 hungry, so puts a couple of thick slices of bread in the toaster. Tea and toast: the answer to every
 malaise, he thinks. As he spreads a generous layer of butter on his toast, he hears a floorboard
 creak upstairs. Strange creaking sounds are not unusual in this old house, but the sound unnerves
-him. "Well it can't be Olaf", he thinks, so he creeps up the stairs to investigate. All is quiet.
+him. "Well, it can't be Olaf", he thinks, so he creeps up the stairs to investigate. All is quiet.
 Just the faint sound of traffic a couple of streets away and an airplane high overhead. He goes back
 downstairs to the kitchen, puts his tea and toast onto a tray and carries it through to the living
 room. He kicks off his shoes and stretches himself on the sofa. Olaf plonks himself on Jack's lap,
@@ -135,7 +135,7 @@ to laugh: the whole scene is absurd, like something from a third-rate horror fil
 "Jill, put down the knife. You don't want to do this." You don't want to do this? What kind of a
 banal question is that? Jack has to come up with something better. Fast.
 
-"You don't know what I want, Jack, you never have."
+"You don't know what I want, Jack, you never did."
 
 "Put down the knife." Jack repeats, doing his damnedest to keep his voice firm but level, to keep
 Jill calm.
