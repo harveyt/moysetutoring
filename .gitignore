@@ -2,6 +2,7 @@
 /.preview/
 /themes/hugo-strata-theme
 /.deploy/
+/.hugo_build.lock
 /temp/
 *~
 

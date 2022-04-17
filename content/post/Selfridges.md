@@ -1,8 +1,8 @@
 ---
-date: "2022-04-17T13:00:00-08:00"
+date: "2021-08-16T13:00:00-08:00"
 title: "Selfridges"
 description: "Sally is on the train going to London."
-ekind: "box"
+kind: "misc"
 keywords:
 weight: 190
 ---
@@ -176,13 +176,10 @@ as fast as her legs will carry her.
 At the Lost Property counter (for lost property and lost persons), Roy takes down all the details,
 filling out a small brown luggage tag, which he attaches securely to Nellie's trunk.
 
-Description: *Grey stuffed toy elephant*
-
-Found: *Ladies' Fashion, knitwear, 1.46pm*
-
-Date: *Saturday, 14th October, 1978*
-
-Found by: *Sally*
+Description: Grey stuffed toy elephant  
+Found: Ladies' Fashion, knitwear, 1.46pm  
+Date: Saturday, 14th October, 1978  
+Found by: Sally  
 
 "Well, Nellie," says Roy, "I'll pop you on the shelf for now. I have a feeling you won't be with us
 for very long."
