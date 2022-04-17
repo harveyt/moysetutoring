@@ -99,20 +99,20 @@ of winter? And with that thought, Sunny grabs the dog's lead and her coat and he
 ## Rose and Chris
 ### 11, Wellington Road, June 2020
 
-Rose is busy at her sewing machine. She's making her fourth pair of scrubs for the local care home.
-It was her work colleague, Caroline, who told her about the sewing project that she had embarked on
+Rose is busy at her sewing machine. She's making her fourth pair of scrubs for the local care home;
+it was her work colleague, Julie, who told her about the sewing project that she had embarked on
 with her Women's Institute ladies. No surprise that care homes, hospices and even hospitals have
-been running short of scrubs, as they needed to change clothes more frequently. The WI had answered
+been running short of scrubs, as they need to change clothes more frequently. The WI had answered
 the call, and had provided patterns and fabric to anyone who had a sewing machine and a few
 dressmaking skills. The tricky part was getting hold of suitable soft cotton fabric, especially with
 fabric shops closed during lockdown. Some bright spark came up with the perfect solution: old
 bedlinen! The word went out, and thousands of bed sheets, pillowcases and duvet covers were
-corralled and distributed to the veritable army of WI sewers. The WI is not Rose's cup of tea, but
-she's more than happy to "do her bit" in her afternoons off. Today she is creating a fetching outfit
-made from some soft cotton sheets given to her by their neighbour, Jessie. Right now, she is
-wrestling with the in-seam pockets in the trousers, over-stitching the top so that the pocket does
-not rip easily with continuous use. The pocket is not co-operating, and she's getting increasingly
-exasperated.
+corralled and distributed to the veritable army of WI sewers. The WI is not really Rose's cup of
+tea, but she's more than happy to "do her bit" in her afternoons off. Today she is creating a
+fetching outfit made from some soft cotton sheets given to her by their neighbour, Jessie. Right
+now, she is wrestling with the in-seam pockets in the trousers, over-stitching the top so that the
+pocket does not rip easily with continuous use. The pocket is not co-operating, and she's getting
+increasingly exasperated.
 
 It's the end of June, and England has been out of lockdown for a week or two: shops have started to
 open up, and families have been able to get together. Rose and her husband, Chris, have stayed
@@ -125,7 +125,7 @@ Rose's abundant patience, good sense and caring heart have got her through even 
 days. These past few months have been particularly harrowing, with family members unable to say
 final goodbyes in person, so Rose has had to come up with all manner of ideas to ensure that their
 loved ones know that they are not alone. Many times she has sat with a dying patient, holding their
-hands, letting them know that they are loved as they fade away. She's facilitated hundreds of
+hands, letting them know that they are loved as they fade away. She's facilitated dozens of
 *FaceTime* and *Skype* calls and allowed families to come and wave and blow kisses through outside
 windows. Many times she has come home exhausted and drained, to be comforted by Chris, who has - she
 reflects - been an absolute rock.
@@ -175,7 +175,8 @@ bit - or you could read your magazine? Can I get you a glass of something to kee
 
 Chris leaves her to it and eases himself into his favourite armchair. He turns on the telly, and
 sips his beer as he watches the evening news. He's just taking in the latest Covid numbers as he
-hears a shriek from the conservatory, followed by a stream of curses.
+hears a shriek from the conservatory, followed by a stream of basic Anglo Saxon he rarely hears from
+his wife.
 
 "What on earth?" Chris finds Rose trying to mop up the glass of wine, which she has knocked over
 into her sewing. Chris runs for the kitchen roll, and comes back to find Rose sitting on the floor,
@@ -199,26 +200,26 @@ Rose smiles a little, her bottom lip still wobbly.
 
 "Come on, let me give you a hand."
 
-Together they wipe up the rest of the wine and put the fabric in the washing machine. Chris pours
+Together they sponge off the rest of the wine and put the fabric in the washing machine. Chris pours
 Rose another glass of wine, and they tuck into the shepherd's pie in companionable silence.
 
 The next day, Chris gets a call from Jessie. She's been busy doing a clear out of her bedlinen and
 has several pillowcases for Rose: "Can she use any more? I don't want to dump stuff on her that she
 can't use."
 
-"Not a problem, Jessie," Chris her, "if she can't use them she'll pass them on to Caroline at the
+"Not a problem, Jessie," Chris her, "if she can't use them she'll pass them on to Julie at the
 Women's Institute."
 
 "Marvellous...I don't want to be a nuisance Chris, but could you pick up a couple of bits and pieces
-for me when you are next in Tescos? I'm nearly out of teabags."
+for me when you are next in Tesco\'s? I'm nearly out of teabags."
 
 "'Course I can, let me get a pencil and I'll write a list."
 
 That afternoon, as Rose carries on with her sewing, Chris is making his way through the supermarket.
-At least things have calmed down since the panic buying of March, when *Tesco* looked as if it had
+At least things have calmed down since the panic buying of March, when Tesco looked as if it had
 been stripped clean by a swarm of locusts. Chris wonders what his Grandma would have made of the
 pandemic. Rose reminds him of his grandmother: stoic, resolute, but kind and compassionate. She'd
-experienced the privations of World War Two: his mum says she could make a bowl of scraps into a
+experienced the privations of World War Two; his mum says she could make a bowl of scraps into a
 tasty soup, as if by magic. How she had endured the dreadful worry of a husband away in France,
 Chris cannot imagine. He thinks of Covid-19 as his generation's war: a time to keep your head and
 face the crisis with quiet resolution. Chris has no time for the moaning Minnies complaining that
@@ -230,10 +231,10 @@ who are struggling to learn at home and have not been able to meet up with their
 As he carefully chooses some vegetables for Jessie, he wonders how this will all end. Hopefully, a
 vaccine can be produced before the death toll reaches horrific numbers. He takes time to thank the
 woman at the check-out for her help, and loads the car with several bags. He gives Jessie a quick
-call to let her know he is on his way; they barely met Jessie before Covid hit, but she has been a
-delight to get to know. Now they have quite the grocery routine going so that she doesn't need to go
-to the supermarket and run the risk of getting Covid. Chris keeps forgetting that she is 93 - she
-seems to have the mind and attitude of someone several decades younger.
+call to let her know he is on his way. Funny how they barely met Jessie before Covid hit, but she
+has been a delight to get to know. Now they have quite the grocery routine going so that she doesn't
+need to go to the supermarket and run the risk of getting Covid. Chris keeps forgetting that she is
+93 - she seems to have the mind and attitude of someone several decades younger.
 
 Back home, Rose is singing along to *Radio 2* as she zips through another pair of scrubs - this time
 from a duvet cover donated by Jules at number 4. "Look at this one, Chris," Rose calls from the
@@ -370,8 +371,8 @@ is still no definite news on a vaccine, although Jessie has her money on one bei
 Oxford University. Nothing for it but to grit your teeth and get on with it - "Keep Calm and Carry
 On" and all that - no light at the end of the tunnel yet. She wonders what will happen at Christmas.
 Will people be able to get together again, or will everything be cancelled this year? Well, at least
-she'll have a valid excuse for not inviting her son-in-law over. It's not that she doesn't like him
-- she does. He's a good-hearted soul, and he is concerned for her, but she finds it all so
+she'll have a valid excuse for not inviting her son-in-law over. It's not that she doesn't like
+him - she does. He's a good-hearted soul, and he is concerned for her, but she finds it all so
 wearisome. Frankly, she'd rather curl up with a good book and a mince pie all by herself. Covid has
 made all the fussing worse - the poor man has been so anxious for her well-being that she's found
 herself consoling him when he's called to check up on her. She is well aware that fear of Covid is

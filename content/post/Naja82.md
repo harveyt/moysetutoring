@@ -7,7 +7,7 @@ kind: "covid"
 weight: 100
 ---
 
-## *With thanks to Yussanne*
+### *With thanks to Yussanne*
 
 Naja82 is bored. Two months into lockdown, and he's feeling weary of the whole thing. It's an odd
 range of emotions: on one side anxious about how this might all play out, but on the other fed up
@@ -24,7 +24,7 @@ sighs. "Time for a brew, eh, Julie?" Julie doesn't reply, knowing the question w
 Naja82 shuffles to the kitchen to make a cup of tea.
 
 As the kettle boils (whoever quipped, "a watched kettle never boils" was right) Naja82 looks out of
-the window. June in Edinburgh is nice. Less rainy. Less cold. More flowers and what-not. A few
+the window. June in Edinburgh is nice. Less rainy. Less cold. More flowers and so forth. A few
 scrappy clouds in the sky, and a breeze coming off the Firth of Forth. Nice. He wonders if he should
 go for a walk. He's tried to take at least a short stroll most days since lockdown. What is it now?
 Must be about the 64th of March. He's not entirely sure what day of the week it is. Blursday. It's
@@ -41,7 +41,7 @@ Back at his desk he waits for his build to complete whilst sipping his tea. He y
 whether he is bored or hungry. Probably both, but also starting to feel a tad antsy. When the
 lockdown was ordered, there wasn't much to do, other than wrestle his work computer into he back of
 a taxi and set it up at home. He had all the wires and bits of kit that he needed to keep going
-without skipping a beat. Admittedly he did take the time to give his desk its annual clean, and put
+without skipping a beat. Admittedly, he did take the time to give his desk its annual clean, and put
 Julie in a less precarious position, since he didn't want to water his work computer as well as the
 spider plant. He wanders over to the window, where he has a view of the street.
 
@@ -85,7 +85,7 @@ Edinburgh have lost their collective minds. <span dir="rtl">"</span>Gane gyte,"[
 no-one in particular. Two months in, and folks have started to calm down, but Naja82 has been
 dumbfounded by some of the idiocy he reads about in the news. He's glad that his parents are in
 robust health and staying at home and acting like rational human beings. He's been doing their
-online grocery shopping for them; he says its so they have one less thing to worry about, and
+online grocery shopping for them; he says it's so they have one less thing to worry about, and
 besides, computers are what he does for a living and all that. In truth, it means he can check in
 with his folks once a week and make sure they are ticking along OK. They are. Better than he
 expected, come to think of it. But then, Mum's happy enough reading anything she can lay her hands
@@ -110,7 +110,7 @@ he decides to get a better look. George IV, it informs him. Makes sense. Visited
 sometime ago. Lots of Roman numerals follow, but he's not curious enough to figure it out, plus he
 can Google it later (he doesn't). However, he is curious to know why King George got a statue just
 for visiting Scotland - you'd think he'd have to put in a little more effort to get his own
-memorial. Like climb Ben Nevis or row a boat over to Skye. Or sit for 14 years on his owner's grave.
+memorial. Like climb Ben Nevis or row a boat over to Skye. Or sit for 14 years by his owner's grave.
 Naja82 is definitely not impressed and carries on up the road without so much as a by-your-leave.
 Although, this line of thinking does make him wonder how Greyfriars Bobby is getting along. Poor dog
 must be very confused that no-one has been to visit him for the past couple of months. No wonder his
@@ -121,18 +121,20 @@ butter, milk, cornflakes and bread would be a good start. He grabs a basket from
 adjusts his face mask and heads for the bread section. On the way, he picks up a couple of tins of
 baked beans and a frozen pizza (saves getting a takeaway later). He's quite enjoying himself,
 crossing items off his mental shopping list, until he gets to the peanut butter section. It looks
-like peanut butter-eating locusts have been through - not a jar of the stuff left for love nor
+like peanut butter-eating locusts have been through - not a jar of the stuff to be had for love nor
 money. Another customer is also gawping at the empty shelves - a woman, Naja82 notes. She looks at
 him: "D'you know I think people have gone bonkers," she says with a very English accent, "how much
 peanut butter can one person possibly eat?" He laughs, "Yup, along with all the frozen peas and
 pasta. I wonder if we will look back on this in a ten years and give our heads a shake?" "I doubt
-it," she replies, "I imagine all these moments will be lost in time..." "...like tears in rain," he
-finishes for her. They look at each other, puzzled, but oddly pleased.
+it," she replies, "I imagine all these moments will be lost in time..." "...*like tears in the
+rain*[3]*,*" he finishes for her. They look at each other, puzzled, but oddly pleased.
 
 As he walks home, Naja82 can't help but smile to himself. Despite carrying two heavy bags of
 groceries, he takes the stairs two steps at a time. Putting his shopping down in the kitchen, he
 calls over to the spider plant: "Julie, I think you might have some competition!"  
 
-[1] Translates as "gone crazy" or "lost their mind"
+[1] Translates as "gone crazy" or "lost their minds"
 
 [2] Rough translation: "Keep calm and carry on"
+
+[3] Quote from *Bladerunner,* beloved by nerds.

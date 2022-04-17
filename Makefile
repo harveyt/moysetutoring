@@ -46,7 +46,8 @@ ARTICLES = \
 	David \
 	Andrew \
 	Alison \
-	Laura
+	Laura \
+	Selfridges
 
 # fur-coat
 
