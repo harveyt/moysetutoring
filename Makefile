@@ -7,49 +7,47 @@ TEMP = temp
 
 .NOTPARALLEL:
 
-# ARTICLES = \
-# 	Alison \
-# 	Andrew \
-# 	David \
-# 	Jack \
-# 	Laura \
-# 	Naja82 \
-# 	Selfridges \
-# 	WellingtonRoad \
-# 	alex \
-# 	aquarius \
-# 	arithmetic \
-# 	arthur \
-# 	baggage \
-# 	ben \
-# 	borders \
-# 	brenda \
-# 	brownie \
-# 	cathy \
-# 	cats \
-# 	daphne \
-# 	duncan \
-# 	elizabeth \
-# 	gill \
-# 	ginny \
-# 	hastings \
-# 	joe \
-# 	john \
-# 	kames \
-# 	kay \
-# 	kindness \
-# 	lassie \
-# 	lizzy \
-# 	mazed \
-# 	pat \
-# 	peter \
-# 	princes \
-# 	ronald \
-# 	shelter \
-# 	syn \
-# 	tom \
-
 ARTICLES = \
+	Alison \
+	Andrew \
+	David \
+	Jack \
+	Laura \
+	Naja82 \
+	Selfridges \
+	WellingtonRoad \
+	alex \
+	aquarius \
+	arithmetic \
+	arthur \
+	baggage \
+	ben \
+	borders \
+	brenda \
+	brownie \
+	cathy \
+	cats \
+	daphne \
+	duncan \
+	elizabeth \
+	gill \
+	ginny \
+	hastings \
+	joe \
+	john \
+	kames \
+	kay \
+	kindness \
+	lassie \
+	lizzy \
+	mazed \
+	pat \
+	peter \
+	princes \
+	ronald \
+	shelter \
+	syn \
+	tom \
 	Awareness \
 	Conversation \
 	Coronation \
