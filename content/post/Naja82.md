@@ -132,9 +132,15 @@ rain*[3]*,*" he finishes for her. They look at each other, puzzled, but oddly pl
 As he walks home, Naja82 can't help but smile to himself. Despite carrying two heavy bags of
 groceries, he takes the stairs two steps at a time. Putting his shopping down in the kitchen, he
 calls over to the spider plant: "Julie, I think you might have some competition!"  
-
-[1] Translates as "gone crazy" or "lost their minds"
-
-[2] Rough translation: "Keep calm and carry on"
-
-[3] Quote from *Bladerunner,* beloved by nerds.
+[1]
+<div custom-style="Footnote">
+Translates as "gone crazy" or "lost their minds"
+</div>
+[2]
+<div custom-style="Footnote">
+Rough translation: "Keep calm and carry on"
+</div>
+[3]
+<div custom-style="Footnote">
+Quote from *Bladerunner,* beloved by nerds.
+</div>

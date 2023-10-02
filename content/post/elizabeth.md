@@ -31,22 +31,22 @@ her cherry-red jacket from the hook, scoops up her car keys and handbag and head
 
 The drive to the church is not long --- twenty minutes or so --- allowing Elizabeth to take her
 time and compose her thoughts. She<span dir="rtl">'</span>d known Bess since their first day at
-school. To her dismay, she had found out there were three Elizabeths in Mrs. Beckwith<span
-dir="rtl">'</span>s class, but they were soon differentiated by their formidable teacher: Bess,
-Lizzy and Elizabeth. The three had remained in touch over the years; it was Elizabeth who had sent a
-note to Lizzy letting her know that Bess had died. She<span dir="rtl">'</span>d thought about
-phoning her, but in the end, could not face repeating the same awful information to one more person
-listed in Bess\'s pretty address book. Lizzy was too good a friend to telephone with such dreadful
-news, she reasoned, and a hand-written note seemed more appropriate. Bess\'s family (an older
-brother and an elderly aunt) had asked for her to be buried in the family plot by the sea in a
-private ceremony, so there will be no wake after the church service. Elizabeth is somewhat relieved:
-such occasions are always fraught with emotion and sadness, people clutching a plate of curled up
-sandwiches and a cup of lukewarm, over-milky tea, trying to make polite conversation. No. She hopes
-that she and Lizzy will spend a quiet afternoon reminiscing, remembering their beautiful friend and
-celebrating her life with a gin and tonic or two. On that thought, Elizabeth turns into the church
-car park. There are only a few spaces left: clearly there will be quite a send off for Bess.
-Elizabeth checks her face in her rear-view mirror, and takes a deep breath before locking the car
-door and making her way into the church.
+school. To her dismay, she had found out there were three Elizabeths in Mrs.
+Beckwith<span dir="rtl">'</span>s class, but they were soon differentiated by their formidable
+teacher: Bess, Lizzy and Elizabeth. The three had remained in touch over the years; it was Elizabeth
+who had sent a note to Lizzy letting her know that Bess had died. She<span dir="rtl">'</span>d
+thought about phoning her, but in the end, could not face repeating the same awful information to
+one more person listed in Bess\'s pretty address book. Lizzy was too good a friend to telephone with
+such dreadful news, she reasoned, and a hand-written note seemed more appropriate. Bess\'s family
+(an older brother and an elderly aunt) had asked for her to be buried in the family plot by the sea
+in a private ceremony, so there will be no wake after the church service. Elizabeth is somewhat
+relieved: such occasions are always fraught with emotion and sadness, people clutching a plate of
+curled up sandwiches and a cup of lukewarm, over-milky tea, trying to make polite conversation. No.
+She hopes that she and Lizzy will spend a quiet afternoon reminiscing, remembering their beautiful
+friend and celebrating her life with a gin and tonic or two. On that thought, Elizabeth turns into
+the church car park. There are only a few spaces left: clearly there will be quite a send off for
+Bess. Elizabeth checks her face in her rear-view mirror, and takes a deep breath before locking the
+car door and making her way into the church.
 
 Bess was a regular at St. Michael and All Angels, and it seems the entire congregation has turned
 out to bid her farewell. The church is (surprisingly!) warm and she is welcomed by a polite and
@@ -72,22 +72,23 @@ reveal an elegant bright-red dress. She looks at Elizabeth: <span dir="rtl">"</s
 think? I just couldn<span dir="rtl">'</span>t wear black." "Me either. You look wonderful - just
 perfect." Lizzy smiles and smooths the skirt of her dress as the congregation rises for the funeral
 procession. The words of the vicar are clear above the shuffling of Bess\'s aunt, who makes her way
-up the aisle on her nephew<span dir="rtl">'</span>s arm, her shoes scuffing on the flagstones: <span
-dir="rtl">"</span>Rest eternal grant unto them, O Lord: and let light perpetual shine upon them..."
+up the aisle on her nephew<span dir="rtl">'</span>s arm, her shoes scuffing on the flagstones:
+<span dir="rtl">"</span>Rest eternal grant unto them, O Lord: and let light perpetual shine upon
+them..."
 
 The funeral is both fitting and uplifting: a thoughtful and strikingly honest eulogy from Bess\'s
 brother, a reasonably tuneful version of <span dir="rtl">"</span>All Things Bright and Beautiful"
 and a heart-felt song from the school choir, that leaves most of the congregation reaching for their
 tissues. The service concludes with a final prayer: <span dir="rtl">"</span>O Father of all, we pray
-to thee for those whom we love, but see no longer..." More tears drip from Elizabeth<span
-dir="rtl">'</span>s chin; she dabs at them hopelessly with her hanky - now a damp, scrunched-up
-ball. At this moment, the thought of seeing Bess no longer seems too awful to contemplate. She
-glances at Lizzy, who has fixed her gaze firmly on the vicars face, but is biting her lower lip as
-tears dribble down her cheeks. Bess\'s coffin is slowly, tenderly, taken out to the waiting hearse,
-which will take her on her last trip to the seaside. Elizabeth and Lizzy gather their belongings and
-leave the church arm-in-arm in grateful comfort, neither wanting to speak. One of the Girl Guides
-hands them each a bunch of daffodils and a small card - a thank you for coming, where no thanks are
-needed.
+to thee for those whom we love, but see no longer..." More tears drip from
+Elizabeth<span dir="rtl">'</span>s chin; she dabs at them hopelessly with her hanky - now a damp,
+scrunched-up ball. At this moment, the thought of seeing Bess no longer seems too awful to
+contemplate. She glances at Lizzy, who has fixed her gaze firmly on the vicars face, but is biting
+her lower lip as tears dribble down her cheeks. Bess\'s coffin is slowly, tenderly, taken out to the
+waiting hearse, which will take her on her last trip to the seaside. Elizabeth and Lizzy gather
+their belongings and leave the church arm-in-arm in grateful comfort, neither wanting to speak. One
+of the Girl Guides hands them each a bunch of daffodils and a small card - a thank you for coming,
+where no thanks are needed.
 
 Elizabeth parks her car on the road outside her flat. She is weary and sad, but pleased that she and
 Lizzy had a chance to catch up, if only for a brief cup of coffee at the station cafe before Lizzy

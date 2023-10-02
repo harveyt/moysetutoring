@@ -69,7 +69,9 @@ my design, and decide to embellish it with a few flowers. Mrs. R--- is surprised
 disheartened with he final result: "Oh! The flowers that bloom in the Spring, tra la!" she chirps. I
 may have overdone it with the azaleas. Still, my tile is put on display for Parents' Evening, so my
 efforts have not been entirely in
-vain.
+vain.<img src="media/image1.jpeg" style="width:6.5in;height:4.25234in"
+alt="Glasgow-tenement-backs-1970.jpg" /><img src="media/image1.png" style="width:6.63889in;height:4.44678in"
+alt="Glasgow-tenement-backs-1970.jpg" />
 
 Most of the time, Mr. S--- gives the morning assembly. These are punctilious affairs: no-nonsense,
 get-to-the-point, get-back-to-work kind of assemblies. Occasionally we have an outside group come in
@@ -107,5 +109,7 @@ that I am powerless to affect.
 
 The middle-aged is walking purposefully along the grimy sidewalks of the sad neighbourhood, upset by
 the wretched housing and aimless people. She is doing something about it.
-
-[1] *When I needed a neighbour, were you there, were you there? ---* Sydney Carter (1965)
+[1]
+<div custom-style="Footnote">
+*When I needed a neighbour, were you there, were you there? ---* Sydney Carter (1965)
+</div>

@@ -50,8 +50,8 @@ keep her head. Beyond that, she must take each day as it comes. First off, she n
 which students have parents who are essential workers, since they will still be coming into school.
 She scribbles down a few possibles. Funny how just a month ago, peoples<span dir="rtl">'</span>
 ideas of who was an essential worker would have been very different - she cannot imagine that anyone
-would have the Tesco<span dir="rtl">'</span>s delivery guy on their list of people they can<span
-dir="rtl">'</span>t do without.
+would have the Tesco<span dir="rtl">'</span>s delivery guy on their list of people they
+can<span dir="rtl">'</span>t do without.
 
 She<span dir="rtl">'</span>s made a wine-ring stain on her page, and starts to doodle around it.
 It<span dir="rtl">'</span>s a habit of hers; before she knows it she<span dir="rtl">'</span>s

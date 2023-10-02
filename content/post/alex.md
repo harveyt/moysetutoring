@@ -32,36 +32,36 @@ but is still not making progress. "Ah, me." She says in her best Juliet voice.
 As the closing buzzer sounds, she returns the books to the trolley, shoves her laptop into her bag
 and makes her way out of the stacks. It is raining when she gets outside, and the wind tunnel that
 is the gap between the library and the Arts Tower swiftly turns her umbrella inside-out. Alex
-wrestles it back into shape before stuffing it into her bag with everything else. It<span
-dir="rtl">'</span>s always raining in Sheffield, so no news there - the joke being that if it<span
-dir="rtl">'</span>s not raining it\'s snowing. She puts up the hood of her duffle coat and makes her
-way across the campus. The duffle coat had been her mum's idea: "It will keep you as warm as toast,
-Alexandra," she had pronounced as Alex tried it on. Alex glances at her reflection in the windows of
-the Co-Op, weighing up whether she looks more like Paddington Bear or a World War II sea dog.
-Paddington wins out. But, she has to admit, her mother was right (as ever!) and her trusty duffle
-keeps out most of what Sheffield's weather throws at her. She thinks about catching the bus, but
-decides to walk to clear her head. Besides, the rain seems to be trailing off.
+wrestles it back into shape before stuffing it into her bag with everything else.
+It<span dir="rtl">'</span>s always raining in Sheffield, so no news there - the joke being that if
+it<span dir="rtl">'</span>s not raining it\'s snowing. She puts up the hood of her duffle coat and
+makes her way across the campus. The duffle coat had been her mum's idea: "It will keep you as warm
+as toast, Alexandra," she had pronounced as Alex tried it on. Alex glances at her reflection in the
+windows of the Co-Op, weighing up whether she looks more like Paddington Bear or a World War II sea
+dog. Paddington wins out. But, she has to admit, her mother was right (as ever!) and her trusty
+duffle keeps out most of what Sheffield's weather throws at her. She thinks about catching the bus,
+but decides to walk to clear her head. Besides, the rain seems to be trailing off.
 
 There is little traffic around as Alex dawdles along Clarkehouse Road, chip butty in one hand and
 paper cup of tea in the other. She<span dir="rtl">'</span>s happy to let her mind wander and see if
-she can get some inspiration for her essay. She has a week or so before it is due, but she<span
-dir="rtl">'</span>s frustrated with her lack of progress. She's in no particular rush to get home:
-her landlady is out tonight, so the house will be empty. She likes living with Victoria since their
-relationship is warm but not too chummy. They both prefer to keep themselves to themselves, and
-respect each others' space. Alex has to work hard in her vacations to afford the rent, but it's well
-worth it: she has a large attic room with its own bathroom and a separate study area where she has a
-microwave and a hotel-sized fridge for her own bits and bobs. The house is a handsome Edwardian semi
-on a quiet tree-lined street. Victoria had worked as a professor of anthropology until she retired a
-few years back; she and her husband had divorced years ago and her children have long since flown
-the nest. Alex provides Victoria with both a much-valued company and much-appreciated income to keep
-her ticking over. Into the bargain, Victoria is a mentor as well as a landlady, generous enough to
-read Alex<span dir="rtl">'</span>s papers and make comments and suggestions. Victoria is out with
-her latest beau tonight. Victoria seems to have had a procession of well-heeled and well-mannered
-suitors over the past few months. Alex has had to admit a grudging admiration for Victoria's ability
-to attract men even in her late 60s, especially since her own love-life has been dead in the water
-since - well, since forever. But then, "Cupid. is a knavish lad, thus to make females mad", Alex
-quotes to herself. "Thanks for that gem, Puck, so encouraging." She frowns, and crosses the road
-towards the house. It's quiet now. Alex checks her phone: 9:32.
+she can get some inspiration for her essay. She has a week or so before it is due, but
+she<span dir="rtl">'</span>s frustrated with her lack of progress. She's in no particular rush to
+get home: her landlady is out tonight, so the house will be empty. She likes living with Victoria
+since their relationship is warm but not too chummy. They both prefer to keep themselves to
+themselves, and respect each others' space. Alex has to work hard in her vacations to afford the
+rent, but it's well worth it: she has a large attic room with its own bathroom and a separate study
+area where she has a microwave and a hotel-sized fridge for her own bits and bobs. The house is a
+handsome Edwardian semi on a quiet tree-lined street. Victoria had worked as a professor of
+anthropology until she retired a few years back; she and her husband had divorced years ago and her
+children have long since flown the nest. Alex provides Victoria with both a much-valued company and
+much-appreciated income to keep her ticking over. Into the bargain, Victoria is a mentor as well as
+a landlady, generous enough to read Alex<span dir="rtl">'</span>s papers and make comments and
+suggestions. Victoria is out with her latest beau tonight. Victoria seems to have had a procession
+of well-heeled and well-mannered suitors over the past few months. Alex has had to admit a grudging
+admiration for Victoria's ability to attract men even in her late 60s, especially since her own
+love-life has been dead in the water since - well, since forever. But then, "Cupid. is a knavish
+lad, thus to make females mad", Alex quotes to herself. "Thanks for that gem, Puck, so encouraging."
+She frowns, and crosses the road towards the house. It's quiet now. Alex checks her phone: 9:32.
 
 As she walks up the path towards her front door, Alex has a strange someone-walking-over-your-grave
 moment. The house is dark, apart from a light in the hallway that Victoria leaves on in the evening.
@@ -128,5 +128,7 @@ Something has changed in the girl - a shift that is evident in her voice and pos
 don't mind." Replacing her glasses, she begins to read. Alex sits patiently like a dog in a vet's
 waiting room, anxious for the verdict. Victoria puts down the essay and looks directly at her. "You
 have a voice, Alex. Use it."
-
-[1] A sandwich made with buttered white bread and thick-cut fries. No substitutes allowed.
+[1]
+<div custom-style="Footnote">
+A sandwich made with buttered white bread and thick-cut fries. No substitutes allowed.
+</div>

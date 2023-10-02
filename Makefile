@@ -68,6 +68,11 @@ themes:
 
 markdowns: $(MARKDOWNS)
 
+docs: $(DOCS)
+
+check:
+	@ls -l $(PAGES)
+
 $(DOCS): $(TEMP)/%.docx: $(PAGES_ROOT)/%.pages pages-export pages-export.as
 	@[[ -d $(TEMP) ]] || mkdir -p $(TEMP)
 	./pages-export "$<" "$@"

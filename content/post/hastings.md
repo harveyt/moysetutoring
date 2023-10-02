@@ -57,22 +57,22 @@ each dot is slightly misshapen, and none are the same. A bit like snowflakes, I 
 days in Hastings mostly on the beach, or walking along the esplanade. Sometimes we take a detour
 along Bottle Alley: a walkway underneath the main promenade that is lined with panels of pieces of
 coloured broken glass stuck into concrete. Sometimes we browse
-in the tourist shops along the
-seafront; there is one shop that we return to year after year. I peer into the window, watching the
-glass-maker at work. He forms tiny beasties by heating rods of different coloured glass, producing
-ark-fulls of animals: turtles and angelfish, rabbits and swans. I have a favourite: an octopus, a
-blue, luminous creature with fragile spaghetti legs and startled, googly eyes. At home I have him
-sing along and do the actions with me, "Swimming, swimming, in a swimming hole..." Sometimes we walk
-to the end of the town to the fishermen's huts and boats. There are tall, black fishing net huts
-here that tower above the beach like a rows of black-frocked guardsmen. There's a smell that
-pervades this narrow wedge of the town: a mixture of fish, seaweed and oil that seeps out of the
-brick and wood. We scrabble over the drifts of cobble stones to reach the fresh fish stands. Mum
-likes to buy fresh fish here: cod, sole and plaice, and prepare it back at the flat for supper.
-Fresh fish and vegetables, because we are not one of those fish-and-chips-bread-and-jam families. We
-have our meals at the table, with a table cloth and napkins, wedding-present cutlery and somewhat
-battered table mats. We have salt and vinegar, but not tomato ketchup. Our meals have strict rules
-of behaviour that are always enforced: "Get your elbows off the table!" "Put your knife and fork
-down - are you conducting an orchestra?" I pick through my food, eyes down, looking out for
+in the
+tourist shops along the seafront; there is one shop that we return to year after year. I peer into
+the window, watching the glass-maker at work. He forms tiny beasties by heating rods of different
+coloured glass, producing ark-fulls of animals: turtles and angelfish, rabbits and swans. I have a
+favourite: an octopus, a blue, luminous creature with fragile spaghetti legs and startled, googly
+eyes. At home I have him sing along and do the actions with me, "Swimming, swimming, in a swimming
+hole..." Sometimes we walk to the end of the town to the fishermen's huts and boats. There are tall,
+black fishing net huts here that tower above the beach like a rows of black-frocked guardsmen.
+There's a smell that pervades this narrow wedge of the town: a mixture of fish, seaweed and oil that
+seeps out of the brick and wood. We scrabble over the drifts of cobble stones to reach the fresh
+fish stands. Mum likes to buy fresh fish here: cod, sole and plaice, and prepare it back at the flat
+for supper. Fresh fish and vegetables, because we are not one of those fish-and-chips-bread-and-jam
+families. We have our meals at the table, with a table cloth and napkins, wedding-present cutlery
+and somewhat battered table mats. We have salt and vinegar, but not tomato ketchup. Our meals have
+strict rules of behaviour that are always enforced: "Get your elbows off the table!" "Put your knife
+and fork down - are you conducting an orchestra?" I pick through my food, eyes down, looking out for
 needle-like bones. Every scrap is eaten up; guilt and fear drive me to push down the flaky fish and
 stringy beans.
 

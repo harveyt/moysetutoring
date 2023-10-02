@@ -1,4 +1,4 @@
-#!/usr/bin/python2
+#!/usr/bin/python
 import sys
 import re
 
@@ -110,6 +110,8 @@ class Doc:
             return [""]
         if process_coda and len(result) == 1 and result[0] == "\342\235\246":
             return ['<p style="text-align: center;">', "\342\235\246", '</p>']
+        if process_coda and len(result) == 1 and result[0] == "❦":
+            return ['<p style="text-align: center;">', "❦", '</p>']
         if start_with_newline and len(result) > 0:
             result.insert(0, '')
         return result
@@ -169,6 +171,9 @@ class Doc:
         self.remove_double_empty_lines()
         self.fix_typographics()
         self.write()
+
+# Ensure utf-8 input
+sys.stdin.reconfigure(encoding='utf-8')
 
 d = Doc()
 d.process()

@@ -17,13 +17,13 @@ church hall.
 
 I quite like my Brownie uniform: brown dress, brown beret and yellow cross-over tie. I go on my own
 now, since my sisters have both progressed up to Guides. Besides, I am now seven, and perfectly
-capable of making the fifteen minute walk by myself. I<span dir="rtl">'</span>m glad of it. I<span
-dir="rtl">'</span>m getting tired of my sisters<span dir="rtl">'</span> practical jokes at my
+capable of making the fifteen minute walk by myself. I<span dir="rtl">'</span>m glad of it.
+I<span dir="rtl">'</span>m getting tired of my sisters<span dir="rtl">'</span> practical jokes at my
 expense; the latest prank requires me to retrieve my beret from the garden of a house on the way to
 Brownies. It is named <span dir="rtl">"</span>Berry Bank", so my sister flung my beret over the
-fence, insisting that<span dir="rtl">'</span>s where berets went: <span
-dir="rtl">"</span>Berry-beret, berry-beret--- ha! ha!" It is wearisome, and not at all funny, and
-I<span dir="rtl">'</span>m happy to be walking alone.
+fence, insisting that<span dir="rtl">'</span>s where berets went:
+<span dir="rtl">"</span>Berry-beret, berry-beret--- ha! ha!" It is wearisome, and not at all funny,
+and I<span dir="rtl">'</span>m happy to be walking alone.
 
 There is only one busy road to cross, by the pub: "Look right, look left, look right again, all
 clear? Quick march!" Having been a Brownie for a year or so, I'm starting to collect triangular
@@ -46,16 +46,16 @@ faces. I am looking forward to the baked potatoes and treacle toffee.
 We all line up, shuffling and giggling; Brown Owl and Snowy Owl are judges, walking up and down to
 choose the winner and runner-up. My mum has come up with a slightly different take on the tramp
 theme: she has sewn little patches of material from the rag-bag all over my uniform, just loosely so
-that they can be easily unpicked later. (And they are.) I am supposed to be a <span
-dir="rtl">"</span>Brownie Tramp" but that explanation doesn\'t seem to convince anyone, least of all
-me. I get blank looks and wrinkled brows. The girl who wins really does look like a tramp: grubby
-and disheveled, she has glasses and mousy hair, and wears a brown coat, like the grocer's. In her
-pocket, she has an old tobacco tin containing several cigarette ends that make me feel a bit queasy.
-She shuffles about looking cold and hunched. I stand around feeling awkward and out of place,
-wishing that my mother had been less creative and that I had not gone along with her idea. I wish I
-looked like all the other little girls, wearing tattered clothes and having a little dirt rubbed in
-their cheeks. At the end of the evening everything is tidied away, and we join hands in a circle and
-sing our final song:
+that they can be easily unpicked later. (And they are.) I am supposed to be a
+<span dir="rtl">"</span>Brownie Tramp" but that explanation doesn\'t seem to convince anyone, least
+of all me. I get blank looks and wrinkled brows. The girl who wins really does look like a tramp:
+grubby and disheveled, she has glasses and mousy hair, and wears a brown coat, like the grocer's. In
+her pocket, she has an old tobacco tin containing several cigarette ends that make me feel a bit
+queasy. She shuffles about looking cold and hunched. I stand around feeling awkward and out of
+place, wishing that my mother had been less creative and that I had not gone along with her idea. I
+wish I looked like all the other little girls, wearing tattered clothes and having a little dirt
+rubbed in their cheeks. At the end of the evening everything is tidied away, and we join hands in a
+circle and sing our final song:
 
 Oh Lord, our God  
 Thy children call  

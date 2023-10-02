@@ -72,11 +72,11 @@ adult life, making a bit of "pin money" (as her husband calls it) to make the ho
 stretch a bit further. Her mother always disapproved of this, believing that Daphne's husband should
 have been the sole breadwinner. She also disapproved of the little extras (not much more than a new
 handbag or lipstick) that Daphne bought with her earnings, considering such purchases to be
-frippery. At teatime at the department store (always at three o'clock) Daphne<span
-dir="rtl">'</span>s coworkers often remark, <span dir="rtl">"</span>Doesn't time fly? Where did all
-the years go?" as they chat about how their children have grown and moved on. But Daphne knows
-exactly where the time has gone. It<span dir="rtl">'</span>s been year after humdrum year taking
-care of her husband and her home.
+frippery. At teatime at the department store (always at three o'clock)
+Daphne<span dir="rtl">'</span>s coworkers often remark, <span dir="rtl">"</span>Doesn't time fly?
+Where did all the years go?" as they chat about how their children have grown and moved on. But
+Daphne knows exactly where the time has gone. It<span dir="rtl">'</span>s been year after humdrum
+year taking care of her husband and her home.
 
 Daphne looks at her hands again, and thinks of all the hundreds of times she has washed and dried
 and put away the same plates and cups. She looks around at the familiar dining-room.The four,

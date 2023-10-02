@@ -38,7 +38,7 @@ pandoc $input \
        --wrap=auto --columns=100 \
        -o $body_pre
 
-python2 $root/doc-to-md.py <$body_pre >$body
+python $root/doc-to-md.py <$body_pre >$body
 
 cat $header $body > $output
 

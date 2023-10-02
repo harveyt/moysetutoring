@@ -117,7 +117,7 @@ increasingly exasperated.
 It's the end of June, and England has been out of lockdown for a week or two: shops have started to
 open up, and families have been able to get together. Rose and her husband, Chris, have stayed
 hunkered down for the last three months: they meet up (at that magic 6 feet apart) with their
-neighbours, but only go out to *Tesco* to pick up groceries or other essentials. Rose has continued
+neighbours, but only go out to Tesco to pick up groceries or other essentials. Rose has continued
 working part-time for a hospice, where the stresses and strains of taking care of patients and their
 families has been hard to deal with at times. Rose's job is to be the point of contact for families
 and friends of folk who are receiving end-of-life care. It's a tough job at the best of times, but
@@ -346,7 +346,7 @@ has dropped off some tomatoes, and I think I'll make a soup."
 
 "No problem - I'll drop by at about four-o'clock - is that alright?"
 
-"Perfectly. See you then."
+"Perfect. See you then."
 
 "See you soon." She hangs up.
 

@@ -16,17 +16,17 @@ opposite the blue door. Absorbed in her thoughts, she chews the end of her penci
 </p>
 
 Her desk is next to a large locked cupboard, that holds teacher bits and pieces and extra reading
-books. Mrs. H--- is unnerving. Clearly, I have done something to annoy her, but I don<span
-dir="rtl">'</span>t know what, but I am six years old, so adults are a mystery. Her mouth makes an
-ugly turn down when she speaks to me. I know I have erred in some way, but I have not been informed
-of my mistake and I cannot put it right. Mrs. H--- has favourites. Sadly, I am not in this happy
-band and I resent the ones who are petted and praised. I am not approved of, not gathered into her
-wiry, red-woollen arms. I sit on my own at a desk for two until a new girl joins our class. She<span
-dir="rtl">'</span>s casually spiteful, and throws my school-issued pack of coloured pencils behind
-the teacher<span dir="rtl">'</span>s cupboard. I have no idea what to do: rendered mute, immobile. I
-cannot think of the words to explain what has happened, and don<span dir="rtl">'</span>t know how to
-get my pencils back. I do my best to explain my predicament to Mrs. H---, but my account does not
-make any sense to her and she dismisses me with a flick of her wrist.
+books. Mrs. H--- is unnerving. Clearly, I have done something to annoy her, but I
+don<span dir="rtl">'</span>t know what, but I am six years old, so adults are a mystery. Her mouth
+makes an ugly turn down when she speaks to me. I know I have erred in some way, but I have not been
+informed of my mistake and I cannot put it right. Mrs. H--- has favourites. Sadly, I am not in this
+happy band and I resent the ones who are petted and praised. I am not approved of, not gathered into
+her wiry, red-woollen arms. I sit on my own at a desk for two until a new girl joins our class.
+She<span dir="rtl">'</span>s casually spiteful, and throws my school-issued pack of coloured pencils
+behind the teacher<span dir="rtl">'</span>s cupboard. I have no idea what to do: rendered mute,
+immobile. I cannot think of the words to explain what has happened, and don<span dir="rtl">'</span>t
+know how to get my pencils back. I do my best to explain my predicament to Mrs. H---, but my account
+does not make any sense to her and she dismisses me with a flick of her wrist.
 
 Numbers and words scrape and scratch their way across the blackboard in dusty chalk, but I can make
 little sense of them. I beaver away in my exercise book: the cover is blue; the top half of page
@@ -44,8 +44,8 @@ analysis. I<span dir="rtl">'</span>m pleased with my small victory.
 
 My mother provides me with homemade clothes for school: the regulation red-and-white striped summer
 dresses are created at the dining room table with an old Singer machine. She likes to make us
-matching Victorian bloomers using the same material. She believes them to be charming, but I<span
-dir="rtl">'</span>m humiliated, and want to have normal knickers from Marks and Spencer like
+matching Victorian bloomers using the same material. She believes them to be charming, but
+I<span dir="rtl">'</span>m humiliated, and want to have normal knickers from Marks and Spencer like
 everyone else. We have regulation navy knickers and white vests for PE: one week I forget to bring
 mine, and have to do PE in my ridiculous bloomers. I hike them up as best I can, but they, of
 course, get attention, and I blush and squirm my way through thirty dreadful minutes of pretending
@@ -53,8 +53,8 @@ to be a tree in the wind and a bird hopping between branches.
 
 The school year goes past in a colourless monotony. Days are tediously predictable:
 assembly-class-break-class-dinner-class-home. I like school lunches. We have good-natured dinner
-ladies, who prepare tasty meals. I especially like the lady who serves the salad. <span
-dir="rtl">"</span>Beetroot?" she always asks. Lunch breaks are made easier by my sweet friend,
+ladies, who prepare tasty meals. I especially like the lady who serves the salad.
+<span dir="rtl">"</span>Beetroot?" she always asks. Lunch breaks are made easier by my sweet friend,
 J---, who is from another form. We spend our time performing pretend weather forecasts in front of
 a blue door, where the paint has peeled to roughly the shape of the British Isles.
 
@@ -79,17 +79,17 @@ patch sewn on to my swimming costume to prove it. Somehow, suddenly, both of my 
 swim over the top of groyne and fell in the other side, where the water was much deeper. Although
 they could have swum back, they panicked, and my dad had to rescue them both. It happened in a
 moment. Watching from the water<span dir="rtl">'</span>s edge, I had been astounded by how quickly
-this was over and done. I stood with my mouth open, reflecting later to my sisters that I was <span
-dir="rtl">"</span>amazed." My mother mis-heard this, and, as she related the story to friends and
-family, she quoted me as saying, <span dir="rtl">"</span>I was mazed." I said nothing of the sort,
-but grinned along, since it got me attention for being cute --- a novelty for me.
+this was over and done. I stood with my mouth open, reflecting later to my sisters that I was
+<span dir="rtl">"</span>amazed." My mother mis-heard this, and, as she related the story to friends
+and family, she quoted me as saying, <span dir="rtl">"</span>I was mazed." I said nothing of the
+sort, but grinned along, since it got me attention for being cute --- a novelty for me.
 
 I try this new trick with Mrs. H---, hoping it will elicit the same affectionate smiles. Carefully,
 I draw the incident with stick figures and coloured pencils, and write a few sentences ending with,
 <span dir="rtl">"</span>I was mazed." I hope that this will mean that Mrs. H--- will look on me more
 kindly, perhaps give me one of her coveted gold stars. But I am mistaken. My exercise book comes
-back, corrected, with a red biro <span dir="rtl">"</span>a" in front of the <span
-dir="rtl">"</span>mazed".
+back, corrected, with a red biro <span dir="rtl">"</span>a" in front of the
+<span dir="rtl">"</span>mazed".
 <p style="text-align: center;">
 ❦
 </p>
