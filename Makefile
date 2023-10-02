@@ -60,10 +60,10 @@ ARTICLES = \
 	Jan \
 	Joan \
 	Mimi \
-	Petunia
+	Petunia \
+	ThereWasAMan \
+	ThereWasAManToo
 
-# There was a man
-# There was a man too
 # Why do you
 
 # fur-coat
