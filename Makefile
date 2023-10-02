@@ -62,9 +62,8 @@ ARTICLES = \
 	Mimi \
 	Petunia \
 	ThereWasAMan \
-	ThereWasAManToo
-
-# Why do you
+	ThereWasAManToo \
+	WhyDoYou
 
 # fur-coat
 

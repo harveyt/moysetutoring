@@ -1,6 +1,6 @@
 ---
 date: "2023-03-01T13:00:00-08:00"
-title: "There Was A Man"
+title: "There Was A Man Too"
 description: "There was man who was, at first, busy"
 keywords:
 kind: "poem"
