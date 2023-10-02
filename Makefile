@@ -8,6 +8,14 @@ TEMP = temp
 .NOTPARALLEL:
 
 ARTICLES = \
+	Alison \
+	Andrew \
+	David \
+	Jack \
+	Laura \
+	Naja82 \
+	Selfridges \
+	WellingtonRoad \
 	alex \
 	aquarius \
 	arithmetic \
@@ -39,15 +47,7 @@ ARTICLES = \
 	ronald \
 	shelter \
 	syn \
-	tom \
-	Naja82 \
-	Jack \
-	WellingtonRoad \
-	David \
-	Andrew \
-	Alison \
-	Laura \
-	Selfridges
+	tom
 
 # fur-coat
 
