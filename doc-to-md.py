@@ -81,8 +81,19 @@ class Doc:
             result.append('{}  '.format(line))
         return result
 
+    def _filter_poetry_indent_block(self, lines):
+        result = []
+        for line in lines:
+            line = line.strip()
+            if line == "":
+                continue
+            result.append('&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*{}*  '.format(line))
+        return result
+    
     def filter_poetry(self):
         self.process_div("Poetry", self._filter_poetry_block,
+                         drop_empty_lines=True)
+        self.process_div("Poetry Indent", self._filter_poetry_indent_block,
                          drop_empty_lines=True)
 
     def _remove_div_heading(self, lines):
