@@ -58,9 +58,9 @@ ARTICLES = \
 	HarveysPoem \
 	IWillNot \
 	Jan \
-	Joan
+	Joan \
+	Mimi
 
-# Mimi
 # Petunia
 # There was a man
 # There was a man too
