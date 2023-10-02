@@ -54,9 +54,9 @@ ARTICLES = \
 	Conversation \
 	Coronation \
 	Finish \
-	GiveMe
+	GiveMe \
+	HarveysPoem
 
-# Harvey's poem
 # I will not
 # Jan
 # Joan
