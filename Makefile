@@ -51,11 +51,9 @@ TEMP = temp
 
 ARTICLES = \
 	Awareness \
-	Conversation
+	Conversation \
+	Coronation
 
-# Coversation
-# Coronation
-# Evie
 # Finish - there is a child
 # Give Me
 # Harvey's poem
