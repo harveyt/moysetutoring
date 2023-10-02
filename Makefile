@@ -56,9 +56,9 @@ ARTICLES = \
 	Finish \
 	GiveMe \
 	HarveysPoem \
-	IWillNot
+	IWillNot \
+	Jan
 
-# Jan
 # Joan
 # Mimi
 # Petunia
