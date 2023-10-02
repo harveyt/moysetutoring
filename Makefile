@@ -55,9 +55,9 @@ ARTICLES = \
 	Coronation \
 	Finish \
 	GiveMe \
-	HarveysPoem
+	HarveysPoem \
+	IWillNot
 
-# I will not
 # Jan
 # Joan
 # Mimi
