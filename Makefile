@@ -53,11 +53,9 @@ ARTICLES = \
 	Awareness \
 	Conversation \
 	Coronation \
-	Finish
+	Finish \
+	GiveMe
 
-# Evie
-# Finish - there is a child
-# Give Me
 # Harvey's poem
 # I will not
 # Jan
@@ -70,9 +68,10 @@ ARTICLES = \
 
 # fur-coat
 
+## Evie
+
 ## Christmas - work on
 
-##
 ## Alice
 ## Alone
 ## Bus notes
