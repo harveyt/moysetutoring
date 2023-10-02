@@ -87,7 +87,9 @@ class Doc:
             line = line.strip()
             if line == "":
                 continue
-            result.append('&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*{}*  '.format(line))
+            if not line.startswith('*'):
+                line = '*' + line + '*'
+            result.append('&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{}  '.format(line))
         return result
     
     def filter_poetry(self):
