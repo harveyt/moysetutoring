@@ -59,9 +59,9 @@ ARTICLES = \
 	IWillNot \
 	Jan \
 	Joan \
-	Mimi
+	Mimi \
+	Petunia
 
-# Petunia
 # There was a man
 # There was a man too
 # Why do you
