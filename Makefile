@@ -57,9 +57,9 @@ ARTICLES = \
 	GiveMe \
 	HarveysPoem \
 	IWillNot \
-	Jan
+	Jan \
+	Joan
 
-# Joan
 # Mimi
 # Petunia
 # There was a man
