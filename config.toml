@@ -1,4 +1,4 @@
-baseurl = "http://www.moysetutoring.ca/"
+baseurl = "https://www.moysetutoring.ca/"
 languageCode = "en-us"
 title = "Moyse Tutoring"
 theme = "hugo-strata-theme"
@@ -13,7 +13,8 @@ unsafe = true
 	description = "Moyse Tutoring at Kitsalno, Vancouver, BC, Canada."
 
 	# Enable Google Analytics by inserting your tracking code
-	googleAnalytics = "UA-71830715-1"
+	# googleAnalytics = "UA-71830715-1"
+	googleAnalytics = ""
 
 
 	[params.sidebar]
@@ -79,7 +80,7 @@ unsafe = true
 
 	[params.contact]
 		title = "Get In Touch"
-		content = "Feel free ask questions by email, phone or sending a message."
+		content = "Feel free to ask questions by email, phone or sending a message."
 
 		# address = [
 		# 	"211 - 2628 Granville Street",
