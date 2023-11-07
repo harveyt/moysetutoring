@@ -23,8 +23,7 @@ weekly news stories, but my spelling is not great, and my writing style is errat
 off when I write, and my pencilmanship follows suit. Mrs. P--- has pupils that she clearly likes,
 and several that she really does not care for. I think I am in the latter group. Most of the time I
 shrug off her sarky comments and snippy scolding. However, one
-day<img src="media/image1.jpeg" style="width:3.07129in;height:4.47009in"
-alt="fullsizeoutput_17a6.jpeg" />, I feel that she has been overly harsh with her marking.
+day, I feel that she has been overly harsh with her marking.
 She<span dir="rtl">'</span>s given me a miserly six out of ten for a piece that I spent a lot of
 time on, and I want to protest. She has written, <span dir="rtl">"</span>What has happened to your
 writing?" at the end of my work. After class, I get in the queue at her desk to register my
